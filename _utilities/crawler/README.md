@@ -1,0 +1,2 @@
+# Utilities:
+This python script and testing is to parse through directories. Given a website download, each folder (directory) is then just equal to the URL. The output can then be used to visualize resource endpoints for a website.

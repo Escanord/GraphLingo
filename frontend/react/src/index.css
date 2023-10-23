@@ -1,0 +1,42 @@
+:root{
+  --light-blue: #3168a6;
+  --cwru-blue: #0a304e;
+  --red: #d63d1f;
+  --orange:#f27422;
+}
+
+html{
+  height: 100%;
+  font-family: 'DepotNew', sans-serif;
+}
+
+textarea{
+  font-family: 'DepotNew', sans-serif;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+}
+
+#root{
+  height: 100%;
+}
+
+/* UNIVERSAL STYLES */
+
+/* SHOULD EVENTUALLY PUT IN COMPONENT */
+.cwru-button{
+  display: inline-block;
+  user-select: none;
+  /* margin: 5px; */
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 3px 5px;
+  background-color: var(--light-blue);
+  transition: background-color .2s ease;
+}
+
+.cwru-button:hover{
+  background-color: var(--orange);
+}

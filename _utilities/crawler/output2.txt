@@ -1,0 +1,7 @@
+testing/
+|-- second/
+|   \-- something.html
+\-- the/
+    |-- crawler/
+    |   \-- about.html
+

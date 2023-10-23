@@ -1,0 +1,11 @@
+.main-response > p{
+  /* margin-top: 0px; */
+  /* margin-bottom: 10px; */
+}
+
+.individual-response {
+  margin: 10px 0px;
+}
+hr {
+  width: 50%;
+}

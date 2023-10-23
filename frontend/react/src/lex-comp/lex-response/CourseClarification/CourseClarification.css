@@ -1,0 +1,17 @@
+.clarification-list{
+  margin: 10px 0px;
+}
+
+.course-option{
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  display: inline-block;
+  padding: 3px 5px;
+  background-color: var(--light-blue);
+  transition: background-color .05s ease-in;
+}
+
+.course-option:hover{
+  background-color: var(--orange);
+}

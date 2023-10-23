@@ -1,0 +1,19 @@
+.lex-url{
+  text-decoration: underline;
+  cursor: pointer;
+  color: white;
+  transition: color .1s ease-in;
+}
+
+.lex-url:hover{
+  color: var(--orange)
+}
+
+ol, ul {
+  margin: 5px 0px;
+  padding-left: 30px;
+}
+
+.url-list{
+  margin: 5px;
+}

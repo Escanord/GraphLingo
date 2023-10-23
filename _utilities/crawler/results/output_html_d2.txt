@@ -1,0 +1,1215 @@
+case.edu/
+\-- _/
+    |-- body__/
+|-- about/
+|   \-- history/
+|   |-- mission-vision-values/
+|   |-- notable-alumni/
+|   |-- rankings/
+|-- academic-careers/
+|   |-- sites/
+|-- academicaffairs/
+|   |-- about-lynn-t-singer/
+|   \-- about-office/
+|   |-- academic-affairs/
+|   |-- awards-recognition/
+|   |-- faculty-affairs/
+|   |-- sites/
+|-- academics/
+|-- access-services/
+|   |-- case1card/
+|   |-- id-cards/
+|   |-- parking/
+|   |-- shuttles/
+|   |-- sites/
+|   |-- transportation/
+|-- accessibility/
+|   |-- documents-media/
+|   |-- online-communications/
+|   |-- sites/
+|   |-- what-accessibility/
+|-- aces/
+|   |-- about/
+|   |-- grants/
+|   |-- lectureships/
+|   |-- retreat/
+|   |-- sites/
+|   |-- undergraduate-research/
+|-- administration/
+|   |-- cpfm/
+|-- admission/
+|   |-- academics/
+|   |-- apply/
+|   |-- campus-life/
+|   |-- features/
+|   |-- go.case.edu/
+|   |-- nursing/
+|   |-- sites/
+|   |-- tuition-aid/
+|   |-- visits-events/
+|-- admissions/
+|   |-- graduate-professional/
+|   |-- undergraduate/
+|-- advancementservices/
+|   |-- about/
+|   |-- policies-and-procedures/
+|   |-- requests/
+|   |-- services/
+|   |-- sites/
+|   |-- training/
+|-- advancingtogether/
+|   |-- community/
+|   |-- financials/
+|   |-- innovation/
+|   |-- page-data/
+|   |-- presidents-letter/
+|   |-- research/
+|   |-- static/
+|   |-- university-trustees-and-leadership/
+|-- affil/
+|   |-- cmla/
+|   \-- tbru/
+|   |-- tibet/
+|-- alumni/
+|   |-- about/
+|   |-- alumni/
+|   |-- engage/
+|   |-- events/
+|   |-- news-perks/
+|   |-- perks/
+|   |-- resources/
+|   |-- sites/
+|   |-- stay-involved/
+|   |-- volunteer/
+|-- alumni-resources/
+|-- alumnicenter/
+|   |-- about/
+|   |-- rooms/
+|   |-- sites/
+|-- annualgiving/
+|   |-- get-involved/
+|   |-- how-give/
+|   |-- how-to-give/
+|   |-- sites/
+|   |-- where-give/
+|   |-- why-give/
+|-- annualreport/
+|   |-- stage/
+|-- apn/
+|-- artsci/
+|   |-- bakernord/
+|   \-- chf/
+|   |-- cosi/
+|   |-- elf/
+|   |-- evolutionarybiology/
+|   |-- hlab/
+|   |-- militaryethics/
+|   |-- music/
+|   |-- writing/
+|-- asmentioned/
+|-- assessment/
+|   |-- about/
+|   |-- committees/
+|   |-- resources/
+|   |-- sites/
+|-- assets/
+|   |-- global/
+|-- auditservices/
+|   |-- about/
+|   |-- policies-procedures/
+|   |-- reporting-fraud-integrity-hotline/
+|   |-- sites/
+|-- autism/
+|   |-- about/
+|   \-- about-autism-spectrum-disorders-asd/
+|   |-- community-and-collaboration/
+|   |-- events/
+|   |-- grants-and-research/
+|   |-- kids-first/
+|   |-- news/
+|   |-- research-presentations/
+|   |-- researchers/
+|   |-- sites/
+|-- biggerpicture/
+|   |-- pdf/
+|-- biographies/
+|   |-- media/
+|-- bot/
+|   |-- about-board/
+|   |-- sites/
+|-- bulletin/
+|-- business-continuity/
+|-- campus-life/
+|   |-- athletics/
+|   \-- health-and-safety/
+|   |-- our-location/
+|   |-- visit/
+|-- campuslife/
+|-- campusplanning/
+|-- campusservices/
+|   |-- about-our-departments/
+|   |-- sites/
+|-- centerforebp/
+|-- centerforwomen/
+|   |-- about/
+|   \-- about-center/
+|   |-- events/
+|   |-- media/
+|   |-- programs/
+|   |-- research/
+|   |-- resources/
+|   |-- sites/
+|   |-- wiser/
+|-- centers/
+|-- cghd/
+|-- charitychoice/
+|   |-- sites/
+|-- chsl/
+|   |-- library/
+|-- chslibrary/
+|   |-- about-us/
+|   |-- our-locations/
+|   |-- sites/
+|   |-- user-services/
+|-- cm2ost/
+|   |-- sites/
+|-- commencement/
+|   |-- ceremonies/
+|   |-- faculty-leaders/
+|   |-- faculty-leaders-volunteers/
+|   |-- guests/
+|   |-- schedule-ceremonies/
+|   |-- sites/
+|   |-- speakers-honorees/
+|   |-- students/
+|   |-- updates/
+|-- community/
+|-- communityhealth/
+|   |-- about/
+|   |-- covid-19-models/
+|   |-- news/
+|   |-- research/
+|   |-- resources/
+|-- compliance/
+|   |-- about/
+|   |-- sites/
+|-- connection/
+|   |-- _img/
+|   |-- fonts/
+|   |-- img/
+|   |-- pdf/
+|-- controller/
+|   |-- accounting/
+|   |-- cashier/
+|   |-- credit-card-processing/
+|   |-- media/
+|   |-- quikpay/
+|   |-- resources/
+|   |-- sites/
+|-- corporate/
+|   |-- about/
+|   |-- recruit-talent/
+|-- covid19/
+|   \-- covid-19-communications/
+|   |-- health-safety/
+|   |-- sites/
+|   |-- student-resources/
+|   |-- university-communications/
+|   |-- working-learning-campus/
+|-- cpfm/
+|   |-- facilities/
+|-- cps/
+|   |-- about-us/
+|   |-- business-solutions/
+|   |-- deep-learning-artificial-intelligence/
+|   |-- digital-career-certificates/
+|   |-- digital-skills-boot-camps/
+|   |-- digital-skills-programs/
+|   |-- employers/
+|   |-- sites/
+|-- cse/
+|   |-- nec/
+|-- customerservice/
+|   |-- media/
+|   |-- sites/
+|-- cwruheader/
+|-- cwruresearch/
+|   |-- centers-and-institutes/
+|-- datascience/
+|   |-- contact-us/
+|   |-- data-bytes/
+|   |-- faculty/
+|   |-- for-students/
+|   |-- industry/
+|   |-- sites/
+|   |-- students/
+|-- dean/
+|-- dental/
+|   |-- about/
+|   |-- alumni-friends/
+|   |-- departments-programs/
+|   |-- patients-clinics/
+|   |-- periodontics/
+|   |-- prospective-students/
+|   |-- research/
+|   |-- resources/
+|   |-- sites/
+|-- depot/
+|-- deputyprovost/
+|   |-- about-lynn-t-singer/
+|-- dining/
+|   |-- catering/
+|   |-- how-pay/
+|   |-- meal-plans/
+|   |-- news/
+|   |-- sites/
+|   |-- where-eat/
+|   |-- where-to-eat/
+|-- dir/
+|-- diversity/
+|   \-- about/
+|   |-- faculty-and-institutional-diversity/
+|   |-- faculty-staff/
+|   |-- office-for-faculty-diversity/
+|   |-- programs/
+|   |-- sites/
+|   |-- students/
+|   |-- university-policies/
+|-- donorrelations/
+|   \-- contact/
+|   |-- endowment-reporting/
+|   |-- endowments/
+|   |-- resources/
+|   |-- sites/
+|   |-- students/
+|   |-- webform/
+|-- ech/
+|   \-- ar_/
+|   |-- articl_/
+|   |-- article_/
+|   |-- categories/
+|   |-- images/
+|   |-- media/
+|   |-- sites/
+|-- education/
+|-- ehs/
+|   |-- about/
+|   |-- laboratory-safety/
+|   |-- media/
+|   |-- safety-by-subject/
+|   |-- safety-subject/
+|   |-- sites/
+|   |-- training/
+|   |-- waste-disposal/
+|   |-- webform/
+|-- emeriti/
+|-- emeritiacademy/
+|   |-- about/
+|   |-- contact/
+|   |-- events/
+|   |-- sites/
+|-- ems/
+|   |-- about-us/
+|   |-- community/
+|   |-- join/
+|   |-- sites/
+|-- endowment/
+|   |-- pdf/
+|-- engineering/
+|   |-- labs/
+|-- enrollmentmanagement/
+|   \-- contact-us/
+|   |-- memberships-affiliations/
+|   |-- sites/
+|   |-- team-members/
+|-- entrepreneurship/
+|   |-- about/
+|   |-- engage/
+|   |-- entrepreneurship/
+|   |-- launch/
+|   |-- learn/
+|   |-- neo-community/
+|   |-- sites/
+|-- equity/
+|   |-- accommodations/
+|   |-- file-report/
+|   |-- prevention-and-education/
+|   |-- sexual-harassment-title-ix/
+|   |-- sexual-misconduct-title-ix/
+|   |-- sites/
+|   |-- university-policies/
+|   |-- what-is-title-ix/
+|-- erp/
+|   |-- report/
+|-- erpfinancials/
+|   |-- financials-reporting/
+|   |-- manual-guides/
+|   |-- peoplesoft/
+|   |-- sites/
+|-- errors/
+|   \-- stylesheet/
+|-- events/
+|   \-- convocation/
+|   |-- event-planning-resources/
+|   |-- featured-events/
+|   |-- homecoming/
+|   |-- inamori-ethics-prize/
+|   |-- mlk/
+|   |-- sites/
+|   |-- thinkforum/
+|   |-- tobys-plaza/
+|   |-- university-events-calendar/
+|-- executive-order-updates/
+|   \-- docs/
+|-- facilities/
+|   |-- about/
+|   |-- custodial-services/
+|   |-- energy-management/
+|   |-- sites/
+|-- faculty/
+|-- faculty-lifecycle/
+|   \-- faculty-information-system/
+|   |-- sites/
+|-- facultydevelopment/
+|   |-- about/
+|   |-- career/
+|   |-- community/
+|   |-- resources/
+|   |-- sites/
+|-- facultysenate/
+|   \-- about/
+|   |-- conciliation-mediation-program/
+|   |-- handbook--by-laws/
+|   |-- handbook-and-laws/
+|   |-- meetings/
+|   |-- sites/
+|-- farm/
+|   |-- about/
+|   |-- conservation/
+|   |-- education/
+|   |-- facilities/
+|   |-- farm-food-program/
+|   |-- research/
+|   |-- sites/
+|   |-- support-farm/
+|-- film/
+|-- fin/
+|-- finadmin/
+|   |-- controller/
+|   \-- humres/
+|-- finance/
+|   |-- financial-information/
+|   |-- sites/
+|-- financialaid/
+|   |-- about-office/
+|   |-- aboutus/
+|   |-- gradprof/
+|   |-- graduate-students/
+|   |-- myfinancialaid/
+|   |-- resources/
+|   |-- sites/
+|   |-- student-employment/
+|   |-- undergraduate/
+|   |-- undergraduates/
+|-- financialplanning/
+|   |-- capital-projects/
+|-- financials/
+|-- firstyear/
+|   |-- about-office/
+|   |-- first-year-students/
+|   |-- fyi-news/
+|   |-- parents-and-families/
+|   |-- programs-and-resources/
+|   |-- sites/
+|   |-- transfer-students/
+|-- forwardthinking/
+|   |-- emails/
+|   |-- how/
+|   |-- pdf/
+|-- fundforward/
+|-- gcr/
+|   |-- about/
+|   \-- about-office/
+|   |-- community-relations/
+|   |-- sites/
+|-- generalcounsel/
+|   |-- about-us/
+|   |-- commonly-used-forms-policies/
+|   |-- contact-us/
+|   |-- general-counsel-services/
+|   |-- services/
+|   |-- sites/
+|-- genetics/
+|-- gfr/
+|-- give/
+|   |-- president/
+|   |-- sites/
+|-- giving/
+|-- gradstudies/
+|   |-- about-school/
+|   |-- about-the-school/
+|   |-- current-students/
+|   |-- faculty/
+|   |-- faculty-staff/
+|   |-- index.php/
+|   |-- new-students/
+|   |-- prospective-students/
+|   |-- sites/
+|   |-- student-resources/
+|-- gss/
+|   |-- graduatestudents/
+|-- hcm/
+|-- hillel/
+|-- hololens/
+|-- housing/
+|   |-- about/
+|   |-- application-process/
+|   |-- facilities/
+|   |-- policies-and-procedures/
+|   |-- rates-and-dates/
+|   |-- services/
+|   |-- sites/
+|-- hr/
+|   |-- about/
+|   |-- benefits/
+|   |-- careers/
+|   |-- compensation/
+|   |-- faqs/
+|   |-- index.php/
+|   |-- media/
+|   |-- professional-development-center/
+|   |-- programs-services/
+|   |-- sites/
+|   |-- university-policies/
+|   |-- worklife/
+|-- ideal-n/
+|   |-- sites/
+|-- inamori/
+|   |-- ethical-leadership/
+|   |-- ethics-ethical-leadership/
+|   |-- excellence-inamori-ethics-prize/
+|   |-- gels/
+|   |-- inamori-ethics-prize/
+|   |-- initiatives/
+|   |-- justice/
+|   |-- mission/
+|   |-- news/
+|   |-- people/
+|   |-- sites/
+|   |-- support/
+|-- industry/
+|   \-- recruit-talent/
+|   |-- research/
+|-- innovation/
+|-- international/
+|   |-- about/
+|   |-- education-abroad/
+|   |-- events/
+|   |-- global-strategy/
+|   |-- international-student-services/
+|   |-- international-travel/
+|   |-- media/
+|   |-- sites/
+|   |-- students/
+|   |-- studyabroad/
+|   |-- travel/
+|-- investments/
+|-- ipe/
+|   |-- about/
+|   |-- form/
+|   |-- learning-experiences/
+|   |-- news-and-events/
+|   |-- sites/
+|   |-- webform/
+|-- ir/
+|   |-- cwru-facts/
+|   |-- cwru-interactive-factbook/
+|   |-- faculty-honors-and-awards/
+|   |-- sites/
+|   |-- survey-results/
+|-- issacs/
+|   |-- about/
+|   |-- aboutfaculty-staff/
+|   |-- faculty/
+|   |-- facultyfaculty-associates/
+|   |-- media/
+|   |-- partnerships/
+|   |-- services/
+|   |-- sites/
+|   |-- students/
+|   |-- studentscourses-curriculum/
+|-- its/
+|   |-- academic-technology/
+|   \-- new/
+|-- javascripts/
+|   |-- 2014/
+|   \-- FeedEK/
+|-- launchnet/
+|   |-- about/
+|   |-- events-competitions/
+|   |-- sites/
+|-- law/
+|   \-- academics/
+|   |-- admissions/
+|   |-- alumni/
+|   |-- campus-life/
+|   |-- centers-institutes/
+|   |-- employers/
+|   |-- give/
+|   |-- ht_/
+|   |-- index.php/
+|   |-- media/
+|   |-- our-school/
+|   |-- practical-training/
+|   |-- sites/
+|   |-- students/
+|   |-- webform/
+|-- Lectures-Events/
+|   |-- MWPOC2018/
+|-- lgbt/
+|   |-- about/
+|   |-- awards/
+|   |-- groups/
+|   |-- resources/
+|   |-- safe-zone/
+|   |-- signature-programs/
+|   |-- sites/
+|-- library/
+|   \-- about-us/
+|   |-- give/
+|   |-- news/
+|   |-- news-events/
+|   |-- research/
+|   |-- services/
+|   |-- sites/
+|   |-- spaces/
+|   |-- webform/
+|-- lifelonglearning/
+|   |-- about/
+|   |-- courses/
+|   |-- lectures/
+|   |-- lectures-and-events/
+|   |-- media/
+|   |-- remote-learning/
+|   |-- sites/
+|   |-- travel/
+|-- livestream/
+|   \-- cwru-tennis/
+|   |-- mpac1/
+|   |-- sites/
+|-- maltzcenter/
+|   \-- about/
+|   |-- about-center/
+|   |-- about-venue/
+|   |-- events-and-calendar/
+|   |-- giving/
+|   |-- host-event/
+|   |-- plan-your-event/
+|   |-- plan-your-visit/
+|   |-- sites/
+|   |-- support-center/
+|   |-- upcoming-events/
+|   |-- wcs/
+|-- maps/
+|-- markowitz/
+|-- md/
+|-- med/
+|   |-- biochemistry/
+|   \-- BSTP/
+|   |-- id/
+|   |-- medicine/
+|   |-- microbio/
+|   |-- ophthalmology/
+|   |-- rnacenter/
+|-- medbreakthroughs/
+|   |-- about/
+|-- medicine/
+|   |-- about/
+|   |-- admission/
+|   |-- admissions-programs/
+|   |-- alumni/
+|   |-- anatomy/
+|   |-- basch-lab/
+|   |-- biochemistry/
+|   |-- bioethics/
+|   |-- bstp/
+|   |-- caml/
+|   |-- cbhi/
+|   |-- ccir/
+|   |-- ccmsb/
+|   |-- cddrcc/
+|   |-- cghd/
+|   |-- cme/
+|   |-- crsp/
+|   |-- csb/
+|   |-- cscsimcenter/
+|   |-- ctsc/
+|   |-- curriculum/
+|   |-- cvri/
+|   |-- departments-centers/
+|   |-- dhri/
+|   |-- education/
+|   |-- events/
+|   |-- faculty-development-diversity/
+|   |-- faculty-staff/
+|   |-- finance/
+|   |-- genetics/
+|   |-- genomics/
+|   |-- giving/
+|   |-- globalhealth/
+|   |-- grad-education/
+|   |-- healthintegration/
+|   |-- humanities-pathway/
+|   |-- keri-lab/
+|   |-- manor-lab/
+|   |-- md/
+|   |-- media/
+|   |-- medicine/
+|   |-- microbio/
+|   |-- msa-program/
+|   |-- mstp/
+|   |-- ncrm/
+|   |-- neurology/
+|   |-- neurosciences/
+|   |-- neurosurgery/
+|   |-- nutrition/
+|   |-- ophthalmology/
+|   |-- pathology/
+|   |-- phab/
+|   |-- pharmacology/
+|   |-- physician-assistant/
+|   |-- pqhs/
+|   |-- prep/
+|   |-- prime/
+|   |-- qil/
+|   |-- radiation-oncology/
+|   |-- radiology/
+|   |-- reproductive-biology/
+|   |-- research/
+|   |-- rnacenter/
+|   |-- sites/
+|   |-- students/
+|   |-- tbru/
+|   |-- uhsurgery/
+|   |-- urbanhealth/
+|   |-- webform/
+|   |-- wellness-pathway/
+|   |-- world-medicine-pathway/
+|-- mem/
+|   |-- about/
+|   |-- industry-partnerships/
+|   |-- people/
+|   |-- prospective-students/
+|   |-- sites/
+|-- militaryethics/
+|-- mrf/
+|   |-- fonts/
+|-- mstp/
+|   |-- about/
+|   |-- academics/
+|   |-- admissions/
+|   |-- student-life/
+|-- music/
+|-- neurosciences/
+|-- newmeded/
+|-- newstudents/
+|-- noa-agep/
+|   \-- activities/
+|   |-- people/
+|   |-- sites/
+|-- nursing/
+|   |-- about/
+|   |-- admissions/
+|   |-- alumni/
+|   |-- bsn/
+|   |-- community/
+|   |-- faculty-staff/
+|   |-- giving/
+|   |-- media/
+|   |-- mn/
+|   |-- msn/
+|   |-- news/
+|   |-- nurse-leadership-academy/
+|   |-- practical-technology/
+|   |-- programs/
+|   |-- QSEN/
+|   |-- research/
+|   |-- sarah-cole-hirsh-institute/
+|   |-- school-activities/
+|   |-- sites/
+|   |-- students/
+|   |-- ucah/
+|   |-- webform/
+|-- nutrition/
+|-- onetoone/
+|   |-- about-us/
+|   |-- aquatics/
+|   |-- group-exercise-classes/
+|   |-- group-exercise-massage/
+|   |-- media/
+|   |-- memberships/
+|   |-- memberships-guests/
+|   |-- next-level-fitness-studio/
+|   |-- one-one-membership/
+|   |-- personal-training/
+|   |-- sites/
+|   |-- wellness-services/
+|   |-- what-we-offer/
+|-- online-learning/
+|   \-- courses-and-programs/
+|   |-- sites/
+|   |-- state-authorization/
+|   |-- state-authorization-compliance/
+|-- orgs/
+|   |-- cghd/
+|   \-- isf/
+|   |-- psiomega/
+|-- osf/
+|-- packages/
+|-- page-data/
+|   |-- about/
+|   \-- academics/
+|   |-- admissions/
+|   |-- alumni-resources/
+|   |-- campus-life/
+|   |-- cwruresearch/
+|   |-- faculty/
+|   |-- giving/
+|   |-- index/
+|   |-- parents-families/
+|   |-- privacy-statement/
+|   |-- sq/
+|   |-- staff/
+|   |-- students/
+|-- parents/
+|   |-- contact-us/
+|-- parents-families/
+|-- parking/
+|   |-- about/
+|   |-- permits/
+|   |-- regulations/
+|   |-- sites/
+|   |-- transportation/
+|   |-- visitor-parking/
+|-- pathology/
+|   |-- media/
+|-- pdc/
+|-- plannedgiving/
+|-- pointofview/
+|   |-- assets/
+|-- policies/
+|   \-- sites/
+|-- postdoc/
+|   \-- administrators-mentors/
+|   |-- current-postdoctorates/
+|   |-- postdoc-association/
+|   |-- sites/
+|-- postgrad/
+|   |-- about/
+|   |-- alumni/
+|   |-- career-development/
+|   |-- career-developmentcareer-interest-areas/
+|   |-- career-developmentdiversity-career-resources/
+|   |-- career-developmentgraduate-student-career-planning/
+|   |-- career-developmentinterview-prep/
+|   |-- career-developmenttips-job-seekers/
+|   |-- career-developmenttips-job-seekerscorrespondence/
+|   |-- career-developmenttips-job-seekersinterviewing/
+|   |-- career-developmenttips-job-seekersnetworking/
+|   |-- career-developmenttips-job-seekersresumes/
+|   |-- career-education/
+|   |-- career-educationgraduate-student-career-planning/
+|   |-- career-educationtips-job-seekers/
+|   |-- career-educationtips-job-seekerscorrespondence/
+|   |-- career-educationtips-job-seekersinterviewing/
+|   |-- career-educationtips-job-seekersinterviewingbehavior-based-interviewing/
+|   |-- employers/
+|   |-- employersemployer-events/
+|   |-- employersrecruit-and-post-jobs/
+|   |-- events/
+|   |-- eventscareer-fairs/
+|   |-- experiential-education/
+|   |-- experiential-educationpracticum/
+|   |-- experiential-educationstudent-spotlights/
+|   |-- graduate-and-professional-school-planning/
+|   |-- graduate-and-professional-school-planningpre-health-advising/
+|   |-- sites/
+|   |-- webform/
+|-- povertycenter/
+|   |-- media/
+|-- president/
+|   |-- meet-president/
+|   |-- sites/
+|   |-- speeches-statements/
+|-- president-search/
+|   \-- campus-updates/
+|   |-- search-process/
+|   |-- sites/
+|-- presidents-letter/
+|-- printing/
+|   |-- sites/
+|-- privacy-statement/
+|-- procurement/
+|   |-- about-us/
+|   |-- accounts-payable/
+|   |-- diversity-sustainability/
+|   |-- home/
+|   |-- mail-services/
+|   |-- purchasing/
+|   |-- sites/
+|-- programs/
+|   |-- sites/
+|-- projects/
+|   |-- erp/
+|-- provost/
+|   |-- about/
+|   |-- covid-19/
+|   |-- cue/
+|   |-- faculty-academics/
+|   |-- policies-resources/
+|   |-- sites/
+|   |-- strategic-plan-initiatives/
+|-- provostscholars/
+|-- pubaff/
+|   |-- govrel/
+|-- publicsafety/
+|   |-- about/
+|   |-- emergency-preparedness/
+|   |-- police/
+|   |-- reporting/
+|   |-- resources/
+|   |-- safety-campus/
+|   |-- safety-on-campus/
+|   |-- services/
+|   |-- sites/
+|   |-- training/
+|   |-- webform/
+|-- raceandjustice/
+|   |-- events/
+|   |-- resources/
+|   |-- sites/
+|   |-- university-response/
+|   |-- university-statements/
+|-- realestate/
+|   |-- property-management/
+|   |-- residential-rentals/
+|   |-- sites/
+|-- redefining/
+|   |-- fonts/
+|-- registrar/
+|   |-- calendar/
+|   \-- dates-deadlines/
+|   |-- faculty/
+|   |-- faculty-staff/
+|   |-- forms-services/
+|   |-- general/
+|   |-- general-info/
+|   |-- grading-transcripts/
+|   |-- registration/
+|   |-- registration-classes/
+|   |-- sites/
+|   |-- transcript/
+|-- research/
+|   |-- about/
+|   |-- core-facilities/
+|   |-- faculty-staff/
+|   |-- media/
+|   |-- popular-resources/
+|   |-- research-industry/
+|   |-- research-showcase/
+|   |-- research-with-industry/
+|   |-- resources/
+|   |-- showcase/
+|   |-- sites/
+|-- reservations/
+|-- resiliency/
+|   |-- about-us/
+|   |-- cwru-ready/
+|   |-- emergency-preparedness/
+|   |-- get-started/
+|   |-- resources-tools/
+|   |-- sites/
+|-- return-to-campus/
+|-- riskmanagement/
+|   |-- compensation/
+|   |-- docs/
+|   |-- report/
+|   |-- theft/
+|   |-- vehicle/
+|-- rooms/
+|-- sac/
+|   |-- general-council/
+|   |-- media/
+|   |-- news/
+|   |-- sites/
+|   |-- standing-committees/
+|-- schools/
+|-- schubertcenter/
+|   |-- about-us/
+|   |-- education/
+|   |-- event/
+|   |-- events/
+|   |-- news/
+|   |-- past-events/
+|   |-- policy/
+|   |-- publications/
+|   |-- research/
+|   |-- sites/
+|-- search/
+|-- seniorauditprogram/
+|   |-- sites/
+|-- sis/
+|-- socialjustice/
+|   \-- about/
+|   |-- education/
+|   |-- events/
+|   |-- leadership/
+|   |-- leadership-collective/
+|   |-- programs-and-events/
+|   |-- research/
+|   |-- research-fellowships/
+|   |-- sites/
+|-- socialwork/
+|   |-- about/
+|   |-- academics/
+|   |-- admissions/
+|   |-- alumni/
+|   |-- begun/
+|   |-- campus-life/
+|   |-- centerforebp/
+|   |-- communityinnovation/
+|   |-- give/
+|   |-- media/
+|   |-- nimc/
+|   |-- povertycenter/
+|   |-- research/
+|   |-- research-and-training/
+|   |-- research-training/
+|   |-- resources/
+|   |-- resources-alumni/
+|   |-- resources-faculty-staff/
+|   |-- resources-for-faculty-staff/
+|   |-- resources-for-students/
+|   |-- resources-students/
+|   |-- sites/
+|   |-- traumacenter/
+|-- source/
+|   |-- about-source/
+|   |-- find/
+|   |-- find-programs-and-funding/
+|   |-- highlights/
+|   |-- share-your-work/
+|   |-- sites/
+|   |-- start-your-research/
+|-- srhc/
+|-- staff/
+|-- stage/
+|   |-- admissions/
+|   \-- redir/
+|-- static/
+|-- step/
+|   |-- chemistry/
+|   |-- entrepreneurial-biotechnology/
+|   |-- ms-physics-entrepreneurship-track/
+|   |-- sites/
+|-- strategicplan/
+|-- studentaccounts/
+|   |-- 1098t/
+|   \-- billing-payments/
+|   |-- resources/
+|   |-- sites/
+|   |-- tuition-fees/
+|   |-- your-student-account/
+|-- studentlife/
+|   |-- about/
+|   |-- accommodatedtesting/
+|   |-- activities/
+|   |-- civicengagement/
+|   |-- conduct/
+|   |-- dean/
+|   |-- disability/
+|   |-- events/
+|   |-- focus/
+|   |-- graduate/
+|   |-- greek/
+|   |-- healthcounseling/
+|   |-- multicultural/
+|   |-- postgrad/
+|   |-- residence/
+|   |-- services/
+|   |-- sites/
+|   |-- thwing/
+|   |-- university-policies/
+|-- students/
+|-- studentsuccess/
+|   |-- about/
+|   |-- academic-resources/
+|   |-- first-year/
+|   |-- navigators/
+|   |-- news-events/
+|   |-- sites/
+|-- sustainability/
+|   |-- about/
+|   |-- academics/
+|   |-- campus/
+|   |-- climate-action-network/
+|   |-- news/
+|   |-- sites/
+|   |-- what-were-doing/
+|   |-- what-you-can-do/
+|-- swetland/
+|   |-- about/
+|   |-- community/
+|   |-- news-events/
+|   |-- research/
+|   |-- sites/
+|   |-- training/
+|-- think/
+|   |-- connect/
+|   \-- fall2014/
+|   |-- fall2015/
+|   |-- fall2016/
+|   |-- fall2017/
+|   |-- fall2018/
+|   |-- fall2019/
+|   |-- fall2020/
+|   |-- fall2021/
+|   |-- media/
+|   |-- scripts/
+|   |-- spring2014/
+|   |-- spring2016/
+|   |-- spring2018/
+|   |-- spring2019/
+|   |-- spring2021/
+|   |-- springsummer2015/
+|   |-- stylesheets/
+|-- thinkbig/
+|   \-- about/
+|   |-- agora/
+|   |-- media/
+|   |-- news-updates/
+|   |-- sites/
+|   |-- thinkers-group/
+|   |-- ways-engage/
+|-- thinkbox/
+|-- title-ix/
+|   \-- what-is-title-ix/
+|-- tobaccofree/
+|   |-- resources/
+|   |-- sites/
+|-- together/
+|   |-- fonts/
+|   |-- pdf/
+|-- training/
+|   |-- technology-training/
+|   \-- university-policy/
+|-- travel/
+|   |-- faqs/
+|   |-- peoplesoft-te-module/
+|   |-- resources/
+|   |-- sites/
+|   |-- travel/
+|   |-- travel-info/
+|   |-- travel-information/
+|   |-- travel-resources/
+|   |-- visit/
+|   |-- visit-cwru/
+|-- treasurer/
+|   |-- financial-information/
+|   |-- sites/
+|-- ucite/
+|   |-- about/
+|   |-- faculty-productivity/
+|   |-- grants-fellowships/
+|   |-- media/
+|   |-- sites/
+|   |-- ta-training/
+|   |-- teaching-resources/
+|-- ugstudies/
+|   |-- about/
+|   |-- academic-policies/
+|   |-- faculty-and-staff/
+|   |-- honors-fellowships-awards/
+|   |-- pre-professional-programs/
+|   |-- programs-and-requirements/
+|   |-- programs-requirements/
+|   |-- sites/
+|   |-- students/
+|   |-- transfer-guide/
+|-- umc/
+|   |-- about-us/
+|   |-- communications/
+|   |-- marketing/
+|   |-- media/
+|   |-- media-relations/
+|   |-- our-brand/
+|   |-- sites/
+|-- university-trustees-and-leadership/
+|-- universitycenter/
+|   |-- about/
+|   |-- dining/
+|   |-- rooms/
+|   |-- sites/
+|-- universityprofessor/
+|   |-- past-recipients/
+|   |-- sites/
+|-- utech/
+|   \-- about/
+|   |-- academic-technology/
+|   |-- apn/
+|   |-- canvas/
+|   |-- caps/
+|   |-- course-evaluations/
+|   |-- cwru-ready/
+|   |-- departments/
+|   |-- estore/
+|   |-- form/
+|   |-- hcm/
+|   |-- help/
+|   |-- information-security/
+|   |-- international-travel-support/
+|   |-- kba/
+|   |-- lynda/
+|   |-- mediavision/
+|   |-- new/
+|   |-- new-cwru/
+|   |-- peoplesoft-financials/
+|   |-- policies/
+|   |-- research-computing/
+|   |-- resources/
+|   |-- service-catalog/
+|   |-- services/
+|   |-- sis/
+|   |-- sites/
+|   |-- tlt/
+|   |-- unified-communications/
+|   |-- webform/
+|   |-- zoom/
+|-- vaccine/
+|   |-- about-vaccine/
+|   |-- sites/
+|-- visit/
+|-- vote2020/
+|   |-- fonts/
+|-- wcms/
+|   |-- about/
+|   |-- getting-started/
+|   |-- guidelines-resources/
+|   |-- sites/
+|   |-- training-support/
+|-- webdev/
+|   |-- kxo95/
+|-- wellness/
+|   |-- campuswide-resources/
+|   |-- events/
+|   |-- facultystaff/
+|   |-- sites/
+|   |-- wellness/
+|-- whowouldhavethought/
+|   |-- pdf/
+|-- womenintech/
+|-- world-medicine-pathway/
+|   |-- media/
+|-- www.vumc.org/
+|   |-- niddk/
+|-- zoom/

@@ -1,0 +1,10 @@
+neo4j==5.6.0
+pandas==1.5.3
+spacy==3.5.0
+beautifulsoup4==4.11.2
+python_dotenv==1.0.0
+path==16.6.0
+sentence-transformers
+Django
+djangorestframework
+django-cors-headers

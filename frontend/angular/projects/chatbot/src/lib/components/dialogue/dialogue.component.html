@@ -1,0 +1,18 @@
+<!-- Dialogue text -->
+<div class="dialogue {{dialogueType | dialogueClassType}}">
+    <p *ngIf="text; else Projected">
+        {{text}}
+    </p>
+    <ng-template #Projected>
+        <ng-content></ng-content>
+    </ng-template>
+</div>
+<!-- Question suggestions -->
+<ng-container *ngIf="data?.suggestions">
+    <div
+        *ngFor="let suggestion of data?.suggestions; let i = index"
+        class="dialogue suggestion"
+    >
+        <p (click)="selectSuggestion(suggestion)">{{suggestion}}</p>
+    </div>
+</ng-container>

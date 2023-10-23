@@ -1,0 +1,66 @@
+<link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@48,200,1,200" />
+
+<div class="chatbot" [class.cb-maximized]="chatState | isMaximized">
+    <ng-container *ngIf="chatState | isCollapsed; else ChatWindow">
+        <div class="chat-background" (click)="openChat()">
+            <mat-icon class="chat-icon material-symbols-rounded">help</mat-icon>
+        </div>
+    </ng-container>
+</div>
+
+<ng-template #ChatWindow>
+    <div class="chatbot-interaction" [class.cbi-maximized]="chatState | isMaximized">
+        <div class='chatbot-interaction-header'>
+            <mat-icon class="chatbot-clickable material-symbols-rounded chat-button"
+                (click)="toggleChatMaximization()">{{(chatState
+                | isMaximized) ? 'expand_more' : 'expand_less'}}</mat-icon>
+            <mat-icon class="chatbot-clickable material-symbols-rounded chat-button"
+                (click)="toggleChatSettings()">settings</mat-icon>
+            <!-- <div class="spacer chat-button"></div> -->
+            <div class='chatbot-interaction-title'>
+                <span class='title-test'>
+                    GraphLingo
+                </span>
+            </div>
+
+            <mat-icon class="chatbot-clickable material-symbols-rounded chat-button"
+                (click)="chatbotService.reset()">refresh</mat-icon>
+            <mat-icon class="chatbot-clickable material-symbols-rounded chat-button"
+                (click)="closeChat()">close</mat-icon>
+        </div>
+        <div *ngIf="!(settingsState | isCollapsed)" class="explorative-rate">
+            <span>Explorative Rate:</span>
+            <mat-slider [min]="0" [max]="1" [step]=".01" [value]=".5" thumbLabel [(ngModel)]="explorativeRate">
+            </mat-slider>
+        </div>
+        <!-- Chatbot result interaction-->
+        <div class='chatbot-interaction-body'>
+            <!-- Dialogue -->
+            <div #ChatBody class='chatbot-interaction-body-se' [ngClass]="{'cbi-expanded': chatState | isMaximized}">
+                <app-dialogue *ngFor="let dialogue of chatbotService.history" [dialogueType]="dialogue.type"
+                    [text]="dialogue.text" [data]="dialogue.data"
+                    (suggestionSelected)="sendQuery($event, true)"></app-dialogue>
+                <!-- Bot ellipsis -->
+                <app-dialogue *ngIf="botResponding">
+                    <vcs-ellipsis></vcs-ellipsis>
+                </app-dialogue>
+            </div>
+            <!-- Expansion -->
+            <div *ngIf="chatState | isMaximized" class='chatbot-interaction-body-se cbi-expansion'>
+                <charting-graph *ngIf="hasGraph" [edges]="graphEdges" [nodes]="graphNodes"
+                    [height]="1000"></charting-graph>
+            </div>
+        </div>
+        <!-- User type box -->
+        <form class='chatbot-interaction-footer'>
+            <!-- This should really be a component or use angular forms... -->
+            <textarea #UserQueryInput placeholder="Enter your questions here..." class="chatbot-input"
+                (keypress)="monitorKeypresses($event)"></textarea>
+            <mat-icon id="send-button" class="chatbot-clickable chat-button material-symbols-rounded"
+                (click)="sendQuery()">
+                send
+            </mat-icon>
+        </form>
+    </div>
+</ng-template>

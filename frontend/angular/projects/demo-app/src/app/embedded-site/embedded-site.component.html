@@ -1,0 +1,8 @@
+<iframe *ngIf="!silence; else Placeholder" class="cwru-site" src="https://case.edu" title="embedded website"></iframe>
+<ng-template #Placeholder>
+    <div class="cwru-site placeholder">
+        <div
+            class="content"
+        ></div>
+    </div>
+</ng-template>

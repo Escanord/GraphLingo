@@ -1,0 +1,3715 @@
+case.edu/
+|-- _/
+|   \-- body__/
+|-- about/
+|   |-- history/
+|   |-- mission-vision-values/
+|   |-- notable-alumni/
+|   \-- rankings/
+|-- academic-careers/
+|   \-- sites/
+|       \-- case.edu.academic-careers/
+|-- academicaffairs/
+|   |-- about-lynn-t-singer/
+|   |-- about-office/
+|   |-- academic-affairs/
+|   |-- awards-recognition/
+|   |-- faculty-affairs/
+|   \-- sites/
+|       \-- case.edu.deputyprovost/
+|-- academics/
+|-- access-services/
+|   |-- case1card/
+|   |   |-- policies/
+|   |-- id-cards/
+|   |-- parking/
+|   |   \-- parking-lots/
+|   |-- shuttles/
+|   |   \-- safe-ride-program/
+|   |-- sites/
+|   |   \-- case.edu.access-services/
+|   |-- transportation/
+|   |   |-- enterprise-carshare/
+|   |   |-- public-transportation/
+|   |   |-- shuttles/
+|-- accessibility/
+|   |-- documents-media/
+|   |-- online-communications/
+|   |   |-- social-media/
+|   |-- sites/
+|   |   \-- case.edu.accessibility/
+|   |-- what-accessibility/
+|   |   |-- guidelines/
+|-- aces/
+|   |-- about/
+|   |-- grants/
+|   |-- lectureships/
+|   |-- retreat/
+|   |-- sites/
+|   |   \-- case.edu.aces/
+|   |-- undergraduate-research/
+|-- administration/
+|   \-- cpfm/
+|       |-- pdc/
+|       \-- sustainability/
+|-- admission/
+|   |-- academics/
+|   |   |-- areas-study/
+|   |-- apply/
+|   |   |-- application-materials/
+|   |   |-- go.case.edu/
+|   |-- campus-life/
+|   |   |-- our-campus/
+|   |-- features/
+|   |   |-- admission-financial-aid/
+|   |   |-- after-cwru/
+|   |   |-- around-cwru/
+|   |   |-- inside-academics/
+|   |   |-- insta-stories/
+|   |   |-- sites/
+|   |   |   \-- case.edu.features/
+|   |   |-- student-stories/
+|   |   |-- videos/
+|   |-- go.case.edu/
+|   |-- nursing/
+|   |-- sites/
+|   |   \-- case.edu.admission/
+|   |-- tuition-aid/
+|   |-- visits-events/
+|-- admissions/
+|   |-- graduate-professional/
+|   \-- undergraduate/
+|-- advancementservices/
+|   |-- about/
+|   |-- policies-and-procedures/
+|   |   |-- biographical-maintenance-and-gifts-processing/
+|   |   |-- prospecting/
+|   |   |-- technical-services/
+|   |-- requests/
+|   |-- services/
+|   |-- sites/
+|   |   \-- case.edu.advancementservices/
+|   \-- training/
+|       |-- training-manuals-and-documentation/
+|-- advancingtogether/
+|   |-- community/
+|   |-- financials/
+|   |-- innovation/
+|   |-- page-data/
+|   |   |-- community/
+|   |   |-- financials/
+|   |   |-- index/
+|   |   |-- innovation/
+|   |   |-- presidents-letter/
+|   |   |-- research/
+|   |   \-- university-trustees-and-leadership/
+|   |-- presidents-letter/
+|   |-- research/
+|   |-- static/
+|   |-- university-trustees-and-leadership/
+|-- affil/
+|   |-- cmla/
+|   |   |-- graphics/
+|   |   |   \-- newsletter-files/
+|   |-- tbru/
+|   \-- tibet/
+|-- alumni/
+|   |-- about/
+|   |   |-- alumni-awards/
+|   |   |   |-- past-recipients/
+|   |   |-- alumni-awards-recipients/
+|   |   |   |-- past-recipients/
+|   |   |-- alumni-board/
+|   |   |-- awards/
+|   |   |-- contact-us/
+|   |-- alumni/
+|   |   \-- news-perks/
+|   |       \-- alumni-news/
+|   |           \-- alumni-news/
+|   |-- engage/
+|   |   \-- get-involved/
+|   |-- events/
+|   |   |-- calendar/
+|   |-- news-perks/
+|   |   |-- alumni-news/
+|   |   |   \-- www.case.edu/
+|   |   |       \-- livestream/
+|   |   |-- cwru-spotlight-podcast/
+|   |   \-- perks/
+|   |       |-- discounts/
+|   |       \-- resources/
+|   |-- perks/
+|   |   \-- learning--continuous-education/
+|   |-- resources/
+|   |   \-- podcast/
+|   |-- sites/
+|   |   \-- case.edu.alumni/
+|   |-- stay-involved/
+|   |   |-- affinity-groups/
+|   |   |   |-- african-american-alumni-association/
+|   |   |   |-- cwru-pride-lgbt-alumni-network/
+|   |   |   |   |-- lgbt-newsletter/
+|   |   |   |-- latinx-alumni-association/
+|   |   |-- alumni-chapters/
+|   |   |-- alumni-volunteer-opportunities/
+|   \-- volunteer/
+|-- alumni-resources/
+|-- alumnicenter/
+|   |-- about/
+|   |-- rooms/
+|   |   |-- phi-gamma-delta-first-floor/
+|   \-- sites/
+|       \-- case.edu.alumnicenter/
+|-- annualgiving/
+|   |-- get-involved/
+|   |   |-- day-of-giving/
+|   |-- how-give/
+|   |-- how-to-give/
+|   |-- sites/
+|   |   \-- case.edu.annualgiving/
+|   |-- where-give/
+|   |-- why-give/
+|   |   \-- loyalty-society/
+|-- annualreport/
+|   \-- stage/
+|       \-- 2011-2012/
+|           \-- pdf/
+|-- apn/
+|-- artsci/
+|   |-- bakernord/
+|   |   |-- about-us/
+|   |   |   |-- people/
+|   |   |-- endowed-lectures/
+|   |   |-- events/
+|   |   |   |-- case.edu/
+|   |   |   |   \-- livestream/
+|   |   |   |-- current-events/
+|   |   |   |-- past-events/
+|   |   |   |   |-- 2013-2014/
+|   |   |   |   |-- 2014-2015/
+|   |   |   |   |-- 2015-2016/
+|   |   |   |   |-- 2016-2017/
+|   |   |   |   |-- 2017-2018/
+|   |   |   |   |-- 2018-2019/
+|   |   |   |   |-- 2019-2020/
+|   |   |   |   |-- 2020-2021/
+|   |   |-- funding/
+|   |   |   |-- faculty-funding-opportunities/
+|   |   |   |   |-- eirik-borve-fund-foreign-language-instruction/
+|   |   |   |-- ndias.nd.edu/
+|   |   |   |   \-- fellowships/
+|   |   |   |       \-- faculty/
+|   |   |-- news/
+|   |   |-- sites/
+|   |   |   \-- case.edu.bakernord/
+|   |   |-- support-center/
+|   |   |-- undergraduate-humanities-programming/
+|   |-- chf/
+|   |   |-- events/
+|   |   |-- partners/
+|   |   |-- past-humanities-festivals/
+|   |   |-- sites/
+|   |   |   \-- case.edu.chf/
+|   |-- cosi/
+|   |   \-- disorder/
+|   |       \-- documents/
+|   |-- elf/
+|   |   |-- awardees/
+|   |   |-- funds-and-opportunities/
+|   |   |-- how-apply/
+|   |   \-- sites/
+|   |       \-- case.edu.elf/
+|   |-- evolutionarybiology/
+|   |   |-- 2013/
+|   |   |   \-- images/
+|   |   |-- documents/
+|   |   |-- Scripts/
+|   |-- hlab/
+|   |-- militaryethics/
+|   |   |-- about-us/
+|   |   |-- news/
+|   |   |   |-- case.edu/
+|   |   |-- program-overview/
+|   |   |   |-- curriculum/
+|   |   |-- sites/
+|   |   |   \-- case.edu.militaryethics/
+|   |-- music/
+|   |   |-- about/
+|   |   |   |-- facilities/
+|   |   |   |   |-- core-mac-computer-lab/
+|   |   |   |   |-- music-facilities-policies-and-procedures/
+|   |   |   |   |   |-- weddings/
+|   |   |   |   \-- weddings/
+|   |   |   |-- facilities-centers-and-partnerships/
+|   |   |   |   |-- policies-and-procedures/
+|   |   |   |   |-- room-schedules-and-reservations/
+|   |   |   |   \-- room-schedules-reservations/
+|   |   |   |-- people/
+|   |   |   |   |-- faculty/
+|   |   |   |   |-- graduate-student-directory/
+|   |   |   |   |-- staff/
+|   |   |-- academics/
+|   |   |   |-- areas-study/
+|   |   |   |   |-- musicology/
+|   |   |   |-- center-popular-music-studies/
+|   |   |   |   |-- conferences-sponsored-center/
+|   |   |   |-- current-students/
+|   |   |   |   |-- graduate-and-professional-students/
+|   |   |   |   |-- music-minors-or-non-majors/
+|   |   |   |   |-- undergraduate-music-majors/
+|   |   |   |-- graduate-degree-programs/
+|   |   |   |-- new-students/
+|   |   |   |-- undergraduate-degree-programs/
+|   |   |-- admissions/
+|   |   |   |-- graduate/
+|   |   |   |-- undergraduate/
+|   |   |-- alumni/
+|   |   |-- buechele/
+|   |   |   \-- artsci/
+|   |   |-- colloquium/
+|   |   |   \-- spr21/
+|   |   |-- ensembles/
+|   |   |-- ensembles-lessons/
+|   |   |-- general/
+|   |   |   \-- people/
+|   |   |       |-- faculty/
+|   |   |       |-- graduate-student-directory/
+|   |   |       \-- staff/
+|   |   |-- news-and-events/
+|   |   |   |-- colloquia/
+|   |   |   |   \-- past-colloquia/
+|   |   |   |       |-- music-education-and-popular-music-conference-march-28-30/
+|   |   |   |-- news-archive/
+|   |   |-- news-events/
+|   |   |   |-- music-colloquium-series/
+|   |   |   |-- news-archive/
+|   |   |   |-- past-events/
+|   |   |   \-- upcoming-events/
+|   |   |-- sites/
+|   |   |   \-- case.edu.music/
+|   \-- writing/
+|       |-- about/
+|       |   |-- awards/
+|       |   |-- people/
+|       |   |-- reports/
+|       |-- news-events/
+|       |-- resources/
+|       |   |-- resources-faculty/
+|       |   |-- resources-students/
+|       |   |-- writing-center/
+|       |-- sites/
+|       |   \-- case.edu.writing/
+|-- asmentioned/
+|-- assessment/
+|   |-- about/
+|   |-- committees/
+|   |-- resources/
+|   \-- sites/
+|       \-- case.edu.assessment/
+|-- assets/
+|   \-- global/
+|       \-- plugins/
+|-- auditservices/
+|   |-- about/
+|   |-- policies-procedures/
+|   |-- reporting-fraud-integrity-hotline/
+|   \-- sites/
+|       \-- case.edu.auditservices/
+|-- autism/
+|   |-- about/
+|   |-- about-autism-spectrum-disorders-asd/
+|   |-- community-and-collaboration/
+|   |-- events/
+|   |-- grants-and-research/
+|   |   |-- research-interviews/
+|   |   |-- researcher-interviews/
+|   |   \-- researchers/
+|   |-- kids-first/
+|   |-- news/
+|   |-- research-presentations/
+|   |-- researchers/
+|   \-- sites/
+|       \-- case.edu.autism/
+|-- biggerpicture/
+|   \-- pdf/
+|-- biographies/
+|   \-- media/
+|-- bot/
+|   |-- about-board/
+|   \-- sites/
+|       \-- case.edu.bot/
+|-- bulletin/
+|-- business-continuity/
+|-- campus-life/
+|   |-- athletics/
+|   |-- health-and-safety/
+|   |-- our-location/
+|   \-- visit/
+|-- campuslife/
+|-- campusplanning/
+|-- campusservices/
+|   |-- about-our-departments/
+|   \-- sites/
+|       \-- case.edu.campusservices/
+|-- centerforebp/
+|-- centerforwomen/
+|   |-- about/
+|   |   |-- community-advisory-board/
+|   |   |-- student-groups/
+|   |   |   |-- wiser/
+|   |   |   |   |-- about-wiser/
+|   |-- about-center/
+|   |   \-- meet-team/
+|   |-- events/
+|   |-- media/
+|   |-- programs/
+|   |   |-- wfldi/
+|   |   \-- wsldi/
+|   |-- research/
+|   |-- resources/
+|   |-- sites/
+|   |   \-- case.edu.centerforwomen/
+|   \-- wiser/
+|-- centers/
+|-- cghd/
+|-- charitychoice/
+|   \-- sites/
+|       \-- case.edu.charitychoice/
+|-- chsl/
+|   \-- library/
+|-- chslibrary/
+|   |-- about-us/
+|   |-- our-locations/
+|   |-- sites/
+|   |   \-- case.edu.chslibrary/
+|   |-- user-services/
+|-- cm2ost/
+|   \-- sites/
+|       \-- case.edu.cm2ost/
+|-- commencement/
+|   |-- ceremonies/
+|   |   |-- school-of-law/
+|   |-- faculty-leaders/
+|   |-- faculty-leaders-volunteers/
+|   |-- guests/
+|   |-- schedule-ceremonies/
+|   |-- sites/
+|   |   \-- case.edu.commencement/
+|   |-- speakers-honorees/
+|   |   |-- awards-recipients/
+|   |-- students/
+|   |   |-- cap-gown/
+|   |-- updates/
+|-- community/
+|-- communityhealth/
+|   |-- about/
+|   |-- covid-19-models/
+|   |-- news/
+|   |-- research/
+|   |-- resources/
+|-- compliance/
+|   |-- about/
+|   |   |-- export-control/
+|   |   |-- privacy-management/
+|   |-- sites/
+|   |   \-- case.edu.compliance/
+|-- connection/
+|   |-- _img/
+|   |-- fonts/
+|   |-- img/
+|   \-- pdf/
+|-- controller/
+|   |-- accounting/
+|   |   |-- capital-assets-equipment-accounting/
+|   |   |-- general-accounting/
+|   |   |-- specialized-accounting/
+|   |-- cashier/
+|   |-- credit-card-processing/
+|   |   |-- processing-options/
+|   |   |-- quikpay/
+|   |-- media/
+|   |-- quikpay/
+|   |-- resources/
+|   |   |-- forms/
+|   \-- sites/
+|       \-- case.edu.controller/
+|-- corporate/
+|   |-- about/
+|   |   \-- contact/
+|   \-- recruit-talent/
+|-- covid19/
+|   |-- covid-19-communications/
+|   |-- health-safety/
+|   |   |-- infection-and-exposure-processes/
+|   |   |-- prevention-measures/
+|   |   |-- testing/
+|   |   |-- vaccinations/
+|   |   |-- vaccinations-and-booster-doses/
+|   |-- sites/
+|   |   \-- case.edu.covid19/
+|   |-- student-resources/
+|   |-- university-communications/
+|   |-- working-learning-campus/
+|-- cpfm/
+|   \-- facilities/
+|-- cps/
+|   |-- about-us/
+|   |-- business-solutions/
+|   |-- deep-learning-artificial-intelligence/
+|   |-- digital-career-certificates/
+|   |-- digital-skills-boot-camps/
+|   |-- digital-skills-programs/
+|   |-- employers/
+|   |-- sites/
+|   |   \-- case.edu.cps/
+|-- cse/
+|   \-- nec/
+|-- customerservice/
+|   |-- media/
+|   \-- sites/
+|       \-- case.edu.customerservice/
+|-- cwruheader/
+|-- cwruresearch/
+|   |-- centers-and-institutes/
+|-- datascience/
+|   |-- contact-us/
+|   |   |-- faculty/
+|   |-- data-bytes/
+|   |-- faculty/
+|   |-- for-students/
+|   |   \-- degree-programs/
+|   |       \-- undergraduate-applied-data-science-minor/
+|   |-- industry/
+|   |-- sites/
+|   |   \-- case.edu.datascience/
+|   |-- students/
+|   |   |-- degree-programs/
+|   |   |   |-- undergraduate-applied-data-science-minor/
+|-- dean/
+|-- dental/
+|   |-- about/
+|   |   |-- news-archive/
+|   |-- alumni-friends/
+|   |   |-- events/
+|   |   |-- homecoming/
+|   |   |-- resources/
+|   |   |-- support-school/
+|   |-- departments-programs/
+|   |   |-- advanced-education-general-dentistry-aegd/
+|   |   |   |-- aegd-clinic/
+|   |   |   |-- aegd-residency-program/
+|   |   |-- biological-sciences/
+|   |   |-- bolton-brush-growth-study-center/
+|   |   |-- community-dentistry/
+|   |   |   |-- dental-public-health-residency-program/
+|   |   |-- comprehensive-care/
+|   |   |-- craniofacial-orthodontics/
+|   |   |   |-- craniofacial-fellowship-program/
+|   |   |-- directory/
+|   |   |-- endodontics/
+|   |   |   |-- endodontic-residency-program/
+|   |   |-- faculty-practice/
+|   |   |-- oral-and-maxillofacial-medicine-and-diagnostic-sciences-ommds/
+|   |   |-- oral-and-maxillofacial-radiology-clinic-omr/
+|   |   |-- oral-and-maxillofacial-surgery-omfs/
+|   |   |   |-- omfs-clinic/
+|   |   |   |-- omfs-residency-program/
+|   |   |-- orthodontics/
+|   |   |   |-- graduate-programs/
+|   |   |-- pediatric-dentistry/
+|   |   |   |-- pediatric-dentistry-residency-program/
+|   |   |-- periodontics/
+|   |   |   |-- periodontics-residency-program/
+|   |-- patients-clinics/
+|   |-- periodontics/
+|   |   \-- residency/
+|   |-- prospective-students/
+|   |   |-- doctor-dental-medicine-dmd/
+|   |   |   |-- apply-cwru-sodm/
+|   |   |-- expanded-function-dental-auxiliary-efda/
+|   |   |-- graduate-studies/
+|   |-- research/
+|   |   |-- areas-research/
+|   |   |   |-- research-centers-programs/
+|   |   |   |   |-- case-head-neck-cancer-research-collaborative/
+|   |   |   |   |-- oral-health-disparities/
+|   |   |   |   |   |-- projects/
+|   |   |   |-- research-projects/
+|   |   |   |   |-- biological-sciences-research/
+|   |   |   |   |   |-- comprehensive-head-neck-database-chnd/
+|   |   |   |   |-- community-dentistry-research/
+|   |   |   |   |-- oral-and-maxillofacial-medicine-diagnostic-sciences/
+|   |   |   |   |-- pediatric-dentistry-research/
+|   |   |-- research-news-events/
+|   |   |-- research-support/
+|   |   |   |-- grants-funding/
+|   |   |-- student-research/
+|   |-- resources/
+|   |   |-- covid-19/
+|   |   |-- current-student-resources/
+|   |   |   |-- student-groups/
+|   |   |-- facultystaff-resources/
+|   |   |-- it-support/
+|   |-- sites/
+|   |   \-- case.edu.dental/
+|-- depot/
+|-- deputyprovost/
+|   \-- about-lynn-t-singer/
+|-- dining/
+|   |-- catering/
+|   |-- how-pay/
+|   |-- meal-plans/
+|   |   |-- meal-plan-options/
+|   |-- news/
+|   |-- sites/
+|   |   \-- case.edu.dining/
+|   |-- where-eat/
+|   \-- where-to-eat/
+|       |-- off-campus-locations/
+|       \-- on-campus-locations/
+|-- dir/
+|-- diversity/
+|   |-- about/
+|   |   |-- annual-reports/
+|   |   |-- staff-contact/
+|   |-- faculty-and-institutional-diversity/
+|   |   |-- faculty-search-process/
+|   |-- faculty-staff/
+|   |   |-- campus-organizations-and-resources/
+|   |   |   |-- alianza/
+|   |-- office-for-faculty-diversity/
+|   |-- programs/
+|   |   |-- annual-inclusion-and-diversity-achievement-awards-and-luncheon/
+|   |   |-- diversity-360/
+|   |   |-- power-diversity-lecture-series/
+|   |   |-- power-of-diversity-lecture-series/
+|   |   |-- sustained-dialogue/
+|   |   |-- trailblazer-project/
+|   |-- sites/
+|   |   \-- case.edu.diversity/
+|   |-- students/
+|   \-- university-policies/
+|       |-- non-discrimination-policy/
+|-- donorrelations/
+|   |-- contact/
+|   |-- endowment-reporting/
+|   |-- endowments/
+|   |-- resources/
+|   |-- sites/
+|   |   \-- case.edu.donorrelations/
+|   |-- students/
+|   \-- webform/
+|-- ech/
+|   |-- ar_/
+|   |   \-- body__/
+|   |-- articl_/
+|   |   \-- body__/
+|   |-- article_/
+|   |   \-- body__/
+|   |-- categories/
+|   |-- images/
+|   |-- media/
+|   |-- sites/
+|   |   \-- case.edu.ech/
+|   |       \-- fil_/
+|   |           \-- body__/
+|-- education/
+|-- ehs/
+|   |-- about/
+|   |   |-- documents/
+|   |   |-- newsletters/
+|   |   |   |-- archived-newsletters/
+|   |-- laboratory-safety/
+|   |   |-- chemical-containers/
+|   |   |   |-- entrance-caution-signs/
+|   |   |-- hoods/
+|   |   |-- personal-protective-equipment/
+|   |-- media/
+|   |-- safety-by-subject/
+|   |   \-- fire-safety/
+|   |-- safety-subject/
+|   |   |-- biological-safety/
+|   |   |-- chemical-safety/
+|   |   |-- ergonomics/
+|   |   |-- fire-safety/
+|   |   |-- radiation-and-laser-safety/
+|   |-- sites/
+|   |   \-- case.edu.ehs/
+|   |-- training/
+|   |-- waste-disposal/
+|   |   |-- chemical-waste/
+|   |   |-- infectious-wastebiological-waste/
+|   |   |-- recycling/
+|   |   |-- solid-wastemunicipal-waste/
+|   \-- webform/
+|-- emeriti/
+|-- emeritiacademy/
+|   |-- about/
+|   |-- contact/
+|   |-- events/
+|   \-- sites/
+|       \-- case.edu.emeritiacademy/
+|-- ems/
+|   |-- about-us/
+|   |-- community/
+|   |   |-- cpr/
+|   |-- join/
+|   |-- sites/
+|   |   \-- case.edu.ems/
+|-- endowment/
+|   |-- pdf/
+|-- engineering/
+|   \-- labs/
+|       |-- bml/
+|       |   |-- lab-members/
+|       |   |-- news/
+|       |   |-- research/
+|       |   \-- sites/
+|       |       \-- case.edu.bml/
+|-- enrollmentmanagement/
+|   |-- contact-us/
+|   |-- memberships-affiliations/
+|   |-- sites/
+|   |   \-- case.edu.enrollmentmanagement/
+|   |-- team-members/
+|-- entrepreneurship/
+|   |-- about/
+|   |   |-- our-team/
+|   |   |-- veales-voice/
+|   |-- engage/
+|   |   |-- educational-series/
+|   |   |-- facultystaff-opportunities/
+|   |   |   |-- veale-facultystaff-seed-grant-program/
+|   |   |-- student-opportunities/
+|   |-- entrepreneurship/
+|   |   |-- about/
+|   |   |   \-- news/
+|   |   \-- veales-voice/
+|   |-- launch/
+|   |   |-- funding-network/
+|   |-- learn/
+|   |   |-- graduate-and-professional-academic-programs/
+|   |   |-- undergraduate-academic-programs/
+|   |-- neo-community/
+|   |-- sites/
+|   |   \-- case.edu.entrepreneurship/
+|-- equity/
+|   |-- accommodations/
+|   |-- file-report/
+|   |-- prevention-and-education/
+|   |-- sexual-harassment-title-ix/
+|   |   |-- file-report/
+|   |   |-- resources/
+|   |-- sexual-misconduct-title-ix/
+|   |   \-- file-report/
+|   |-- sites/
+|   |   \-- case.edu.title-ix/
+|   |-- university-policies/
+|   \-- what-is-title-ix/
+|       \-- university-policies/
+|-- erp/
+|   \-- report/
+|-- erpfinancials/
+|   |-- financials-reporting/
+|   |-- manual-guides/
+|   |   \-- peoplesoft-hcm-training-manuals/
+|   |-- peoplesoft/
+|   \-- sites/
+|       \-- case.edu.erpfinancials/
+|-- errors/
+|   \-- stylesheet/
+|-- events/
+|   |-- convocation/
+|   |-- event-planning-resources/
+|   |   |-- spaces-facilities/
+|   |   |   |-- facility-policies/
+|   |-- featured-events/
+|   |   |-- fall-convocation/
+|   |   |-- inamori-ethics-prize/
+|   |   |-- martin-luther-king-jr-celebration/
+|   |   |-- think-forum/
+|   |-- homecoming/
+|   |-- inamori-ethics-prize/
+|   |   \-- event-details-and-registration-/
+|   |-- mlk/
+|   |-- sites/
+|   |   \-- case.edu.events/
+|   |-- thinkforum/
+|   |   |-- 2017-2018-season/
+|   |   \-- tickets-and-parking/
+|   |-- tobys-plaza/
+|   |-- university-events-calendar/
+|-- executive-order-updates/
+|   |-- docs/
+|-- facilities/
+|   |-- about/
+|   |-- custodial-services/
+|   |-- energy-management/
+|   |-- sites/
+|   |   \-- case.edu.facilities/
+|-- faculty/
+|-- faculty-lifecycle/
+|   |-- faculty-information-system/
+|   \-- sites/
+|       \-- case.edu.faculty-lifecycle/
+|-- facultydevelopment/
+|   |-- about/
+|   |   |-- council/
+|   |   |-- program-staff/
+|   |-- career/
+|   |-- community/
+|   |   |-- lgbtq-research-group/
+|   |-- resources/
+|   \-- sites/
+|       \-- case.edu.facultydevelopment/
+|-- facultysenate/
+|   |-- about/
+|   |   |-- committees-and-panels/
+|   |   |   |-- committee-undergraduate-education/
+|   |   |-- committees-panels/
+|   |   |   |-- committee-on-faculty-compensation/
+|   |   |   |-- committee-on-minority-affairs/
+|   |-- conciliation-mediation-program/
+|   |-- handbook--by-laws/
+|   |-- handbook-and-laws/
+|   |-- meetings/
+|   |   |-- executive-committee-agendas-minutes/
+|   |   |-- faculty-senate-agendas-minutes/
+|   \-- sites/
+|       \-- case.edu.facultysenate/
+|-- farm/
+|   |-- about/
+|   |   |-- transportation/
+|   |-- conservation/
+|   |-- education/
+|   |-- facilities/
+|   |   |-- reservable-facilities/
+|   |   |   |-- manor-house/
+|   |   |   |-- picnic-areas/
+|   |-- farm-food-program/
+|   |-- research/
+|   |-- sites/
+|   |   \-- case.edu.farm/
+|   |-- support-farm/
+|-- film/
+|-- fin/
+|-- finadmin/
+|   |-- controller/
+|   \-- humres/
+|       |-- benefits/
+|       |-- compensation/
+|       |-- employment/
+|       |-- ffs/
+|       |-- hris/
+|       |-- policies/
+|       \-- roles/
+|           |-- faculty/
+|           \-- staff/
+|-- finance/
+|   |-- financial-information/
+|   \-- sites/
+|       \-- case.edu.finance/
+|-- financialaid/
+|   |-- about-office/
+|   |-- aboutus/
+|   |-- gradprof/
+|   |   |-- cost/
+|   |-- graduate-students/
+|   |-- myfinancialaid/
+|   |-- resources/
+|   |   |-- case.edu/
+|   |   |-- loans/
+|   |   |-- net-price-calculator/
+|   |   |-- net-price-calculator-and-myintuition/
+|   |   |-- outside-scholarships/
+|   |-- sites/
+|   |   \-- case.edu.financialaid/
+|   |-- student-employment/
+|   |-- undergraduate/
+|   |   |-- apply/
+|   |   |   |-- first-year-students/
+|   |   |-- cost/
+|   |   |-- loans/
+|   |   \-- tuitionexchange/
+|   |       |-- teexports/
+|   |       \-- teimports/
+|   |-- undergraduates/
+|   |   |-- applying-undergraduate-aid/
+|   |   |-- tuition-exchange-program/
+|-- financialplanning/
+|   |-- capital-projects/
+|-- financials/
+|-- firstyear/
+|   |-- about-office/
+|   |   |-- orientation-leaders/
+|   |-- first-year-students/
+|   |   |-- starting-august/
+|   |   |   |-- discover-week-overview/
+|   |   |-- starting-january/
+|   |-- fyi-news/
+|   |   |-- checkpoint/
+|   |   |-- checkpoints/
+|   |   |-- engage/
+|   |   |-- watch/
+|   |-- parents-and-families/
+|   |-- programs-and-resources/
+|   |-- sites/
+|   |   \-- case.edu.firstyear/
+|   |-- transfer-students/
+|   |   |-- starting-august/
+|   |   |-- starting-january/
+|-- forwardthinking/
+|   |-- emails/
+|   |   \-- 20150506_files/
+|   |-- how/
+|   |   \-- pdfs/
+|   |-- pdf/
+|-- fundforward/
+|-- gcr/
+|   |-- about/
+|   |-- about-office/
+|   |-- community-relations/
+|   |   |-- featured-programs/
+|   \-- sites/
+|       \-- case.edu.gfr/
+|-- generalcounsel/
+|   |-- about-us/
+|   |-- commonly-used-forms-policies/
+|   |-- contact-us/
+|   |-- general-counsel-services/
+|   |-- services/
+|   \-- sites/
+|       \-- case.edu.generalcounsel/
+|-- genetics/
+|-- gfr/
+|-- give/
+|   |-- president/
+|   \-- sites/
+|       \-- case.edu.give/
+|-- giving/
+|-- gradstudies/
+|   |-- about-school/
+|   |   |-- statistics-coalition-next-generation-life-science/
+|   |-- about-the-school/
+|   |   |-- bulletin/
+|   |   |-- contact-us/
+|   |   \-- policies-procedures/
+|   |-- current-students/
+|   |   |-- dates-deadlines/
+|   |   |-- electronic-theses-and-dissertation-guidelines/
+|   |   |-- forms/
+|   |   |-- funding-opportunities/
+|   |   |-- graduation/
+|   |   |-- responsible-conduct-of-research/
+|   |   |-- responsible-conduct-research/
+|   |-- faculty/
+|   |   \-- faculty-guidelines/
+|   |-- faculty-staff/
+|   |   |-- graduate-advisor-newsletter/
+|   |-- index.php/
+|   |   |-- about-school/
+|   |   |   |-- statistics-coalition-next-generation-life-science/
+|   |   |-- current-students/
+|   |   |   |-- electronic-theses-and-dissertation-guidelines/
+|   |   |   |-- graduation/
+|   |   |   |-- responsible-conduct-research/
+|   |   |-- faculty/
+|   |   |   \-- faculty-guidelines/
+|   |   |-- faculty-staff/
+|   |   |   |-- graduate-advisor-newsletter/
+|   |   |-- new-students/
+|   |   |-- prospective-students/
+|   |   |   |-- admissions-information/
+|   |   |-- student-resources/
+|   |   |   |-- graduate-student-newsletter/
+|   |   |   |-- john-s-diekhoff-award/
+|   |   |   |-- spoken-english-language-partners-selp/
+|   |   |   |-- three-minute-thesis-3mt-competition/
+|   |-- new-students/
+|   |-- prospective-students/
+|   |   |-- admissions-information/
+|   |   |   |-- application-faqs/
+|   |   |   \-- graduate-program-applications/
+|   |   |-- applications-admissions/
+|   |   |-- international-student-resources/
+|   |   |-- non-degree-students/
+|   |-- sites/
+|   |   \-- case.edu.gradstudies/
+|   |-- student-resources/
+|   |   |-- graduate-student-newsletter/
+|   |   |-- john-s-diekhoff-award/
+|   |   |-- spoken-english-language-partners-selp/
+|   |   |-- three-minute-thesis-3mt-competition/
+|-- gss/
+|   \-- graduatestudents/
+|-- hcm/
+|-- hillel/
+|-- hololens/
+|-- housing/
+|   |-- about/
+|   |   |-- fall-spring-employment-opportunities/
+|   |   |-- housing-communications/
+|   |   |-- summer-employment-opportunities/
+|   |-- application-process/
+|   |   |-- incoming-first-year-students/
+|   |   |-- incoming-first-year-students-fall-semester/
+|   |   |-- returning-students/
+|   |   |   |-- room-selection-second-year-students/
+|   |   |   |-- room-selection-upper-class-students/
+|   |   |-- summer-student-housing/
+|   |-- facilities/
+|   |   |-- first-year-buildings/
+|   |   |-- second-year-buildings/
+|   |   |-- upperclass-buildings/
+|   |   |   |-- additional-upper-class-housing/
+|   |   \-- village-115/
+|   |-- policies-and-procedures/
+|   |   |-- fall-2020-move-out-process/
+|   |   |-- move-information/
+|   |   |   |-- first-year-students/
+|   |   |   |-- returning-transfer-and-exchange-student-move/
+|   |   |   |-- spring-move-all-new-students/
+|   |   |-- spring-move-out-information/
+|   |   |   |-- deferred-checkouts-retrieving-student-belongings/
+|   |   |-- winter-break-closing-information/
+|   |-- rates-and-dates/
+|   |-- services/
+|   |   |-- campus-housing/
+|   |   |-- maintenance/
+|   |   |-- residential-area-offices/
+|   |   |-- summer-conference-guest-and-intern-housing/
+|   |-- sites/
+|   |   \-- case.edu.housing/
+|-- hr/
+|   |-- about/
+|   |   |-- covid-19-information/
+|   |-- benefits/
+|   |   |-- educational-benefits/
+|   |   |-- health/
+|   |   |   |-- health-savings/
+|   |   |   |-- medical-plans/
+|   |   |   |-- prescription-drug-plans/
+|   |   |-- retirement/
+|   |-- careers/
+|   |   |-- immigration-services/
+|   |   |   |-- visa-information/
+|   |   |-- new-hire-information/
+|   |-- compensation/
+|   |   |-- job-evaluation-process/
+|   |   |   |-- job-families/
+|   |   |-- salary/
+|   |   |   |-- salary-increases/
+|   |-- faqs/
+|   |-- index.php/
+|   |   \-- worklife/
+|   |       \-- mental-health-support-specialist/
+|   |-- media/
+|   |-- professional-development-center/
+|   |   \-- professional-development-training-opportunities/
+|   |-- programs-services/
+|   |   |-- immigration-services/
+|   |   |   \-- visa-information/
+|   |   |       |-- j-1-status/
+|   |   |       |   |-- j-1-english-proficiency-requirement/
+|   |   |-- professional-development-center/
+|   |   |   |-- professional-development-training-opportunities/
+|   |   |-- supervisors-toolkit/
+|   |   |   |-- hiring-staff/
+|   |   |   |   |-- hiring-process-foreign-nationals/
+|   |-- sites/
+|   |   \-- case.edu.hr/
+|   |-- university-policies/
+|   |   |-- staff-hr-policies/
+|   |   |   |-- compensation/
+|   |   |   |   |-- discretionary-star-performer-bonus-program/
+|   |   |   |   |-- overtime/
+|   |   |   |   |-- staff-salary-plan/
+|   |   |   |-- employment/
+|   |   |   |   |-- employment-orientation-period/
+|   |   |   |   |-- employment-planning-and-responsibilities/
+|   |   |   |   |-- position-requirements/
+|   |   |   |   |-- reorganization/
+|   |   |   |   |-- temporary-employment/
+|   |   |   |   |-- termination-employment/
+|   |   |   |-- job-performance-workplace-expectations-and-employee-behavior/
+|   |   |   |   |-- attendance-and-absences/
+|   |   |   |-- staff-development/
+|   |   |   |   |-- annual-performance-review-process/
+|   |   |   |   |-- internal-employment-promotional-opportunities/
+|   |   |   |   |-- positive-corrective-action-pca/
+|   |   |   |   |-- professional-development/
+|   |   |   |-- staff-rules-and-principles/
+|   |   |   |-- staff-services/
+|   |   |   |   |-- staff-hr-grievances/
+|   |   |   |-- time-away-cwru/
+|   |   |   |-- worklife-balance/
+|   |   |   |   |-- caseworks-telecommuting/
+|   |   |   |   |-- flexible-staffing-options/
+|   |   |   |   |-- flexible-work-schedules/
+|   |   |-- university-wide-expectations-and-services/
+|   |   |   |-- educational-benefits/
+|   |   |   |-- emergency-salary-advance/
+|   |   |   |-- employee-records/
+|   |   |   |-- family-medical-leave-act-fmla-absences-and-leave/
+|   |   |   |-- university-holidays-and-other-closings/
+|   |   |   |-- work-week-and-pay-systems/
+|   |-- worklife/
+|   |   |-- employee-assistance-worklife-program/
+|   |   |-- leaves-absence/
+|   |   |-- life-events/
+|   |   |-- mental-health-support-specialist/
+|   |   |-- perks-extras/
+|   |   |-- retirement-benefits/
+|   |   |-- staff-hybrid-work-program/
+|-- ideal-n/
+|   \-- sites/
+|       \-- case.edu.ideal-n/
+|-- inamori/
+|   |-- ethical-leadership/
+|   |   |-- GELS/
+|   |   \-- global-ethical-leaders-society-gels/
+|   |-- ethics-ethical-leadership/
+|   |   |-- global-ethical-leaders-society-gels/
+|   |-- excellence-inamori-ethics-prize/
+|   |-- gels/
+|   |-- inamori-ethics-prize/
+|   |   \-- past-prize-recipients/
+|   |       \-- 2020-silvia-fernandez-de-gurmendi/
+|   |-- initiatives/
+|   |   |-- ethical-leadership/
+|   |   |-- military-ethics/
+|   |-- justice/
+|   |-- mission/
+|   |-- news/
+|   |-- people/
+|   |-- sites/
+|   |   \-- case.edu.inamori/
+|   \-- support/
+|-- industry/
+|   |-- recruit-talent/
+|   \-- research/
+|-- innovation/
+|-- international/
+|   |-- about/
+|   |   |-- coronavirus-covid-19-updates/
+|   |   |-- global-perspectives/
+|   |   |-- international-affairs-visiting-committee/
+|   |   |-- newsletters/
+|   |   |-- our-staff/
+|   |   \-- staff/
+|   |-- education-abroad/
+|   |   |-- apply/
+|   |   |-- connect-us/
+|   |   |-- coronavirus-covid-19-updates/
+|   |   |-- covid-19-updates/
+|   |   |-- faculty-resources/
+|   |   |-- finances/
+|   |   |   |-- financial-information-program-term-type/
+|   |   |-- get-started/
+|   |   |-- parent-resources/
+|   |   |-- preparing-go-abroad/
+|   |   |   |-- academics/
+|   |   |   |-- study-abroad-sustainably/
+|   |   |-- returning-cwru/
+|   |   |-- while-abroad/
+|   |-- events/
+|   |-- global-strategy/
+|   |   |-- faculty/
+|   |   |-- student-global-perspectives/
+|   |   |-- visiting-committee/
+|   |   |-- youarewelcomeherecwru/
+|   |   |   |-- anti-racism-efforts/
+|   |-- international-student-services/
+|   |   |-- arrival/
+|   |   |-- communication-corner/
+|   |   |-- coronavirus-covid-19-updates/
+|   |   |   |-- fall-2020-guidance-sevp-updates/
+|   |   |-- covid-19-updates/
+|   |   |-- employment-training/
+|   |   |-- f-1-students/
+|   |   |-- j-1-student-interns/
+|   |   |-- j-1-students/
+|   |   |-- living-cleveland/
+|   |   |-- maintaining-status-f-1-j-1-visas/
+|   |   |-- maintaining-visa-status/
+|   |   |   \-- opt-stem-opt-reporting-requirements/
+|   |   |-- studying-cwru/
+|   |-- international-travel/
+|   |-- media/
+|   |-- sites/
+|   |   \-- case.edu.international/
+|   |-- students/
+|   |-- studyabroad/
+|   \-- travel/
+|-- investments/
+|-- ipe/
+|   |-- about/
+|   |   |-- leadership-teams/
+|   |-- form/
+|   |-- learning-experiences/
+|   |-- news-and-events/
+|   |   |-- huddle/
+|   |-- sites/
+|   |   \-- case.edu.ipe/
+|   \-- webform/
+|-- ir/
+|   |-- cwru-facts/
+|   |   |-- accreditation/
+|   |   |-- faculty-and-staff-facts/
+|   |   |-- student-facts/
+|   |-- cwru-interactive-factbook/
+|   |-- faculty-honors-and-awards/
+|   |-- sites/
+|   |   \-- case.edu.ir/
+|   |-- survey-results/
+|-- issacs/
+|   |-- about/
+|   |   |-- faculty-staff/
+|   |-- aboutfaculty-staff/
+|   |-- faculty/
+|   |-- facultyfaculty-associates/
+|   |-- media/
+|   |-- partnerships/
+|   |-- services/
+|   |-- sites/
+|   |   \-- case.edu.issacs/
+|   |-- students/
+|   \-- studentscourses-curriculum/
+|-- its/
+|   |-- academic-technology/
+|   |   \-- initiatives/
+|   |       \-- lms-exploration/
+|   \-- new/
+|-- javascripts/
+|   |-- 2014/
+|   \-- FeedEK/
+|-- launchnet/
+|   |-- about/
+|   |-- events-competitions/
+|   \-- sites/
+|       \-- case.edu.launchnet/
+|-- law/
+|   |-- academics/
+|   |   |-- bar-exam/
+|   |   |-- certificates/
+|   |   |-- jd-programs/
+|   |   |   |-- dual-degrees/
+|   |   |   |-- jd-curriculum/
+|   |   |   |-- specialties/
+|   |   |-- llm-programs/
+|   |   |   |-- information-chinese-students/
+|   |   |-- masters-programs/
+|   |   |   |-- master-arts-financial-integrity/
+|   |   |   |-- master-compliance-and-risk-management/
+|   |   |   |-- masters-patent-practice/
+|   |   |-- sjd-programs/
+|   |   |-- study-abroad/
+|   |-- admissions/
+|   |   |-- jd-admissions/
+|   |   |   |-- jd-financial-aid-scholarships/
+|   |   |   |   |-- aid-eligibility/
+|   |   |   |-- tuition-aid-scholarships/
+|   |   |   |   |-- types-financial-assistance/
+|   |   |   |-- visit-us/
+|   |   |   |   |-- $&/
+|   |   |   |   |-- );/
+|   |   |   |   |-- ])(dirtyDate)/
+|   |   |   |   |-- ])(dirtyYear);/
+|   |   |   |   |-- app/
+|   |   |-- llm-admissions/
+|   |   |-- master-programs-admissions/
+|   |   |-- sjd-admissions/
+|   |-- alumni/
+|   |   |-- alumni-association/
+|   |   |   |-- awards/
+|   |   |-- events/
+|   |   |-- reunion/
+|   |   |-- society-benchers/
+|   |   |-- stay-connected/
+|   |-- campus-life/
+|   |   |-- moot-court-mock-trial/
+|   |   |   |-- dunmore-program/
+|   |   |-- student-organizations/
+|   |-- centers-institutes/
+|   |   |-- burke-environmental-law-center/
+|   |   |   |-- burke-center-news/
+|   |   |-- cox-international-law-center/
+|   |   |   |-- canada-united-states-law-institute/
+|   |   |   |-- yemen-accountability-project/
+|   |   |-- ht_/
+|   |   |   \-- body__/
+|   |   |-- law-medicine-center/
+|   |   |   |-- magazine-law-med-news/
+|   |   |   |   \-- law-medicine-center-magazine/
+|   |   |-- law-technology-arts/
+|   |   |   |-- center-curriculum/
+|   |   |   |-- ip-venture-clinic/
+|   |-- employers/
+|   |   |-- campus-interviews/
+|   |-- give/
+|   |-- ht_/
+|   |   \-- body__/
+|   |-- index.php/
+|   |   |-- academics/
+|   |   |   |-- bar-exam/
+|   |   |   |-- certificates/
+|   |   |   |-- jd-programs/
+|   |   |   |   |-- dual-degrees/
+|   |   |   |   |-- jd-curriculum/
+|   |   |   |   |-- specialties/
+|   |   |   |-- llm-programs/
+|   |   |   |   |-- information-chinese-students/
+|   |   |   |-- masters-programs/
+|   |   |   |   |-- master-arts-financial-integrity/
+|   |   |   |   |-- master-compliance-and-risk-management/
+|   |   |   |   |-- masters-patent-practice/
+|   |   |   |-- sjd-programs/
+|   |   |   |-- study-abroad/
+|   |   |-- admissions/
+|   |   |   |-- jd-admissions/
+|   |   |   |   |-- jd-financial-aid-scholarships/
+|   |   |   |   |   |-- aid-eligibility/
+|   |   |   |   |-- tuition-aid-scholarships/
+|   |   |   |   |   |-- types-financial-assistance/
+|   |   |   |   |-- visit-us/
+|   |   |   |   |   |-- $&/
+|   |   |   |   |   |-- );/
+|   |   |   |   |   |-- ])(dirtyDate)/
+|   |   |   |   |   |-- ])(dirtyYear);/
+|   |   |   |   |   |-- app/
+|   |   |   |-- llm-admissions/
+|   |   |   |-- master-programs-admissions/
+|   |   |   |-- sjd-admissions/
+|   |   |-- alumni/
+|   |   |   |-- alumni-association/
+|   |   |   |   |-- awards/
+|   |   |   |-- events/
+|   |   |   |-- reunion/
+|   |   |   |-- society-benchers/
+|   |   |   |-- stay-connected/
+|   |   |-- campus-life/
+|   |   |   |-- moot-court-mock-trial/
+|   |   |   |   |-- dunmore-program/
+|   |   |   |-- student-organizations/
+|   |   |-- centers-institutes/
+|   |   |   |-- burke-environmental-law-center/
+|   |   |   |   |-- burke-center-news/
+|   |   |   |-- cox-international-law-center/
+|   |   |   |   |-- canada-united-states-law-institute/
+|   |   |   |   |-- yemen-accountability-project/
+|   |   |   |-- ht_/
+|   |   |   |   \-- body__/
+|   |   |   |-- law-medicine-center/
+|   |   |   |   |-- magazine-law-med-news/
+|   |   |   |   |   \-- law-medicine-center-magazine/
+|   |   |   |-- law-technology-arts/
+|   |   |   |   |-- center-curriculum/
+|   |   |   |   |-- ip-venture-clinic/
+|   |   |-- employers/
+|   |   |   |-- campus-interviews/
+|   |   |-- give/
+|   |   |-- ht_/
+|   |   |   \-- body__/
+|   |   |-- our-school/
+|   |   |   |-- aba-disclosures/
+|   |   |   |-- diversity-inclusion/
+|   |   |   |   |-- cwru-law-racial-justice/
+|   |   |   |-- events-lectures/
+|   |   |   |-- faculty-directory/
+|   |   |   |   |-- emeritus-faculty/
+|   |   |   |   |-- fellows-directory/
+|   |   |   |-- ht_/
+|   |   |   |   \-- body__/
+|   |   |   |-- https_/
+|   |   |   |   \-- body__/
+|   |   |   |-- lectures-conferences/
+|   |   |   |   \-- events/
+|   |   |   |-- library/
+|   |   |   |   |-- about/
+|   |   |   |   |-- alumni-guests/
+|   |   |   |   |-- student-resources/
+|   |   |   |-- news/
+|   |   |-- practical-training/
+|   |   |   |-- ht_/
+|   |   |   |   \-- body__/
+|   |   |   |-- law-clinic/
+|   |   |   |   |-- human-trafficking-program/
+|   |   |-- students/
+|   |   |   |-- career-development/
+|   |   |   |   |-- prospective-students/
+|   |-- media/
+|   |-- our-school/
+|   |   |-- $&/
+|   |   |-- aba-disclosures/
+|   |   |-- coronavirus-related-policies/
+|   |   |-- diversity-inclusion/
+|   |   |   |-- cwru-law-racial-justice/
+|   |   |-- events-lectures/
+|   |   |-- faculty-directory/
+|   |   |   |-- $&/
+|   |   |   |-- emeritus-faculty/
+|   |   |   |-- fellows-directory/
+|   |   |-- ht_/
+|   |   |   \-- body__/
+|   |   |-- https_/
+|   |   |   \-- body__/
+|   |   |-- lectures-conferences/
+|   |   |   \-- events/
+|   |   |-- library/
+|   |   |   |-- about/
+|   |   |   |-- alumni-guests/
+|   |   |   |-- student-resources/
+|   |   |-- news/
+|   |-- practical-training/
+|   |   |-- ht_/
+|   |   |   \-- body__/
+|   |   |-- law-clinic/
+|   |   |   |-- human-trafficking-program/
+|   |   |   |-- intellectual-prope_/
+|   |   |   |   \-- body__/
+|   |-- sites/
+|   |   \-- case.edu.law/
+|   |-- students/
+|   |   |-- career-development/
+|   |   |   |-- prospective-students/
+|   \-- webform/
+|-- Lectures-Events/
+|   \-- MWPOC2018/
+|-- lgbt/
+|   |-- about/
+|   |   |-- contact-us/
+|   |   |-- lgbt-history-cwru/
+|   |-- awards/
+|   |   |-- scholarships/
+|   |-- groups/
+|   |   |-- qgrad/
+|   |-- resources/
+|   |   |-- campus/
+|   |   |   |-- campus-policy/
+|   |   |-- educational-resources/
+|   |   |-- transgender-resources/
+|   |-- safe-zone/
+|   |-- signature-programs/
+|   |   |-- conversation-groups/
+|   \-- sites/
+|       \-- case.edu.lgbt/
+|-- library/
+|   |-- about-us/
+|   |   |-- policies-procedures/
+|   |   |-- strategic-planning-assessment/
+|   |   |   |-- ksl-statistics/
+|   |   |   |-- strategic-plan/
+|   |   |   |-- strategic-plan-overview/
+|   |   |-- visit-us/
+|   |-- give/
+|   |-- news/
+|   |-- news-events/
+|   |   |-- news/
+|   |   |   |-- all/
+|   |-- research/
+|   |   |-- digital-scholarship/
+|   |   |   |-- freedman-fellows-program/
+|   |   |-- research-librarians-library-advisors/
+|   |   |-- special-collections-archives/
+|   |   |   |-- manuscripts/
+|   |   |   |-- university-archives/
+|   |   |   |   |-- about-records/
+|   |   \-- visiting-scholar/
+|   |-- services/
+|   |   |-- alumni-resources/
+|   |   |-- borrowing/
+|   |   |   |-- course-reserves/
+|   |   |   |-- depository-storage-collection/
+|   |   |-- copyright/
+|   |   |-- multimedia-digitization/
+|   |-- sites/
+|   |   \-- case.edu.ksl/
+|   |-- spaces/
+|   |   |-- freedman-center/
+|   |-- webform/
+|-- lifelonglearning/
+|   |-- about/
+|   |-- courses/
+|   |   |-- courses-subject/
+|   |   |   |-- art-music-theater/
+|   |   |   |-- history-and-culture/
+|   |   |   |-- jewish-studies/
+|   |   |   |-- languages/
+|   |   |   |-- literature-writing/
+|   |   |   \-- religion-and-philosophy/
+|   |-- lectures/
+|   |-- lectures-and-events/
+|   |-- media/
+|   |-- remote-learning/
+|   |-- sites/
+|   |   \-- case.edu.lifelonglearning/
+|   |-- travel/
+|   |   |-- trips-2020-and-2021/
+|   |   |-- upcoming-trips/
+|-- livestream/
+|   |-- cwru-tennis/
+|   |-- mpac1/
+|   |-- sites/
+|   |   \-- case.edu.livestream/
+|-- maltzcenter/
+|   |-- about/
+|   |-- about-center/
+|   |   \-- volunteer/
+|   |-- about-venue/
+|   |-- events-and-calendar/
+|   |   \-- william-n-skirball-writers-center-stage/
+|   |-- giving/
+|   |-- host-event/
+|   |-- plan-your-event/
+|   |-- plan-your-visit/
+|   |-- sites/
+|   |   \-- case.edu.maltzcenter/
+|   |-- support-center/
+|   |-- upcoming-events/
+|   |-- wcs/
+|   |   \-- speaker-lineup/
+|   |       \-- colson-whitehead/
+|-- maps/
+|-- markowitz/
+|-- md/
+|-- med/
+|   |-- biochemistry/
+|   |   |-- faculty/
+|   |-- BSTP/
+|   |   \-- faculty/
+|   |-- id/
+|   |   |-- faculty/
+|   |-- medicine/
+|   |   \-- csubaustelab/
+|   |-- microbio/
+|   |-- ophthalmology/
+|   \-- rnacenter/
+|-- medbreakthroughs/
+|   |-- about/
+|-- medicine/
+|   |-- about/
+|   |   |-- diversity-equity-and-inclusive-excellence/
+|   |   |   |-- about-inclusive-excellence/
+|   |   |   |   |-- diversity-equity-and-inclusive-excellence-staff-listing/
+|   |   |   |-- diversity-policies-and-plan/
+|   |   |-- meet-dean/
+|   |   |   |-- messages-dean-stan-gerson/
+|   |   |   |-- school-leadership/
+|   |   |-- newsroom/
+|   |   |   |-- our-latest-news/
+|   |-- admission/
+|   |   \-- about/
+|   |       \-- newsroom/
+|   |           \-- our-latest-news/
+|   |-- admissions-programs/
+|   |   |-- graduate-education/
+|   |   |   \-- career-professional-development/
+|   |   |-- graduate-programs/
+|   |   |   \-- phd-programs/
+|   |   |       \-- bstp/
+|   |   |-- md-phd-program/
+|   |   |   \-- prospective-students/
+|   |   |-- md-program/
+|   |   |-- md-programs/
+|   |   |   |-- application-process/
+|   |   |   |-- curriculum/
+|   |   |   |   \-- curriculum-overview/
+|   |   \-- phd-and-masters-programs/
+|   |       \-- career-professional-development/
+|   |           \-- professional-development/
+|   |               \-- career-professional-development/
+|   |                   \-- programs-opportunities/
+|   |                       |-- enr/
+|   |                       |-- enri/
+|   |                       \-- enrich/
+|   |-- alumni/
+|   |   |-- recognition-awards/
+|   |   |-- reunion/
+|   |-- anatomy/
+|   |   |-- about-us/
+|   |   |-- admissions/
+|   |   |-- body-donation/
+|   |   |-- curriculum/
+|   |   |-- people/
+|   |   |   |-- faculty-and-staff/
+|   |   |   |-- students-and-alumni/
+|   |   |-- resources/
+|   |   |   |-- living-cleveland/
+|   |   \-- sites/
+|   |       \-- case.edu.anatomy/
+|   |-- basch-lab/
+|   |   |-- lab-members/
+|   |   |-- research/
+|   |   \-- sites/
+|   |       \-- case.edu.basch-lab/
+|   |-- biochemistry/
+|   |   |-- about-us/
+|   |   |   |-- contact-us/
+|   |   |   |-- events/
+|   |   |   |-- news/
+|   |   |-- academics/
+|   |   |   |-- graduate-studies-biochemistry/
+|   |   |   |   |-- ms-program/
+|   |   |   |   |   \-- ms-dual-degree-programs-biochemistry/
+|   |   |   |   |       |-- case.edu/
+|   |   |   |   |       |   \-- biochemistry/
+|   |   |   |   |-- phd-program/
+|   |   |   \-- undergraduate-programs/
+|   |   |-- degree-programs/
+|   |   |   |-- graduate-studies-biochemistry/
+|   |   |   |   |-- ms-program/
+|   |   |   |   |   |-- ms-dual-degree-programs-biochemistry/
+|   |   |   |-- undergraduate-programs/
+|   |   |   |   |-- undergraduate-research/
+|   |   |-- facilities/
+|   |   |-- faculty/
+|   |   |-- research/
+|   |   |-- sites/
+|   |   |   \-- case.edu.biochemistry/
+|   |-- bioethics/
+|   |   |-- about/
+|   |   |   |-- faculty--staff/
+|   |   |   |-- faculty-staff/
+|   |   |-- connect/
+|   |   |   |-- admitted-and-current-student-information/
+|   |   |   |-- visit-us/
+|   |   |-- education/
+|   |   |   |-- dual-degree-programs/
+|   |   |   |   \-- ma-msn/
+|   |   |   |-- masters-degree-program/
+|   |   |   |   |-- curriculum/
+|   |   |   |   |   |-- dual-degree-programs/
+|   |   |   |-- masters-degree-programs/
+|   |   |   |   |-- application-requirements/
+|   |   |   |   |-- curriculum/
+|   |   |   |   |   |-- concentrations/
+|   |   |   |   |   |-- dual-degree-programs/
+|   |   |   |   |-- meet-our-students/
+|   |   |   |   |-- tuition-and-financial-aid/
+|   |   |   |-- phd-program/
+|   |   |   |-- study-abroad/
+|   |   |   |-- undergraduate-programs/
+|   |   |-- life-cleveland/
+|   |   |   |-- campus-life/
+|   |   |-- masters/
+|   |   |-- research/
+|   |   |-- sites/
+|   |   |   \-- case.edu.bioethics/
+|   |-- bstp/
+|   |   |-- academics/
+|   |   |-- admissions/
+|   |   |-- community/
+|   |   |   |-- faculty-and-staff/
+|   |   |   |-- students-and-alumni/
+|   |   |   |   |-- bstp-student-profiles/
+|   |   |-- contact-us/
+|   |   |-- research/
+|   |   \-- sites/
+|   |       \-- case.edu.bstp/
+|   |-- caml/
+|   |   |-- about/
+|   |   |-- caml-events/
+|   |   |-- events/
+|   |   |   |-- annual-education-retreat/
+|   |   |-- programs-awards/
+|   |   |-- resources/
+|   |   \-- sites/
+|   |       \-- case.edu.caml/
+|   |-- cbhi/
+|   |   |-- about-us/
+|   |   |   |-- directions-and-parking/
+|   |   |   |-- leadership/
+|   |   |-- activities/
+|   |   |   |-- 2018-annual-meeting/
+|   |   |   |   |-- abstracts/
+|   |   |   |   |-- retreat-roundup-2018/
+|   |   |   |-- 2019-annual-meeting/
+|   |   |   |-- study-groups/
+|   |   |-- funding-opportunities/
+|   |   |-- news/
+|   |   |-- resources/
+|   |   \-- sites/
+|   |       \-- case.edu.cbhi/
+|   |-- ccir/
+|   |   |-- about/
+|   |   |-- faculty/
+|   |   |-- imaging-research-core/
+|   |   |   |-- services-and-fees/
+|   |   |-- resources/
+|   |   \-- sites/
+|   |       \-- case.edu.ccir/
+|   |-- ccmsb/
+|   |-- cddrcc/
+|   |   |-- about-us/
+|   |   |-- cores/
+|   |   |-- enrichment-program/
+|   |   |-- membership/
+|   |   |-- pilot-feasibility/
+|   |   \-- sites/
+|   |       \-- case.edu.cddrcc/
+|   |-- cghd/
+|   |   \-- admissions-programs/
+|   |       \-- phd-and-masters-programs/
+|   |-- cme/
+|   |   |-- courses-activities/
+|   |   |-- credits-transcripts/
+|   |   \-- sites/
+|   |       \-- case.edu.cme/
+|   |-- crsp/
+|   |   |-- crsp-401/
+|   |   |-- programs/
+|   |   |   \-- certificate-program/
+|   |   \-- sites/
+|   |       \-- case.edu.crsp/
+|   |-- csb/
+|   |-- cscsimcenter/
+|   |   |-- about-us/
+|   |-- ctsc/
+|   |   |-- about/
+|   |   |-- about-us/
+|   |   |   |-- news-and-announcements/
+|   |   |-- clinical-study-resources/
+|   |   |   |-- recruitment-support/
+|   |   |-- education-and-training/
+|   |   |   |-- kl2-training-program/
+|   |   |-- pilot-programs/
+|   |   |   |-- core-utilization-pilot/
+|   |   |-- research-resources/
+|   |   |   |-- community-collaboration/
+|   |   |   |   |-- resources-collaboration-and-team-science/
+|   |   |   |-- informatics/
+|   |   |   |-- program-evaluation/
+|   |   |   |-- sparcrequest/
+|   |   |-- sites/
+|   |   |   \-- case.edu.ctsc/
+|   |-- curriculum/
+|   |   |-- curriculum-overview/
+|   |   |   |-- clinical-rotations/
+|   |   |   |-- foundations-medicine-health/
+|   |   |   |-- policies-and-procedures/
+|   |   |-- people/
+|   |   |-- program-evaluation/
+|   |   |   |-- clerkship-phase/
+|   |   |   |   |-- core-clerkship-archive/
+|   |   |   |-- pre-clerkship-block-evaluations/
+|   |   |-- sites/
+|   |   |   \-- case.edu.curriculum/
+|   |   |-- student-assessment/
+|   |   |-- teacher-development/
+|   |-- cvri/
+|   |   |-- about-us/
+|   |   |-- events/
+|   |   |-- facilities/
+|   |   |-- people/
+|   |   |-- sites/
+|   |   |   \-- case.edu.cvri/
+|   |   \-- training/
+|   |-- departments-centers/
+|   |   |-- administrative-offices/
+|   |   |   |-- grants-and-contracts/
+|   |   |-- centers-institutes/
+|   |-- dhri/
+|   |   |-- about/
+|   |   |   |-- primary-faculty/
+|   |   |   |-- research-team/
+|   |   |   |-- secondary-faculty/
+|   |   |-- betrnet/
+|   |   |-- cwru-mssrp/
+|   |   \-- sites/
+|   |       \-- case.edu.dhri/
+|   |-- education/
+|   |   |-- graduate-education/
+|   |   |   |-- career-professional-development/
+|   |   |   |   |-- career-professional-development/
+|   |   |   |   |   \-- programs-opportunities/
+|   |   |   |-- enrollment-management-office/
+|   |   |   |-- graduate-education-office/
+|   |   |   |-- graduate-research/
+|   |   |   |-- masters-programs/
+|   |   |-- md-programs/
+|   |   |   |-- curriculum/
+|   |   |   |   \-- program-evaluation/
+|   |   |   |       \-- clerkship-phase/
+|   |   |   |           \-- core-clerkship-archive/
+|   |   |-- undergraduate-education/
+|   |   |   |-- undergraduate-summer-research/
+|   |-- events/
+|   |-- faculty-development-diversity/
+|   |   |-- about/
+|   |   |   |-- staff/
+|   |   |-- diversity/
+|   |   |-- faculty-and-staff-development/
+|   |   |   |-- programs/
+|   |   |   |-- resources/
+|   |   \-- sites/
+|   |       \-- case.edu.faculty-development-diversity/
+|   |-- faculty-staff/
+|   |   |-- academy-scholar-educators/
+|   |   |-- committee-medical-education/
+|   |   |-- faculty-affairs-hr/
+|   |   |   |-- administrator-resources/
+|   |-- finance/
+|   |-- genetics/
+|   |   |-- about/
+|   |   |-- affiliations-and-institutes/
+|   |   |-- core-facilities/
+|   |   |-- graduate-programs/
+|   |   |   |-- functional-genomics-training-program/
+|   |   |   |-- genetic-counseling-training-program/
+|   |   |   |   |-- application-and-admission-information/
+|   |   |   |   |-- faculty-leadership/
+|   |   |   |   |-- ms-genetic-counseling/
+|   |   |   |   |-- msma-genetic-counseling-bioethics/
+|   |   |   |-- phd-program/
+|   |   |-- people/
+|   |   |   |-- primary-faculty/
+|   |   |   |-- secondary-faculty/
+|   |   |-- research/
+|   |   \-- sites/
+|   |       \-- case.edu.genetics/
+|   |-- genomics/
+|   |   \-- our-services/
+|   |       |-- library-preparation/
+|   |       \-- microarray-analysis/
+|   |-- giving/
+|   |   |-- contact-giving/
+|   |   |-- strategic-events/
+|   |-- globalhealth/
+|   |-- grad-education/
+|   |   |-- about/
+|   |   \-- sites/
+|   |       \-- case.edu.grad-education/
+|   |-- healthintegration/
+|   |   |-- about/
+|   |   |   |-- annual-reports/
+|   |   |-- covid-19-models/
+|   |   |   |-- counties/
+|   |   |   |   |-- allen-county-model/
+|   |   |   |   |-- ashland-county-model/
+|   |   |   |   |-- ashtabula-county-model/
+|   |   |   |   |-- auglaize-county-model/
+|   |   |   |   |-- columbiana-county-model/
+|   |   |   |   |-- cuyahoga-county-model/
+|   |   |   |   |-- defiance-county-model/
+|   |   |   |   |-- erie-county-model/
+|   |   |   |   |-- fulton-county-model/
+|   |   |   |   |-- geauga-county-model/
+|   |   |   |   |-- hancock-county-model/
+|   |   |   |   |-- henry-county-model/
+|   |   |   |   |-- holmes-county-model/
+|   |   |   |   |-- huron-county-model/
+|   |   |   |   |-- lake-county-model/
+|   |   |   |   |-- lorain-county-model/
+|   |   |   |   |-- lucas-county-model/
+|   |   |   |   |-- mahoning-county-model/
+|   |   |   |   |-- medina-county-model/
+|   |   |   |   |-- mercer-county-model/
+|   |   |   |   |-- ottawa-county-model/
+|   |   |   |   |-- portage-county-model/
+|   |   |   |   |-- richland-county-model/
+|   |   |   |   |-- seneca-county-model/
+|   |   |   |   |-- stark-county-model/
+|   |   |   |   |   |-- stark-county-april-28-2021/
+|   |   |   |   |-- summit-county-model/
+|   |   |   |   |-- trumbull-county-model/
+|   |   |   |   |-- tuscarawas-county-model/
+|   |   |   |   |-- wayne-county-model/
+|   |   |   |   |-- williams-county-model/
+|   |   |   |   |-- wood-county-model/
+|   |   |   |-- cuyahoga-county-model/
+|   |   |   |-- lake-county-model/
+|   |   |   |-- lorain-county-model/
+|   |   |   |-- medina-county-model/
+|   |   |   |-- portage-county-model/
+|   |   |   \-- summit-county-model/
+|   |   |-- news/
+|   |   |-- people/
+|   |   |-- research/
+|   |   |-- resources/
+|   |   \-- sites/
+|   |       \-- case.edu.communityhealth/
+|   |-- humanities-pathway/
+|   |   |-- about/
+|   |   |-- members/
+|   |   \-- sites/
+|   |       \-- case.edu.humanities-pathway/
+|   |-- keri-lab/
+|   |   \-- people/
+|   |       \-- lab-members/
+|   |-- manor-lab/
+|   |-- md/
+|   |   |-- about/
+|   |   |-- academics/
+|   |   |-- admission/
+|   |   |   |-- admission-requirements/
+|   |   |   |-- all-access-med-school-admission-podcast/
+|   |   |-- sites/
+|   |   |   \-- case.edu.md/
+|   |-- media/
+|   |-- medicine/
+|   |   \-- research/
+|   |-- microbio/
+|   |   |-- about/
+|   |   |-- academic-programs/
+|   |   |-- our-people/
+|   |   \-- sites/
+|   |       \-- case.edu.microbio/
+|   |-- msa-program/
+|   |   |-- about-us/
+|   |   |   |-- blog/
+|   |   |   |-- caa-profession/
+|   |   |   |-- inside-our-program/
+|   |   |   |   |-- blog/
+|   |   |   |   |-- msa-news/
+|   |   |-- admissions/
+|   |   |-- austin/
+|   |   |-- cleveland/
+|   |   |-- curriculum/
+|   |   |   |-- coursework/
+|   |   |-- houston/
+|   |   |-- index.php/
+|   |   |   |-- about-us/
+|   |   |   |   |-- caa-profession/
+|   |   |   |   |-- inside-our-program/
+|   |   |   |   |   |-- blog/
+|   |   |   |   |   |-- msa-news/
+|   |   |   |-- admissions/
+|   |   |   |-- austin/
+|   |   |   |-- cleveland/
+|   |   |   |-- curriculum/
+|   |   |   |   |-- coursework/
+|   |   |   |-- houston/
+|   |   |   |-- people/
+|   |   |   |   |-- alumni/
+|   |   |   |   |-- current-students/
+|   |   |   |   |-- primary-affiliates/
+|   |   |   |-- washington/
+|   |   |-- people/
+|   |   |   |-- alumni/
+|   |   |   |-- current-students/
+|   |   |   |-- faculty-and-staff/
+|   |   |   |-- primary-affiliates/
+|   |   |-- sites/
+|   |   |   \-- case.edu.msa-program/
+|   |   |-- washington/
+|   |-- mstp/
+|   |   |-- about/
+|   |   |-- academics/
+|   |   |-- admissions/
+|   |   |-- sites/
+|   |   |   \-- case.edu.mstp/
+|   |   |-- student-life/
+|   |-- ncrm/
+|   |   |-- about-us/
+|   |   |   |-- faculty/
+|   |   |   |-- news/
+|   |   |   |-- oh-alive-team/
+|   |   |-- events/
+|   |   |-- index.php/
+|   |   |   |-- about-us/
+|   |   |   |   |-- faculty/
+|   |   |   |   |-- news/
+|   |   |   |   |-- oh-alive-team/
+|   |   |   |-- research-clinical-trials/
+|   |   |   |   |-- membership-directory/
+|   |   |   |   |-- research-programs/
+|   |   |   |-- training-education/
+|   |   |   |   |-- masters-program-rgme/
+|   |   |   |   |   |-- admissions/
+|   |   |   |   |   |-- people/
+|   |   |-- research-clinical-trials/
+|   |   |   |-- membership-directory/
+|   |   |   |-- research-programs/
+|   |   |-- sites/
+|   |   |   \-- case.edu.ncrm/
+|   |   |-- training-education/
+|   |   |   |-- masters-program-rgme/
+|   |   |   |   |-- admissions/
+|   |   |   |   |-- people/
+|   |-- neurology/
+|   |   |-- about/
+|   |   |   |-- neurology-faculty/
+|   |   |   |-- patients-visitors/
+|   |   |-- education/
+|   |   |   |-- residency-fellowships/
+|   |   |   |   |-- general-neurology-residency-program/
+|   |   |   |   |-- neurology-fellowship-training/
+|   |   |   |   |   |-- vascular-neurology/
+|   |   |-- events/
+|   |   |-- research/
+|   |   |   |-- behavioral-health-research-group/
+|   |   \-- sites/
+|   |       \-- case.edu.neurology/
+|   |-- neurosciences/
+|   |   |-- about/
+|   |   |-- bs-neuroscience/
+|   |   |-- education/
+|   |   |-- education-and-training/
+|   |   |-- graduate-education/
+|   |   |-- news-events/
+|   |   |-- people/
+|   |   |   \-- faculty/
+|   |   |-- people-research/
+|   |   |   |-- faculty-name/
+|   |   |   |   |-- doi.org/
+|   |   |   |   |   |-- 10.1001/
+|   |   |   |   |   |-- 10.1016/
+|   |   |   |   |   |-- 10.1038/
+|   |   |   |   |   |-- 10.1073/
+|   |   |   |   |   |-- 10.1101/
+|   |   |   |   |   |-- 10.1146/
+|   |   |   |   |   |-- 10.1172/
+|   |   |   |   |   |-- 10.1242/
+|   |   |   |   |   \-- 10.7554/
+|   |   |   |-- scientific-staff/
+|   |   |-- resources/
+|   |   |-- sites/
+|   |   |   \-- case.edu.neurosciences/
+|   |   \-- training/
+|   |       |-- graduate-training/
+|   |-- neurosurgery/
+|   |   |-- about-us/
+|   |   |-- clinical-research/
+|   |   |   |-- neurosurgical-oncology/
+|   |   |-- education/
+|   |   |-- meet-our-team/
+|   |   |   |-- current-residents/
+|   |   |   |-- faculty/
+|   |   |-- news-events/
+|   |   |   |-- events/
+|   |   |   |-- news-releases/
+|   |   \-- sites/
+|   |       \-- case.edu.neurosurgery/
+|   |-- nutrition/
+|   |   |-- about-us/
+|   |   |   |-- campus-life/
+|   |   |   |-- department-news/
+|   |   |   |-- faculty/
+|   |   |   |-- news-events-highlights/
+|   |   |   |   |-- department-news/
+|   |   |-- case-center-proteomics-and-bioinformatics/
+|   |   |   |-- proteomics-and-small-molecule-mass-spectrometry-core/
+|   |   |   |   |-- small-molecule-analysis/
+|   |   |-- centers-and-collaborations/
+|   |   |   \-- case-center-proteomics-and-bioinformatics/
+|   |   |       \-- proteomics-and-small-molecule-mass-spectrometry-core/
+|   |   |-- education/
+|   |   |   |-- certificates-and-professional-development/
+|   |   |   |-- dual-degree-programs/
+|   |   |   |-- masters-programs/
+|   |   |   |   |-- ms-nutrition/
+|   |   |   |   |   |-- combined-dietetic-internshipmasters-degree-program/
+|   |   |   |   |-- ms-public-health-nutrition/
+|   |   |   |   |   |-- ms-public-health-nutrition-dietetic-internship/
+|   |   |   |   |-- ms-systems-biology-and-bioinformatics/
+|   |   |   |-- nutrition/
+|   |   |   |   \-- nutrition-phd/
+|   |   |   |-- nutrition-programs/
+|   |   |   |   |-- dual-degree-programs/
+|   |   |   |   |-- graduate-certificates-and-non-degree-programs/
+|   |   |   |   \-- undergraduate-degrees/
+|   |   |   |-- phd-programs/
+|   |   |   |-- public-health-nutrition/
+|   |   |   |-- public-health-nutrition-programs/
+|   |   |   |   |-- ms-public-health-nutrition-dietetic-internship/
+|   |   |   |-- sybb/
+|   |   |   |   \-- sybb-phd/
+|   |   |   |-- systems-biology-and-bioinformatics-programs/
+|   |   |   \-- undergraduate-programs/
+|   |   |-- education-programs/
+|   |   |   |-- didactic-program-dietetics/
+|   |   |   |-- master-science-systems-biology-bioinformatics/
+|   |   |   |   |-- sybb-tracks-and-curriculum/
+|   |   |   |-- masters-program-systems-biology-bioinformatics-sybb/
+|   |   |   |-- masters-programs-nutrition/
+|   |   |   |   |-- ms-public-health-nutrition/
+|   |   |   |   \-- ms-public-health-nutrition-dietetic-internship/
+|   |   |   |-- systems-biology-bioinformatics-programs-ms-phd/
+|   |   |   |-- undergraduate-programs-in-nutrition/
+|   |   |   |   \-- minor-programs-in-nutrition/
+|   |   |   \-- undergraduate-programs-nutrition/
+|   |   |-- media/
+|   |   |-- research-programs/
+|   |   |   \-- wharton-summer-student-research/
+|   |   |-- sites/
+|   |   |   \-- case.edu.nutrition/
+|   |   |-- student-resources/
+|   |   |-- students/
+|   |   |   |-- undergraduate-student-research/
+|   |   |   |   |-- wharton-summer-student-research-2022/
+|   |   \-- sybb/
+|   |-- ophthalmology/
+|   |   |-- about/
+|   |   |   |-- department-administration/
+|   |   |   |-- department-faculty/
+|   |   |-- education/
+|   |   |-- events/
+|   |   |-- research/
+|   |   |   |-- clinical-research/
+|   |   |-- sites/
+|   |   |   \-- case.edu.ophthalmology/
+|   |   |-- visual-sciences-research-center/
+|   |   |   |-- p30-core-grant/
+|   |   |   |-- vsrc-members/
+|   |-- pathology/
+|   |   |-- about/
+|   |   |   |-- conference-rooms/
+|   |   |-- contact/
+|   |   |-- divisions/
+|   |   |   |-- anatomic-pathology/
+|   |   |   |-- center-global-health-and-diseases/
+|   |   |   |   |-- research/
+|   |   |   |   |-- training-courses/
+|   |   |   |   |   |-- certificate-global-health/
+|   |   |   |-- clinical-pathology/
+|   |   |   |-- community-hospitals-pathology/
+|   |   |   |-- experimental-pathology/
+|   |   |   |-- genomic-and-molecular-pathology/
+|   |   |   |-- global-health-and-diseases/
+|   |   |   |   |-- about-us/
+|   |   |   |   |-- cghd-member/
+|   |   |   |   |-- cghd-members/
+|   |   |   |-- national-prion-disease-pathology-surveillance-center/
+|   |   |   |   |-- about-us/
+|   |   |   |   |-- human-prion-disease/
+|   |   |   |   |-- human-prion-diseases/
+|   |   |   |   |-- resources-professionals/
+|   |   |   |   |   |-- testing-protocols/
+|   |   |-- faculty/
+|   |   |   |-- doi.org/
+|   |   |   |   |-- 10.1001/
+|   |   |   |   |-- 10.1016/
+|   |   |   |   |-- 10.1038/
+|   |   |   |   |-- 10.1073/
+|   |   |   |   |-- 10.1101/
+|   |   |   |   |-- 10.1146/
+|   |   |   |   |-- 10.1172/
+|   |   |   |   |-- 10.1242/
+|   |   |   |   \-- 10.7554/
+|   |   |-- news-and-events/
+|   |   |-- people/
+|   |   |-- sites/
+|   |   |   \-- case.edu.pathology/
+|   |   \-- training/
+|   |       |-- ms-programs/
+|   |       |   |-- ms-molecular-and-cellular-basis-disease/
+|   |       |   |-- ms-pathology-molecular-cellular-basis-disease/
+|   |       |-- phd-program/
+|   |       |   |-- cancer-biology-training-program/
+|   |       |   |-- immunology-training-program/
+|   |       |   |-- molecular-and-cellular-basis-disease-training-program/
+|   |       |-- residency-and-clinical-fellowships/
+|   |       |   |-- required-rotations/
+|   |-- phab/
+|   |-- pharmacology/
+|   |   |-- education-training/
+|   |   |-- history-people/
+|   |   |-- news-events/
+|   |   |-- people/
+|   |   |-- research/
+|   |   \-- sites/
+|   |       \-- case.edu.pharmacology/
+|   |-- physician-assistant/
+|   |   |-- about-program/
+|   |   |   |-- mission-vision-values-goals/
+|   |   |   |-- news/
+|   |   |-- about-the-program/
+|   |   |   \-- mission-vision-values-goals/
+|   |   |-- about-us/
+|   |   |-- admissions/
+|   |   |   |-- prerequisites/
+|   |   |   |-- tuition-and-financial-aid/
+|   |   |-- community/
+|   |   |   |-- faculty-staff/
+|   |   |   |-- students/
+|   |   |-- education/
+|   |   |   |-- curriculum/
+|   |   |   |-- program-policies/
+|   |   \-- sites/
+|   |       \-- case.edu.physician-assistant/
+|   |-- pqhs/
+|   |   |-- about/
+|   |   |   |-- people/
+|   |   |   |   |-- adjunct-faculty/
+|   |   |   |   |-- phd-trainees/
+|   |   |   |   |-- post-doctoral-fellows/
+|   |   |   |   |-- primary-faculty/
+|   |   |   |   |   |-- farren-b-s-briggs-phd-scm/
+|   |   |   |   |-- secondary-faculty/
+|   |   |   |   |-- staff/
+|   |   |-- education/
+|   |   |   |-- alzheimers-disease-translational-data-science-adtds-training-program-phd/
+|   |   |   |-- biomedical-health-informatics/
+|   |   |   |   |-- bhi-faculty/
+|   |   |   |   |-- certificate-health-informatics/
+|   |   |   |   |-- ms-biomedical-health-informatics/
+|   |   |   |   |   |-- bhi-ms-curriculum/
+|   |   |   |   |-- phd-biomedical-health-informatics/
+|   |   |   |-- biostatistics-and-epidemiology/
+|   |   |   |   |-- ms-biostatistics/
+|   |   |   |   |   |-- biostatistics-masters-faculty/
+|   |   |   |   |-- phd-epidemiology-and-biostatistics/
+|   |   |   |-- clinical-and-translational-research/
+|   |   |   |   \-- phd-clinical-translational-science-cts/
+|   |   |   |-- clinical-and-translational-science/
+|   |   |   |-- clinical-research/
+|   |   |   |   |-- certificate-clinical-research/
+|   |   |   |   |-- clinical-research-faculty/
+|   |   |   |   |-- ms-clinical-research/
+|   |   |   |   |-- ms-clinical-research-crsp/
+|   |   |   |   |-- phd-clinical-translational-science-cts/
+|   |   |   |-- public-health/
+|   |   |   |   |-- dual-graduate-degrees/
+|   |   |   |   |-- integrated-graduate-studies/
+|   |   |   |   |-- master-public-health/
+|   |   |   |   |   |-- dual-graduate-degrees/
+|   |   |   |   |   |-- innovations-conference/
+|   |   |   |   |   |-- mph-admission/
+|   |   |   |   |   |-- mph-contacts/
+|   |   |   |   |   |-- mph-curriculum/
+|   |   |   |   |   |   |-- culminating-experiences/
+|   |   |   |   |   |-- mph-events/
+|   |   |   |   |   |-- student-experience/
+|   |   |-- faculty-and-staff-resources/
+|   |   |   |-- room-requests/
+|   |   |-- media/
+|   |   |   |-- 576/
+|   |   |   |-- 606/
+|   |   |   \-- 621/
+|   |   |-- news-events/
+|   |   |-- research/
+|   |   |   |-- gis-health-hazards-lab/
+|   |   |   |-- research-projects/
+|   |   |   |   |-- study-genetics-dementiaalzheimers-disease-minority-populations/
+|   |   |-- resources/
+|   |   \-- sites/
+|   |       \-- case.edu.pqhs/
+|   |-- prep/
+|   |   |-- about/
+|   |   |-- program/
+|   |   |   |-- research-mentors/
+|   |   \-- sites/
+|   |       \-- case.edu.prep/
+|   |-- prime/
+|   |   |-- contact-us/
+|   |   |   |-- meet-our-students/
+|   |   |-- meet-our-students/
+|   |   |-- program-details/
+|   |   |-- sites/
+|   |   |   \-- case.edu.prime/
+|   |-- qil/
+|   |   |-- about/
+|   |   |-- careers/
+|   |   |-- news/
+|   |   |-- people/
+|   |   |   |-- faculty-staff/
+|   |   |-- research/
+|   |   |-- sites/
+|   |   |   \-- case.edu.qil/
+|   |-- radiation-oncology/
+|   |   \-- sites/
+|   |       \-- case.edu.radiation-oncology/
+|   |-- radiology/
+|   |-- reproductive-biology/
+|   |   |-- divisions/
+|   |   |-- education/
+|   |   |-- faculty-residents-fellows/
+|   |   |   |-- academic-faculty/
+|   |   |-- research-scholarship/
+|   |   \-- sites/
+|   |       \-- case.edu.reproductive-biology/
+|   |-- research/
+|   |   |-- entrepreneurship-school-medicine/
+|   |   |   |-- cwru-venture-mentoring-program/
+|   |   |   |-- translational-fellows-program/
+|   |   |-- research-administration/
+|   |   |-- research-support/
+|   |   |-- som-core-facilities/
+|   |   |-- translation-and-innovation/
+|   |-- rnacenter/
+|   |   |-- people/
+|   |   |   |-- faculty/
+|   |   \-- sites/
+|   |       \-- case.edu.rnacenter/
+|   |-- sites/
+|   |   \-- case.edu.medicine/
+|   |-- students/
+|   |   |-- financial-aid/
+|   |   |   |-- financial-aid-process/
+|   |   |   |-- policies-disclosures/
+|   |   |   |-- resources/
+|   |   |   |-- types-aid/
+|   |   |-- medical-student-research/
+|   |   |-- registrar/
+|   |   |   |-- medical-student-coordinator-resources/
+|   |   |   |-- policies/
+|   |   |   |-- scheduling/
+|   |   |   |-- visiting-medical-student-program/
+|   |   |-- student-affairs/
+|   |   |   |-- academic-societies/
+|   |   |   |-- international-programs/
+|   |   |   |   |-- peru-health-outreach-project/
+|   |-- tbru/
+|   |   |-- about-us/
+|   |   |-- collaborations-partnerships/
+|   |   |   |-- tuberculosis-trials-consortium/
+|   |   |   |-- uganda-cwru-research-collaboration/
+|   |   |-- research/
+|   |   |   |-- active-research-studies/
+|   |   |   |-- completed-research-studies/
+|   |   |   |   |-- azd-5847-early-bactericidal-activity-dmid-11-0006/
+|   |   |-- resources-expertise/
+|   |   \-- sites/
+|   |       \-- case.edu.tbru/
+|   |-- uhsurgery/
+|   |   |-- about/
+|   |   |-- education/
+|   |   |-- faculty/
+|   |   \-- sites/
+|   |       \-- case.edu.uhsurgery/
+|   |-- urbanhealth/
+|   |-- webform/
+|   |-- wellness-pathway/
+|   |   |-- about/
+|   |   |-- advisory-committee/
+|   |   |-- programs/
+|   |   |   |-- resources/
+|   |   |   |-- skill-sessions/
+|   |   |   |-- wellness-resources/
+|   |   |-- sites/
+|   |   |   \-- case.edu.wellness-pathway/
+|   \-- world-medicine-pathway/
+|       |-- about/
+|       |-- curriculum/
+|       |-- members/
+|       |   |-- advisory-board/
+|       |   |-- current-students/
+|       |-- research/
+|       \-- sites/
+|           \-- case.edu.world-medicine-pathway/
+|-- mem/
+|   |-- about/
+|   |-- industry-partnerships/
+|   |-- people/
+|   |   |-- faculty-and-staff/
+|   |-- prospective-students/
+|   \-- sites/
+|       \-- case.edu.mem/
+|-- militaryethics/
+|-- mrf/
+|   |-- fonts/
+|-- mstp/
+|   |-- about/
+|   |-- academics/
+|   |-- admissions/
+|   |-- student-life/
+|-- music/
+|-- neurosciences/
+|-- newmeded/
+|-- newstudents/
+|-- noa-agep/
+|   |-- activities/
+|   |-- people/
+|   |-- sites/
+|   |   \-- case.edu.noa-agep/
+|-- nursing/
+|   |-- about/
+|   |   |-- dean/
+|   |   |-- diversity-and-inclusion/
+|   |   |-- fpb-directories/
+|   |   |   |-- faculty-directory/
+|   |   |-- history/
+|   |-- admissions/
+|   |   |-- financial-aid/
+|   |   |   |-- phd-funding/
+|   |   |-- how-apply/
+|   |   |   |-- mn/
+|   |-- alumni/
+|   |   |-- alumni-awards/
+|   |   |-- events/
+|   |   |-- homecoming-reunion/
+|   |-- bsn/
+|   |-- community/
+|   |-- faculty-staff/
+|   |   |-- diversity-and-inclusion/
+|   |   |-- fpb-room-reservations/
+|   |   |-- preceptors/
+|   |   |-- school-nursing-dashboard/
+|   |-- giving/
+|   |-- media/
+|   |-- mn/
+|   |-- msn/
+|   |-- news/
+|   |   |-- forefront-magazine/
+|   |-- nurse-leadership-academy/
+|   |-- practical-technology/
+|   |   |-- center-nursing-education-simulation-and-innovation/
+|   |   |   \-- learning-spaces/
+|   |-- programs/
+|   |   |-- bridges-doctorate/
+|   |   |-- bsn/
+|   |   |-- dnp/
+|   |   |   |-- nurse-anesthesia-dnp/
+|   |   |   |-- stat-camp/
+|   |   |-- dual-doctorate-phddnp/
+|   |   |-- mn/
+|   |   |-- mn-graduate-entry/
+|   |   |   |-- admission-options/
+|   |   |   |   |-- senior-year-direct-entry/
+|   |   |   |-- admission-requirements/
+|   |   |   |   \-- syps-colleges-universities_/
+|   |   |-- msn/
+|   |   |   |-- msn-majors/
+|   |   |   |   |-- adult-gerontology-acute-care-nurse-practitioner/
+|   |   |   |   |-- family-systems-psychiatric-mental-health-nursing/
+|   |   |   |   |-- neonatal-nurse-practitioner-program-nnp/
+|   |   |   |   |-- nurse-anesthesia/
+|   |   |   |   |-- nurse-midwifery-program-cnm/
+|   |   |-- phd/
+|   |   |   |-- aqm-certificate/
+|   |   |   |-- legacy-fellows/
+|   |   \-- shaughnessy-nurse-leadership-academy/
+|   |       |-- initiatives-and-programs/
+|   |-- QSEN/
+|   |-- research/
+|   |   |-- center-research-and-scholarship/
+|   |   |   |-- cfrs-seminars-and-policy-resources/
+|   |   |   |-- dissertation-awards/
+|   |   |   |-- poster-printing-faqs/
+|   |   |-- centers-excellence/
+|   |   |   |-- critical-care-transport-and-flight-nursing-center/
+|   |   |   |-- emergency-and-critical-care-transport/
+|   |   |   |   |-- about/
+|   |   |   |   |-- advanced-transport-education/
+|   |   |   |   |   |-- interprofessional-critical-care-transport-confe/
+|   |   |   |   |-- critical-care-transport-simulation/
+|   |   |   |-- pilot-studies/
+|   |   |   |-- sarah-cole-hirsh-institute/
+|   |   |   |-- smart-center/
+|   |   |   |   |-- cores/
+|   |   |   \-- university-center-aging-and-health/
+|   |   |       |-- florence-cellar-conference/
+|   |   |-- research-areas/
+|   |   |   |-- faculty-research-studies-labs/
+|   |   |   |   |-- hiv-biobehavioral-and-symptom-science/
+|   |   |   |   |-- implementation-and-improvement-science/
+|   |   |-- research-studies-labs/
+|   |   |   |-- advanced-cancer-research/
+|   |   |   |-- cleveland-schools-lead-screening-project/
+|   |-- sarah-cole-hirsh-institute/
+|   |-- school-activities/
+|   |   |-- diversity-inclusion/
+|   |   |   \-- events/
+|   |   |-- global-affairs/
+|   |-- sites/
+|   |   \-- case.edu.nursing/
+|   |-- students/
+|   |   |-- capstone/
+|   |   |-- center-nursing-education-simulation-and-innovation/
+|   |   |   |-- simulation-research/
+|   |   |-- course-listings/
+|   |   |   |-- nurs/
+|   |   |-- global-affairs/
+|   |   |-- international-health-programs/
+|   |   |-- newly-admitted-students/
+|   |   |-- registrar/
+|   |   |-- student-organizations/
+|   |   |   |-- graduate-student-nurses-association-gsna/
+|   |   |-- student-resources/
+|   |-- ucah/
+|   |   |-- florence-cellar-conference/
+|   \-- webform/
+|       \-- javascript/
+|-- nutrition/
+|-- onetoone/
+|   |-- about-us/
+|   |   |-- one-one-veale/
+|   |   |   \-- aquatics/
+|   |-- aquatics/
+|   |-- group-exercise-classes/
+|   |-- group-exercise-massage/
+|   |-- media/
+|   |-- memberships/
+|   |-- memberships-guests/
+|   |-- next-level-fitness-studio/
+|   |   |-- wellness-services/
+|   |-- one-one-membership/
+|   |   |-- graduate-student-memberships/
+|   |-- personal-training/
+|   |-- sites/
+|   |   \-- case.edu.onetoone/
+|   |-- wellness-services/
+|   |-- what-we-offer/
+|-- online-learning/
+|   |-- courses-and-programs/
+|   |-- sites/
+|   |   \-- case.edu.online-learning/
+|   |-- state-authorization/
+|   |-- state-authorization-compliance/
+|-- orgs/
+|   |-- cghd/
+|   |   |-- faculty-research/
+|   |-- isf/
+|   |   |-- _assets/
+|   |   |-- _css/
+|   |   |-- _scripts/
+|   |   |-- _videos/
+|   |   \-- services/
+|   \-- psiomega/
+|-- osf/
+|-- packages/
+|-- page-data/
+|   |-- about/
+|   |   |-- history/
+|   |   |-- mission-vision-values/
+|   |   |-- notable-alumni/
+|   |   \-- rankings/
+|   |-- academics/
+|   |-- admissions/
+|   |   |-- graduate-professional/
+|   |   \-- undergraduate/
+|   |-- alumni-resources/
+|   |-- campus-life/
+|   |   |-- athletics/
+|   |   |-- health-and-safety/
+|   |   |-- our-location/
+|   |   \-- visit/
+|   |-- cwruresearch/
+|   |   |-- centers-and-institutes/
+|   |-- faculty/
+|   |-- giving/
+|   |-- index/
+|   |-- parents-families/
+|   |-- privacy-statement/
+|   |-- sq/
+|   |   \-- d/
+|   |-- staff/
+|   \-- students/
+|-- parents/
+|   \-- contact-us/
+|-- parents-families/
+|-- parking/
+|   |-- about/
+|   |-- permits/
+|   |   |-- parking-permit-types/
+|   |   |-- special-event-parking/
+|   |-- regulations/
+|   |   |-- restrictions/
+|   |   |-- violations/
+|   |-- sites/
+|   |   \-- case.edu.parking/
+|   |-- transportation/
+|   |   |-- campus-shuttles/
+|   |   |-- public-transportation/
+|   |   |-- shuttles/
+|   |   |   |-- _/
+|   |-- visitor-parking/
+|-- pathology/
+|   \-- media/
+|-- pdc/
+|-- plannedgiving/
+|-- pointofview/
+|   |-- assets/
+|-- policies/
+|   \-- sites/
+|       \-- case.edu.policies/
+|-- postdoc/
+|   |-- administrators-mentors/
+|   |-- current-postdoctorates/
+|   |   |-- policies/
+|   |-- postdoc-association/
+|   \-- sites/
+|       \-- case.edu.postdoc/
+|-- postgrad/
+|   |-- about/
+|   |   |-- outcomes-and-data/
+|   |-- alumni/
+|   |-- career-development/
+|   |-- career-developmentcareer-interest-areas/
+|   |-- career-developmentdiversity-career-resources/
+|   |-- career-developmentgraduate-student-career-planning/
+|   |-- career-developmentinterview-prep/
+|   |-- career-developmenttips-job-seekers/
+|   |-- career-developmenttips-job-seekerscorrespondence/
+|   |-- career-developmenttips-job-seekersinterviewing/
+|   |-- career-developmenttips-job-seekersnetworking/
+|   |-- career-developmenttips-job-seekersresumes/
+|   |-- career-education/
+|   |-- career-educationgraduate-student-career-planning/
+|   |-- career-educationtips-job-seekers/
+|   |-- career-educationtips-job-seekerscorrespondence/
+|   |-- career-educationtips-job-seekersinterviewing/
+|   |-- career-educationtips-job-seekersinterviewingbehavior-based-interviewing/
+|   |-- employers/
+|   |-- employersemployer-events/
+|   |-- employersrecruit-and-post-jobs/
+|   |-- events/
+|   |-- eventscareer-fairs/
+|   |-- experiential-education/
+|   |-- experiential-educationpracticum/
+|   |-- experiential-educationstudent-spotlights/
+|   |-- graduate-and-professional-school-planning/
+|   |-- graduate-and-professional-school-planningpre-health-advising/
+|   |-- sites/
+|   |   \-- case.edu.postgrad/
+|   \-- webform/
+|-- povertycenter/
+|   \-- media/
+|-- president/
+|   |-- meet-president/
+|   |-- sites/
+|   |   \-- case.edu.president/
+|   |-- speeches-statements/
+|-- president-search/
+|   |-- campus-updates/
+|   |-- search-process/
+|   \-- sites/
+|       \-- case.edu.president-search/
+|-- presidents-letter/
+|-- printing/
+|   \-- sites/
+|       \-- case.edu.printing/
+|-- privacy-statement/
+|-- procurement/
+|   |-- about-us/
+|   |-- accounts-payable/
+|   |-- diversity-sustainability/
+|   |-- home/
+|   |-- mail-services/
+|   |-- purchasing/
+|   |   |-- contracts/
+|   |   |   |-- independent-contractors-form/
+|   |   |-- faqs/
+|   |   |-- how-buy/
+|   |   |-- procurement-card-suite/
+|   \-- sites/
+|       \-- case.edu.procurement/
+|-- programs/
+|   |-- sites/
+|   |   \-- case.edu.programs/
+|-- projects/
+|   \-- erp/
+|       \-- HCM/
+|-- provost/
+|   |-- about/
+|   |   |-- events/
+|   |   |   |-- 2021-virtual-digital-futures-conference/
+|   |-- covid-19/
+|   |   \-- faculty-guidance-during-covid-19/
+|   |-- cue/
+|   |-- faculty-academics/
+|   |-- policies-resources/
+|   |-- sites/
+|   |   \-- case.edu.provost/
+|   |-- strategic-plan-initiatives/
+|   |   |-- better-cwru/
+|   |   |-- faculty-hiring-initiatives/
+|   |   |-- north-star-consortium/
+|   |   |-- north-star-courses-and-experiences/
+|-- provostscholars/
+|-- pubaff/
+|   \-- govrel/
+|-- publicsafety/
+|   |-- about/
+|   |   |-- emergency-management/
+|   |   |-- police/
+|   |   |-- police-and-security/
+|   |-- emergency-preparedness/
+|   |   \-- plans-procedures/
+|   |-- police/
+|   |-- reporting/
+|   |   |-- crime-log-and-annual-security-reports/
+|   |   |-- crime-security-reports/
+|   |   |-- how-to-report/
+|   |-- resources/
+|   |   |-- university-policies/
+|   |-- safety-campus/
+|   |   |-- campus-security-authority/
+|   |   |-- clery-act/
+|   |   |   |-- security-alerts/
+|   |   |-- crime-log-and-annual-security-reports/
+|   |   |   |-- security-alerts/
+|   |-- safety-on-campus/
+|   |   |-- cwru-shield-app/
+|   |   |-- safe-ride/
+|   |   |-- walking-escorts/
+|   |-- services/
+|   |-- sites/
+|   |   \-- case.edu.publicsafety/
+|   |-- training/
+|   \-- webform/
+|-- raceandjustice/
+|   |-- events/
+|   |-- resources/
+|   |-- sites/
+|   |   \-- case.edu.raceandjustice/
+|   |-- university-response/
+|   |   |-- school-and-department-statements/
+|   |   |-- university-statements/
+|   \-- university-statements/
+|-- realestate/
+|   |-- property-management/
+|   |-- residential-rentals/
+|   \-- sites/
+|       \-- case.edu.realestate/
+|-- redefining/
+|   |-- fonts/
+|-- registrar/
+|   |-- calendar/
+|   |-- dates-deadlines/
+|   |   |-- academic-calendar/
+|   |   |   |-- prior-years-academic-calendars/
+|   |   |-- enrollment-dates-and-deadlines/
+|   |   |-- enrollment-dates-deadlines/
+|   |   |-- final-exam-schedule/
+|   |   |   |-- archived-exam-schedules/
+|   |-- faculty/
+|   |   \-- posting/
+|   |-- faculty-staff/
+|   |   |-- class-maintenance/
+|   |   |   \-- schedule-classes-administration/
+|   |   |       |-- error-report-help/
+|   |   |-- curriculum-and-program-management/
+|   |   |   |-- program-action-form/
+|   |   |   |-- schedule-classes-administration/
+|   |   |-- newsletters/
+|   |-- forms-services/
+|   |   |-- apostille-document-authentication/
+|   |   |-- diplomas-and-certificates/
+|   |   |   |-- certified-electronic-credential/
+|   |   |-- enrollment-verification/
+|   |   |-- forms/
+|   |   |   |-- _http_/
+|   |   |   |   \-- case.edu/
+|   |   |   |       \-- registrar/
+|   |   |   |           \-- general/
+|   |   |   |               \-- codes/
+|   |   |   |                   \-- academic-organizations/
+|   |   |   |-- gender-change-policy/
+|   |   |   |-- namechange/
+|   |   |   |-- preferred-name-policy/
+|   |   |-- veterans/
+|   |   |-- veterans-education-benefits/
+|   |-- general/
+|   |   |-- codes-and-abbreviations/
+|   |   |-- ferpa/
+|   |   |-- frequently-asked-questions/
+|   |   |   |-- faculty-schedule-classes/
+|   |   |   |-- logging-sis/
+|   |   |   |-- pronoun-gender-identity-and-prefix-information/
+|   |   |   |-- students-transcripts/
+|   |   |-- policy/
+|   |   |-- sis-resources/
+|   |   |   |-- department-administrators-schedule-classes/
+|   |   |   |-- departmental-admin-center/
+|   |   |-- sis-security-information/
+|   |   |-- statistics/
+|   |   |   |-- completion-rates/
+|   |   |   \-- semester-enrollment-statistics/
+|   |   |-- statistics-and-data/
+|   |-- general-info/
+|   |   \-- frequently-asked-questions/
+|   |-- grading-transcripts/
+|   |   |-- grading-and-transcript-keys/
+|   |-- registration/
+|   |   |-- how-to/
+|   |   |-- lastday/
+|   |   |-- permissions/
+|   |   \-- schedule-of-classes/
+|   |-- registration-classes/
+|   |   |-- class-search/
+|   |   |-- registration-information/
+|   |-- sites/
+|   |   \-- case.edu.registrar/
+|   \-- transcript/
+|-- research/
+|   |-- about/
+|   |   |-- hot-topics/
+|   |   |-- meet-our-staff/
+|   |-- core-facilities/
+|   |-- faculty-staff/
+|   |   |-- award-management/
+|   |   |-- compliance/
+|   |   |   |-- conflict-interests-committee-coi/
+|   |   |   |-- hipaa/
+|   |   |   |-- institutional-animal-care-and-use-committee-iacuc/
+|   |   |   |-- institutional-review-board-cwru-irb/
+|   |   |   |   |-- irb-covid-19-guidance/
+|   |   |   |-- irb/
+|   |   |   |-- research-integrity/
+|   |   |-- education/
+|   |   |   \-- crec_video/
+|   |   |-- education-and-training/
+|   |   |   |-- sparta-info/
+|   |   |   |-- spartairb-info/
+|   |   |-- funding-opportunities/
+|   |   |-- proposal-development/
+|   |   |-- technology-transfer/
+|   |   |   |-- cwru-technology-ventures-ctv/
+|   |   \-- tto/
+|   |       \-- ip-policy/
+|   |-- media/
+|   |-- popular-resources/
+|   |   |-- hot-topics/
+|   |-- research-industry/
+|   |-- research-showcase/
+|   |   |-- high-school-experience/
+|   |-- research-with-industry/
+|   |   \-- ip-and-industry/
+|   |-- resources/
+|   |   \-- forms-policies/
+|   |-- showcase/
+|   |-- sites/
+|   |   \-- case.edu.research/
+|-- reservations/
+|-- resiliency/
+|   |-- about-us/
+|   |-- cwru-ready/
+|   |-- emergency-preparedness/
+|   |-- get-started/
+|   |-- resources-tools/
+|   \-- sites/
+|       \-- case.edu.business-continuity/
+|-- return-to-campus/
+|-- riskmanagement/
+|   |-- compensation/
+|   |-- docs/
+|   |-- report/
+|   |-- theft/
+|   \-- vehicle/
+|-- rooms/
+|-- sac/
+|   |-- general-council/
+|   |   |-- council-minutes/
+|   |   |-- membership/
+|   |-- media/
+|   |-- news/
+|   |-- sites/
+|   |   \-- case.edu.sac/
+|   |-- standing-committees/
+|   |   |-- communications/
+|   |   |-- community-service/
+|   |   |   |-- back-school-drive/
+|   |   |   |-- basket-raffle/
+|   |   |-- elections/
+|   |   |-- fringe-benefits/
+|   |   |-- staff-development-training/
+|   |   |-- staff-policy/
+|   |   |-- staff-recognition/
+|   |   \-- staff-training-development/
+|-- schools/
+|-- schubertcenter/
+|   |-- about-us/
+|   |   |-- center-directory/
+|   |   |-- history/
+|   |   |   |-- 20-years-schubert-center/
+|   |   |   |-- annual-reports/
+|   |   |   |   |-- annual-report-2018-2019/
+|   |   |-- news/
+|   |   |   |-- center-news/
+|   |   |   |   |-- kessler-freedheim-keynote-address/
+|   |   |   |   |-- schubert-center-director-steps-down-new-director-named/
+|   |   |   |   |-- statement-use-force/
+|   |   |   |-- event-news/
+|   |   |   |-- faculty-news/
+|   |   |   |   |-- sccs-faculty-associates-claudia-coulton-dan-flannery-and-gerald-mahoney-named-top-100-social-workers-taylor-francis/
+|   |   |   |-- mann-child-policy-externship-participants/
+|   |   |   |-- policy-news/
+|   |   |   |   |-- education-and-student-supports/
+|   |   |   |   |-- health-and-environment/
+|   |   |   |   |-- law-and-juvenile-justice/
+|   |   |   |-- research-news/
+|   |   |   |-- student-news/
+|   |-- education/
+|   |   |-- child-policy-pathway/
+|   |   |-- mann-child-policy-externship/
+|   |   |   |-- externship-participants/
+|   |   |-- welter-muzic-undergraduate-fellowship-child-studies/
+|   |-- event/
+|   |-- events/
+|   |   |-- kessler-freedheim-lecture-series/
+|   |   |-- past-events/
+|   |-- news/
+|   |-- past-events/
+|   |-- policy/
+|   |   |-- policy-action-issues/
+|   |   |-- working-toward-lead-free-kids-ohio/
+|   |-- publications/
+|   |-- research/
+|   |   |-- research-faculty-associates/
+|   |   |-- schubert-center-faculty-research-and-child-associates/
+|   |   |-- schubert-faculty-research-child-associates/
+|   |-- sites/
+|   |   \-- case.edu.schubertcenter/
+|-- search/
+|-- seniorauditprogram/
+|   \-- sites/
+|       \-- case.edu.seniorauditprogram/
+|-- sis/
+|-- socialjustice/
+|   |-- about/
+|   |-- education/
+|   |   |-- academic-programs/
+|   |-- events/
+|   |   \-- past-events/
+|   |-- leadership/
+|   |-- leadership-collective/
+|   |-- programs-and-events/
+|   |   |-- past-events/
+|   |-- research/
+|   |   |-- fellowships/
+|   |-- research-fellowships/
+|   |-- sites/
+|   |   \-- case.edu.socialjustice/
+|-- socialwork/
+|   |-- about/
+|   |   |-- current-opportunities/
+|   |   |-- directory/
+|   |   |-- directory-faculty-and-staff/
+|   |   |   |-- emeriti-faculty/
+|   |   |   |-- laura-voith/
+|   |   |   |   |-- healing-empowerment-antiviolence-research-team-heart/
+|   |   |-- events/
+|   |   |-- news/
+|   |   |   |-- commencement-2019-you-can-you-will/
+|   |   |-- news-publications/
+|   |   |-- our-school/
+|   |   |   |-- accreditation/
+|   |-- academics/
+|   |   |-- certificates/
+|   |   |-- dual-degrees/
+|   |   |-- field-education/
+|   |   |   |-- field-education-resources/
+|   |   |-- harris-library/
+|   |   |-- interprofessional-education/
+|   |   |-- master-of-social-work/
+|   |   |-- master-social-work/
+|   |   |   |-- paths-study/
+|   |   |-- phd-social-welfare/
+|   |   |   |-- four-competencies/
+|   |   |   |-- phd-students/
+|   |   |-- study-abroad/
+|   |   |-- undergraduate-opportunities/
+|   |-- admissions/
+|   |   |-- apply/
+|   |   |   |-- how-apply/
+|   |   |-- financial-aid-scholarships/
+|   |   |   |-- research-and-training-scholarships/
+|   |   |-- new-generalist-curriculum/
+|   |   \-- tuition-aid/
+|   |-- alumni/
+|   |-- begun/
+|   |   |-- about-us/
+|   |   |   |-- faculty-staff/
+|   |   |   |-- resources/
+|   |   |   \-- who-we-are/
+|   |   |-- center-evidence-based-practices-cebp/
+|   |   |-- center-for-innovative-practices/
+|   |   |   \-- our-work/
+|   |   |-- center-innovative-practices-cip/
+|   |   |   |-- evidence-based-interventions/
+|   |   |   |-- our-work/
+|   |   |-- consultation-and-training/
+|   |   |   |-- center-innovative-practices-cip/
+|   |   |   |   |-- evidence-based-interventions/
+|   |   |-- partnership-evaluation-research-and-implementation-peri/
+|   |   |-- research-and-evaluation/
+|   |   |   |-- community-based-research/
+|   |   |   |-- gender-based-violence/
+|   |   |   |   |-- sexual-assault-kit-initiative-saki/
+|   |   |   |-- juvenile-justice/
+|   |   |   |-- law-enforcement/
+|   |   |   |-- partnership-evaluation-research-and-implementation-peri/
+|   |   |   |-- school-and-youth-violence-prevention/
+|   |   |   \-- violence-prevention/
+|   |   |-- resources/
+|   |   \-- sites/
+|   |       \-- case.edu.begun/
+|   |-- campus-life/
+|   |   |-- student-groups/
+|   |   |   |-- mandel-council-student-leadership/
+|   |-- centerforebp/
+|   |   |-- about-us/
+|   |   |   |-- our-founders/
+|   |   |   |-- staff/
+|   |   |-- events/
+|   |   |-- practices/
+|   |   |   |-- assertive-community-treatment/
+|   |   |   |-- benefits-advocacy-planning/
+|   |   |   |-- integrated-primary-and-behavioral-healthcare/
+|   |   |   |-- motivational-interviewing/
+|   |   |   |-- promoting-housing-stability/
+|   |   |   |-- substance-abuse-mental-illness/
+|   |   |   |   |-- dual-diagnosis-capability/
+|   |   |   |   |-- integrated-dual-disorder-treatment/
+|   |   |   |-- supported-employmentindividual-placement-support/
+|   |   |   |-- tobacco-recovery-across-continuum/
+|   |   |   |-- trauma-informed-care/
+|   |   |-- resources/
+|   |   |-- services/
+|   |   |-- sites/
+|   |   |   \-- case.edu.centerforebp/
+|   |   |-- stories/
+|   |-- communityinnovation/
+|   |   |-- about-us/
+|   |   |   |-- covid-19-response/
+|   |   |   |-- meet-our-team/
+|   |   |-- building-capacity/
+|   |   |   \-- foundations-community-building/
+|   |   |-- community-building/
+|   |   |-- consulting/
+|   |   |-- events/
+|   |   |-- research-resources/
+|   |   |   |-- covid-19-response/
+|   |   |   |   |-- anti-discrimination-statement/
+|   |   |   |-- success-stories/
+|   |   |   |-- thoughts-network/
+|   |   |-- sites/
+|   |   |   \-- case.edu.communityinnovation/
+|   |   |-- training/
+|   |   \-- upcoming-events/
+|   |       \-- past-events/
+|   |-- give/
+|   |-- media/
+|   |-- nimc/
+|   |   |-- about-us/
+|   |   |   |-- who-we-are/
+|   |   |-- newsroom/
+|   |   |-- research/
+|   |   |-- resources/
+|   |   |   |-- what-works-volume/
+|   |   |   |   |-- essays/
+|   |   |-- services/
+|   |   \-- sites/
+|   |       \-- case.edu.nimc/
+|   |-- povertycenter/
+|   |   |-- about/
+|   |   |   |-- faculty-staff/
+|   |   |-- data-systems/
+|   |   |   |-- child-data-system/
+|   |   |   |-- neocando/
+|   |   |-- news/
+|   |   |-- our-work/
+|   |   |   |-- community-stabilization-and-development/
+|   |   |   |-- human-development-and-social-programs/
+|   |   |   |   |-- family-and-child-wellbeing/
+|   |   |   |-- lead-safe-research/
+|   |   |-- publications/
+|   |   \-- sites/
+|   |       \-- case.edu.povertycenter/
+|   |-- research/
+|   |-- research-and-training/
+|   |-- research-training/
+|   |-- resources/
+|   |   |-- covid-19-resources/
+|   |   \-- return-campus-resources/
+|   |-- resources-alumni/
+|   |   |-- alumni-awards/
+|   |-- resources-faculty-staff/
+|   |   |-- academics/
+|   |   |-- facilities/
+|   |   |-- finance/
+|   |   |-- human-resources/
+|   |   |   |-- mandel-school-staff-awards/
+|   |   |-- marketing-and-events/
+|   |   |   |-- marketing-and-communications/
+|   |   |-- research/
+|   |   |-- technology/
+|   |-- resources-for-faculty-staff/
+|   |-- resources-for-students/
+|   |-- resources-students/
+|   |   |-- commencement/
+|   |-- sites/
+|   |   \-- case.edu.socialwork/
+|   \-- traumacenter/
+|       |-- about-us/
+|       |   |-- who-we-are/
+|       |-- events/
+|       |-- institute/
+|       |-- research/
+|       |-- resources/
+|       |   |-- covid-19-research/
+|       |   |-- research-briefs/
+|       |-- sites/
+|       |   \-- case.edu.traumacenter/
+|       |-- student-training/
+|       |   |-- research-scholars/
+|-- source/
+|   |-- about-source/
+|   |-- find/
+|   |   \-- source-programs/
+|   |       \-- sures/
+|   |-- find-programs-and-funding/
+|   |   |-- beckman-scholars-program/
+|   |   |   |-- former-beckman-scholars/
+|   |   |-- non-campus-based-summer-positions/
+|   |   |-- source-funded-programs/
+|   |-- highlights/
+|   |-- share-your-work/
+|   |   |-- present-intersections/
+|   |-- sites/
+|   |   \-- case.edu.source/
+|   |-- start-your-research/
+|-- srhc/
+|-- staff/
+|-- stage/
+|   |-- admissions/
+|   \-- redir/
+|       \-- actions/
+|           \-- contact/
+|-- static/
+|-- step/
+|   |-- chemistry/
+|   |-- entrepreneurial-biotechnology/
+|   |-- ms-physics-entrepreneurship-track/
+|   \-- sites/
+|       \-- case.edu.step/
+|-- strategicplan/
+|-- studentaccounts/
+|   |-- 1098t/
+|   |-- billing-payments/
+|   |   |-- dates-deadlines/
+|   |-- resources/
+|   |-- sites/
+|   |   \-- case.edu.studentaccounts/
+|   |-- tuition-fees/
+|   |   |-- graduate/
+|   |   |   |-- school-of-dental-medicine/
+|   |   |   \-- school-of-graduate-studies/
+|   |   |-- graduateprofessional-tuition-fees/
+|   |   |-- undergraduate/
+|   |-- your-student-account/
+|   |   |-- sis-financial-guide/
+|-- studentlife/
+|   |-- about/
+|   |   |-- community-concerns-reporting/
+|   |   |-- dean-students/
+|   |   |-- history-and-traditions/
+|   |   |-- mentoring/
+|   |   |-- office-student-affairs/
+|   |   |   |-- message-vp-student-affairs/
+|   |   |-- operations-and-planning/
+|   |   |   |-- finance/
+|   |   |   |-- human-resources/
+|   |   |   |   |-- recruiting/
+|   |   |   |-- learning-outcomes/
+|   |   |-- recognition-and-scholarships/
+|   |   |-- student-life-strategic-plan/
+|   |-- accommodatedtesting/
+|   |   |-- about/
+|   |   |-- accommodated-testing/
+|   |   |-- services/
+|   |   \-- sites/
+|   |       \-- case.edu.accommodatedtesting/
+|   |-- activities/
+|   |   |-- 2021-2022-programming-resources/
+|   |   |-- about/
+|   |   |-- campus-traditions/
+|   |   |   |-- legacy-week/
+|   |   |-- event-centers/
+|   |   |-- leadership-development/
+|   |   |-- resources/
+|   |   |-- services/
+|   |   |-- sites/
+|   |   |   \-- case.edu.activities/
+|   |   |-- student-organization-support/
+|   |-- civicengagement/
+|   |   |-- about/
+|   |   |-- community-service/
+|   |   |   |-- civic-engagement-scholars/
+|   |   |-- events/
+|   |   |-- resources/
+|   |   |   |-- community-service-advising/
+|   |   |   |-- elections-and-voter-resources/
+|   |   |   |-- funding/
+|   |   |   |-- postgraduate-service/
+|   |   |   |-- transportation/
+|   |   |-- sites/
+|   |   |   \-- case.edu.civicengagement/
+|   |-- conduct/
+|   |   |-- about/
+|   |   |-- academic-integrity-resources/
+|   |   |-- conduct-process/
+|   |   |-- sites/
+|   |   |   \-- case.edu.conduct/
+|   |   |-- university-code-conduct/
+|   |   |   |-- procedures/
+|   |   |   |-- proscribed-conduct/
+|   |-- dean/
+|   |   |-- about/
+|   |   |-- carecrisis-management/
+|   |   |   |-- care-report/
+|   |   |-- interreligious-council-irc/
+|   |   |-- reporting-systems/
+|   |   |-- resources/
+|   |   |-- sites/
+|   |   |   \-- case.edu.dean/
+|   |   |-- support-resources/
+|   |   |-- support-services/
+|   |   \-- university-policies/
+|   |-- disability/
+|   |   |-- about/
+|   |   |-- disability-awareness/
+|   |   |-- faculty-resources/
+|   |   |-- getting-started/
+|   |   |   |-- using-aim-system/
+|   |   |-- policies-and-procedures/
+|   |   |-- procedures-and-information/
+|   |   |   |-- service-and-assistance-animals/
+|   |   \-- sites/
+|   |       \-- case.edu.disability/
+|   |-- events/
+|   |   \-- winter-programming-and-information/
+|   |-- focus/
+|   |-- graduate/
+|   |   |-- about/
+|   |   |-- campus-life/
+|   |   |   |-- graduate-student-appreciation-week/
+|   |   |-- resources/
+|   |   |   |-- getting-around/
+|   |   |   |-- tips-grad-students/
+|   |   \-- sites/
+|   |       \-- case.edu.graduate/
+|   |-- greek/
+|   |-- healthcounseling/
+|   |   |-- about/
+|   |   |-- aboutcontact-us/
+|   |   |-- abouttraining-positionspsychology-doctoral-internship/
+|   |   |-- aboutwho-can-use-uhcs/
+|   |   |-- counseling-services/
+|   |   |-- counseling-servicesestablishing-care/
+|   |   |-- counseling-servicesfaculty-consultation/
+|   |   |-- counseling-servicesprevention-recovery-services/
+|   |   |-- counseling-servicestraining-positions/
+|   |   |-- counseling-servicestraining-positionspsychology-doctoral-internship/
+|   |   |-- counseling-servicestraining-positionspsychology-doctoral-internshiptraining-program/
+|   |   |-- disability-resources/
+|   |   |-- health-services/
+|   |   |-- health-servicescovid-19-campus-communications/
+|   |   |-- health-servicesgeneral-clinic/
+|   |   |-- health-serviceshealth-updates/
+|   |   |-- health-serviceshealth-updates-faq/
+|   |   |-- health-serviceshealth-updates-faqisolation-quarantine-information/
+|   |   |-- health-serviceshealth-updates-faqtravel-advice/
+|   |   |-- health-serviceshealth-updatescovid-19-campus-communications/
+|   |   |-- health-servicesimmunizations/
+|   |   |-- health-servicesneedle-stick-injuries/
+|   |   |-- health-servicesnew-students/
+|   |   |-- health-servicessexual-health/
+|   |   |-- medical-plan/
+|   |   |-- medical-planhipaa-privacy-notice/
+|   |   |-- medical-planplan-information/
+|   |   |-- medical-planwaiver-information/
+|   |   |-- release-information-records/
+|   |   |-- sites/
+|   |   |   \-- case.edu.healthcounseling/
+|   |   |-- student-wellness/
+|   |   |-- student-wellnessalcohol-and-drugs/
+|   |   |-- student-wellnesssuicide-prevention/
+|   |   |-- student-wellnessvirtual-programs/
+|   |   |-- student-wellnesswellness-programs/
+|   |   \-- student-wellnesswellness-programsequity-college-health-and-well-being/
+|   |-- multicultural/
+|   |   |-- about/
+|   |   |   |-- meet-our-staff/
+|   |   |-- events/
+|   |   |   |-- unity-banquet/
+|   |   |-- sites/
+|   |   |   \-- case.edu.multicultural/
+|   |-- postgrad/
+|   |-- residence/
+|   |   |-- about/
+|   |   |   |-- meet-our-staff/
+|   |   |-- communities/
+|   |   |-- join-our-team/
+|   |   |   |-- graduate-opportunities/
+|   |   |   |-- professional-opportunities/
+|   |   |   |-- undergraduate-opportunities/
+|   |   |-- sites/
+|   |   |   \-- case.edu.residence/
+|   |-- services/
+|   |   |-- campusgroups/
+|   |-- sites/
+|   |   \-- case.edu.studentlife/
+|   |-- thwing/
+|   |   |-- about/
+|   |   |-- programming-spaces/
+|   |   |-- services/
+|   |   |   |-- campus-and-commuter-student-services/
+|   |   |   |-- commuter-and-campus/
+|   |   |   |-- us-postal-services/
+|   |   \-- sites/
+|   |       \-- case.edu.thwing/
+|   |-- university-policies/
+|   |   |-- campus-and-resources/
+|   |   |-- safety-security-and-emergencies/
+|-- students/
+|-- studentsuccess/
+|   |-- about/
+|   |   |-- programs/
+|   |-- academic-resources/
+|   |   |-- english-language-resources/
+|   |   |-- peer-tutoring/
+|   |   |-- supplemental-instruction-si/
+|   |-- first-year/
+|   |-- navigators/
+|   |-- news-events/
+|   |   |-- go/
+|   |   |-- know/
+|   \-- sites/
+|       \-- case.edu.studentsuccess/
+|-- sustainability/
+|   |-- about/
+|   |   |-- team/
+|   |-- academics/
+|   |   |-- research/
+|   |   |-- sustainability-related-centers-and-institutes/
+|   |-- campus/
+|   |   |-- water/
+|   |-- climate-action-network/
+|   |-- news/
+|   |-- sites/
+|   |   \-- case.edu.sustainability/
+|   |-- what-were-doing/
+|   |   |-- green-bag-lunch-series/
+|   |   |-- recycling/
+|   |   \-- sustainability-ambassadors/
+|   |-- what-you-can-do/
+|   |   |-- community/
+|   |   |-- employees/
+|   |   |-- students/
+|   |   |-- sustainability-champions/
+|-- swetland/
+|   |-- about/
+|   |   |-- meet-team/
+|   |   |   |-- leadership/
+|   |-- community/
+|   |-- news-events/
+|   |-- research/
+|   |   |-- fm-tracks/
+|   |-- sites/
+|   |   \-- case.edu.swetland/
+|   \-- training/
+|-- think/
+|   |-- connect/
+|   |-- fall2014/
+|   |-- fall2015/
+|   |-- fall2016/
+|   |-- fall2017/
+|   |-- fall2018/
+|   |-- fall2019/
+|   |-- fall2020/
+|   |-- fall2021/
+|   |-- media/
+|   |-- scripts/
+|   |-- spring2014/
+|   |-- spring2016/
+|   |-- spring2018/
+|   |-- spring2019/
+|   |-- spring2021/
+|   |-- springsummer2015/
+|   \-- stylesheets/
+|-- thinkbig/
+|   |-- about/
+|   |-- agora/
+|   |   |-- stem-faculty-recruitment-and-retention-journal-club/
+|   |-- media/
+|   |-- news-updates/
+|   |   |-- think-big-announces-spring-2021-plans/
+|   |-- sites/
+|   |   \-- case.edu.thinkbig/
+|   |-- thinkers-group/
+|   |-- ways-engage/
+|-- thinkbox/
+|-- title-ix/
+|   \-- what-is-title-ix/
+|       \-- university-policies/
+|-- tobaccofree/
+|   |-- resources/
+|   \-- sites/
+|       \-- case.edu.tobaccofree/
+|-- together/
+|   |-- fonts/
+|   \-- pdf/
+|-- training/
+|   |-- technology-training/
+|   |   \-- technology-training-consultation/
+|   \-- university-policy/
+|       |-- environmental-health-safety/
+|       |-- peoplesoft-financials-caps/
+|       \-- university-compliance/
+|-- travel/
+|   |-- faqs/
+|   |-- peoplesoft-te-module/
+|   |-- resources/
+|   |   \-- forms/
+|   |-- sites/
+|   |   \-- case.edu.travel/
+|   |-- travel/
+|   |-- travel-info/
+|   |   \-- car-rental-insurance/
+|   |-- travel-information/
+|   |   |-- important-news/
+|   |-- travel-resources/
+|   |   |-- travel-and-expense-card-program/
+|   |-- visit/
+|   |   \-- hotels/
+|   |-- visit-cwru/
+|-- treasurer/
+|   |-- financial-information/
+|   \-- sites/
+|       \-- case.edu.treasurer/
+|-- ucite/
+|   |-- about/
+|   |   |-- events/
+|   |   |   |-- past-events/
+|   |   |-- foundations-and-leadership/
+|   |-- faculty-productivity/
+|   |   |-- graduate-student-mentoring/
+|   |   |-- productive-writing/
+|   |-- grants-fellowships/
+|   |   |-- glennan-fellowships/
+|   |   |-- learning-fellowships/
+|   |   |-- nord-grants/
+|   |-- media/
+|   |-- sites/
+|   |   \-- case.edu.ucite/
+|   |-- ta-training/
+|   |   |-- graduate-ta-training/
+|   |-- teaching-resources/
+|   |   |-- rapid-online-learning/
+|-- ugstudies/
+|   |-- about/
+|   |   |-- staff/
+|   |-- academic-policies/
+|   |   |-- registration-enrollment-changes/
+|   |   |-- scholarship-retention-criteria/
+|   |-- faculty-and-staff/
+|   |-- honors-fellowships-awards/
+|   |   \-- fellowships-scholarships/
+|   |       \-- national/
+|   |           |-- fulbright/
+|   |           \-- goldwater/
+|   |-- pre-professional-programs/
+|   |   \-- pre-law/
+|   |-- programs-and-requirements/
+|   |   |-- combined-graduate-and-professional-programs/
+|   |-- programs-requirements/
+|   |   \-- graduate-professional/
+|   |-- sites/
+|   |   \-- case.edu.ugstudies/
+|   |-- students/
+|   |   |-- exchange-students/
+|   |   |-- honors-fellowships-and-awards/
+|   |   |   |-- fellowships-and-scholarships/
+|   |   |   |   |-- cwru-and-ohio-fellowships-and-scholarships/
+|   |   |   |   |-- national-fellowships-and-scholarships/
+|   |   |-- non-degree-students/
+|   |   |-- student-spotlight/
+|   |   |-- transfer-guides/
+|   |   |-- transfer-students/
+|   |   |   |-- transfer-and-dual-degree-student-registration-guide/
+|   \-- transfer-guide/
+|       \-- major-declaration-process/
+|-- umc/
+|   |-- about-us/
+|   |   |-- contact-us/
+|   |   |   \-- project-request-form/
+|   |-- communications/
+|   |   |-- editorial-and-writing/
+|   |   |-- emergency/
+|   |   |-- online/
+|   |-- marketing/
+|   |   |-- social-media/
+|   |-- media/
+|   |-- media-relations/
+|   |   |-- contact-media-team/
+|   |   |-- contact-us/
+|   |   |-- media-experts/
+|   |   |-- media-experts-review/
+|   |-- our-brand/
+|   |   |-- campaign-guidelines/
+|   |   |-- logos/
+|   |   |-- visual-guidelines/
+|   \-- sites/
+|       \-- case.edu.umc/
+|-- university-trustees-and-leadership/
+|-- universitycenter/
+|   |-- about/
+|   |-- dining/
+|   |-- rooms/
+|   |-- sites/
+|   |   \-- case.edu.universitycenter/
+|-- universityprofessor/
+|   |-- past-recipients/
+|   \-- sites/
+|       \-- case.edu.universityprofessor/
+|-- utech/
+|   |-- about/
+|   |   |-- directory/
+|   |   |   \-- leadership/
+|   |   |       \-- roger-bielefeld/
+|   |   |-- organizational-structure/
+|   |   |-- strategy/
+|   |   |   \-- utech-strategic-plan/
+|   |   |       |-- strategic-plan-2016/
+|   |   |-- utech-directory/
+|   |   |   |-- leadership/
+|   |   |-- utech-live/
+|   |   \-- utech-news/
+|   |-- academic-technology/
+|   |   \-- initiatives/
+|   |       \-- lms-exploration/
+|   |-- apn/
+|   |-- canvas/
+|   |   \-- training/
+|   |-- caps/
+|   |   \-- register/
+|   |-- course-evaluations/
+|   |-- cwru-ready/
+|   |-- departments/
+|   |   |-- client-experience/
+|   |   |   |-- data-management-analytics-and-visualization/
+|   |   |   |   |-- access-data/
+|   |   |   |   |-- data-governance-committee/
+|   |   |   |-- mediavision/
+|   |   |   |   |-- rental-equipment-catalog/
+|   |   |   |   |-- tec/
+|   |   |   |   |   \-- list-of-classrooms/
+|   |   |   |   |-- technology-enhanced-classroom-tec/
+|   |   |   |   |   |-- list-classrooms/
+|   |   |-- information-security/
+|   |   |   |-- duo-security-two-factor-authentication/
+|   |   |   |-- phishing-what-do/
+|   |   |   |-- policies/
+|   |   |   |   |-- i-1-acceptable-use-information-technology-policy-aup/
+|   |   |   |   |-- i-2-ssn-use-policy/
+|   |   |-- research-computing/
+|   |   |   |-- about-us/
+|   |   |   |-- consultation-services/
+|   |   |   |-- resources/
+|   |   |   |   |-- data-management/
+|   |   |   |   |   |-- requirements/
+|   |   |   |   |   |   |-- national-institutes-health/
+|   |   |   |   |   |   |-- national-science-foundation/
+|   |   |   |   |-- external-resources/
+|   |   |   |   |-- faculty-guide-server-centralization/
+|   |   |   |-- resources-and-services/
+|   |   |   |-- services/
+|   |   |   |   |-- research-networking/
+|   |   |-- research-computing-and-infrastructure-services/
+|   |   |   |-- resources/
+|   |   |   |   |-- data-management/
+|   |   |   |   |   |-- data-repositories/
+|   |   |   |   |   \-- requirements/
+|   |   |   |   |       \-- national-institutes-health/
+|   |   |   |   |-- faculty-guide-server-centralization/
+|   |   |   \-- services/
+|   |   |-- teaching-and-learning-technologies/
+|   |   |   |-- about-tlt/
+|   |   |   |   |-- meet-team/
+|   |   |   |-- initiatives/
+|   |   |   |   |-- active-learning/
+|   |   |   |-- services/
+|   |   |   |   |-- secure-online-testing/
+|   |   |   |   |   |-- honorlock/
+|   |   |   |-- teach-everywhere/
+|   |   |   \-- tlt-services/
+|   |   |       \-- video-screencasting/
+|   |-- estore/
+|   |-- form/
+|   |-- hcm/
+|   |-- help/
+|   |   |-- care-center/
+|   |   |-- knowledge-base/
+|   |   |   |-- adobe-connect/
+|   |   |   |   |-- adobe-connect-information/
+|   |   |   |-- antivirus-software/
+|   |   |   |-- box/
+|   |   |   |   |-- box-information/
+|   |   |   |-- cable-television/
+|   |   |   |-- calendar/
+|   |   |   |-- canvas/
+|   |   |   |   |-- canvas-information/
+|   |   |   |   |   \-- training-and-support/
+|   |   |   |   |-- training-and-support/
+|   |   |   |-- computer-recycling/
+|   |   |   |-- cwru-network-id/
+|   |   |   |-- cwru-network-id-password/
+|   |   |   |-- cwru-ready/
+|   |   |   |-- data-backup/
+|   |   |   |   |-- storage-and-backup/
+|   |   |   |-- data-destruction/
+|   |   |   |-- data-warehouse/
+|   |   |   |-- echo360/
+|   |   |   |   |-- echo360-information/
+|   |   |   |-- eduroam/
+|   |   |   |-- financials/
+|   |   |   |   |-- peoplesoft-financials/
+|   |   |   |   |   |-- financials-materials/
+|   |   |   |-- gaming-systems/
+|   |   |   |-- github/
+|   |   |   |-- google-workspace-education/
+|   |   |   |   |-- google-workspace-education-information/
+|   |   |   |   |   |-- cwru-gmail/
+|   |   |   |   |   |   |-- mobile-email/
+|   |   |   |   |   |-- google-groups/
+|   |   |   |   |   |   |-- training-groups/
+|   |   |   |-- hipaa/
+|   |   |   |-- human-capital-management/
+|   |   |   |-- identity-finder/
+|   |   |   |-- institutional-computer-purchases/
+|   |   |   |-- myapps/
+|   |   |   |-- office-phones/
+|   |   |   |   |-- telephone-services-information/
+|   |   |   |   |   |-- user-guides-ip-and-analog-phones/
+|   |   |   |   |-- unified-communications/
+|   |   |   |   |   |-- telephone-services/
+|   |   |   |   |   |   |-- telephone-services-order-guide/
+|   |   |   |   |   |-- voicemail/
+|   |   |   |-- phishing-and-spam/
+|   |   |   |-- policies-and-compliance/
+|   |   |   |-- qualtrics/
+|   |   |   |-- rave/
+|   |   |   |-- security-awareness/
+|   |   |   |-- software-center/
+|   |   |   |-- static-ip-address/
+|   |   |   |-- student-information-system/
+|   |   |   |-- video-conferencing/
+|   |   |   |   \-- videoconferencing-information/
+|   |   |   |-- videoconferencing/
+|   |   |   |   |-- videoconferencing-information/
+|   |   |   |-- vpn-virtual-private-networking/
+|   |   |   |-- wired-network/
+|   |   |   |-- wireless-networks/
+|   |   |   |-- zoom/
+|   |   |   |   |-- zoom-information/
+|   |   |-- service-request/
+|   |-- information-security/
+|   |-- international-travel-support/
+|   |-- kba/
+|   |   \-- kba-79120-alumni-access/
+|   |-- lynda/
+|   |-- mediavision/
+|   |-- new/
+|   |-- new-cwru/
+|   |   |-- network-internet-and-wireless/
+|   |-- peoplesoft-financials/
+|   |   \-- peoplesoft-financials-materials/
+|   |       |-- enteringtravelexpensereports/
+|   |-- policies/
+|   |   |-- i-1-acceptable-use-of-information-technology-policy-aup/
+|   |   |-- i-2-ssn-use-policy/
+|   |   |-- ii-2-network-id-and-account-expiration-policy/
+|   |   |-- ii-3-network-protocols-and-use-policy/
+|   |   |-- ii-4-pci-data-transmission-standard/
+|   |   |-- ii-5-copyright-notification-standard/
+|   |   |-- ii-6-network-defense-policy/
+|   |   |-- iii-1-information-types-and-sensitivity/
+|   |   |-- iii-1a-risk-management-procedure-and-assessment/
+|   |   |-- iii-1c-controls--protecting-public-information/
+|   |   |-- iii-1g-email-retention-policy/
+|   |   |-- iii-1h-ediscovery-legal-hold-procedure/
+|   |   |-- iii-1i-sanctioned-use-of-google-apps-for-education/
+|   |   |-- iii-2a-university-password-change-policy/
+|   |   |-- iii-4-surplus-it--computer-equipment-reuse-policy/
+|   |   |-- iii-5a-media-sanitization-procedure/
+|   |   |-- iii-5b-mobile-device-configuration-standards/
+|   |   |-- iii-7-university-logon-banner-standard/
+|   |   |-- iii-b-risk-management-plan/
+|   |   \-- legal-privacy-notice/
+|   |-- research-computing/
+|   |-- resources/
+|   |   |-- cwru-administrative-professional-series-caps/
+|   |   |   |-- caps-curriculum/
+|   |   |-- cwru-course-evaluations/
+|   |   |-- estore/
+|   |   |   |-- apple-campus/
+|   |   |   |-- att/
+|   |   |   |-- t-mobile/
+|   |   |   |-- verizon/
+|   |   |-- faculty-and-staff-resources/
+|   |   |   |-- international-travel-support/
+|   |   |   |-- working-remotely/
+|   |   |-- it-contracts/
+|   |   |-- student-resources/
+|   |   |   |-- campus-it-resources/
+|   |-- service-catalog/
+|   |   \-- student-information-system-sis/
+|   |-- services/
+|   |   |-- affiliate-network-id/
+|   |   |-- cwru-network-id/
+|   |   |-- rave/
+|   |   |-- zoom-video-conferencing/
+|   |-- sis/
+|   |-- sites/
+|   |   \-- case.edu.utech/
+|   |-- tlt/
+|   |-- unified-communications/
+|   |   \-- telephone-services/
+|   |-- webform/
+|   \-- zoom/
+|-- vaccine/
+|   |-- about-vaccine/
+|   \-- sites/
+|       \-- case.edu.vaccine/
+|-- visit/
+|-- vote2020/
+|   |-- fonts/
+|-- wcms/
+|   |-- about/
+|   |-- getting-started/
+|   |-- guidelines-resources/
+|   |-- sites/
+|   |   \-- case.edu.wcms/
+|   |-- training-support/
+|   |   |-- drupal-basics-training-guide/
+|   |   |   |-- content-types/
+|   |   |   |-- managing-content/
+|-- webdev/
+|   \-- kxo95/
+|       |-- campaign-email/
+|       |   |-- 9.12/
+|       \-- top-level/
+|-- wellness/
+|   |-- campuswide-resources/
+|   |-- events/
+|   |   |-- campuswide-resources/
+|   |   \-- sites/
+|   |       \-- case.edu.wellness/
+|   |-- facultystaff/
+|   |   |-- about/
+|   |   |   |-- staff-contact/
+|   |   |-- additional-programs/
+|   |   |   |-- medical-mutual-wellness-offerings/
+|   |   |-- campus-programs/
+|   |   |   |-- nutrition-or-weight-management/
+|   |   |   |-- physical-activity-programs/
+|   |   |   |-- stress-management/
+|   |   |-- faqs/
+|   |   |-- off-site-programs/
+|   |   |   \-- insurance-company-programs/
+|   |   |       \-- medical-mutual-of-ohio/
+|   |   |-- resources/
+|   |   |   |-- fitness/
+|   |   |   |-- flu-shots/
+|   |   |   |-- relax-line/
+|   |   |   |-- selfhelpworks/
+|   |   |-- sites/
+|   |   |   \-- case.edu.facultystaff/
+|   |   |-- the-wellness-program/
+|   |   |   \-- wellness-program-incentive/
+|   |   |-- wellness-program/
+|   |   |   |-- monthly-wellness-incentive/
+|   |   |   |-- wellness-program-incentive/
+|   |-- sites/
+|   |   \-- case.edu.wellness/
+|   \-- wellness/
+|-- whowouldhavethought/
+|   \-- pdf/
+|-- womenintech/
+|-- world-medicine-pathway/
+|   \-- media/
+|-- www.vumc.org/
+|   \-- niddk/
+\-- zoom/

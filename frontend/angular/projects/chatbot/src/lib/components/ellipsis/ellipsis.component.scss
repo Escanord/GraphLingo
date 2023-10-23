@@ -1,0 +1,79 @@
+@keyframes pulse1Animation {
+    0% {opacity: 0};
+    10% {opacity: 1};
+    20% {opacity: 1};
+    30% {opacity: 1};
+    40% {opacity: 1};
+    50% {opacity: 0};
+    60% {opacity: 0};
+    70% {opacity: 0};
+    80% {opacity: 0};
+    90% {opacity: 0};
+    100% {opacity: 0};
+}
+@keyframes pulse2Animation {
+    0% {opacity: 0};
+    10% {opacity: 0};
+    20% {opacity: 0};
+    30% {opacity: 1};
+    40% {opacity: 1};
+    50% {opacity: 1};
+    60% {opacity: 1};
+    70% {opacity: 0};
+    80% {opacity: 0};
+    90% {opacity: 0};
+    100% {opacity: 0};
+}
+@keyframes pulse3Animation {
+    0% {opacity: 0};
+    10% {opacity: 0};
+    20% {opacity: 0};
+    30% {opacity: 0};
+    40% {opacity: 0};
+    50% {opacity: 1};
+    60% {opacity: 1};
+    70% {opacity: 1};
+    80% {opacity: 1};
+    90% {opacity: 0};
+    100% {opacity: 0};
+}
+
+// @keyframes pulse1Animation {
+//     0% {opacity: 0};
+//     15% {opacity: 1};
+//     31% {opacity: 1};
+//     46% {opacity: 1};
+//     62% {opacity: 1};
+//     75% {opacity: 1};
+//     95% {opacity: 1};
+// }
+// @keyframes pulse2Animation {
+//     0% {opacity: 0};
+//     15% {opacity: 0};
+//     31% {opacity: 0};
+//     46% {opacity: 1};
+//     62% {opacity: 1};
+//     75% {opacity: 1};
+//     95% {opacity: 1};
+// }
+// @keyframes pulse3Animation {
+//     0% {opacity: 0};
+//     16% {opacity: 0};
+//     33% {opacity: 0};
+//     50% {opacity: 0};
+//     66% {opacity: 0};
+//     83% {opacity: 1};
+//     100% {opacity: 1};
+// }
+
+.dot1 {
+    animation: pulse1Animation .6s infinite;
+}
+
+.dot2 {
+    animation: pulse2Animation .6s infinite;
+}
+
+.dot3 {
+    animation: pulse3Animation .6s infinite;
+}

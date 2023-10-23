@@ -1,0 +1,14 @@
+.cwru-site {
+    box-sizing: border-box;
+    height: 100%;
+    width: 100%;
+    border: none;
+}
+
+.placeholder {
+    background-color: aquamarine;
+    overflow-y: auto;
+    .content {
+        height: 300vh;
+    }
+}

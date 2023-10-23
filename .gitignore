@@ -1,0 +1,11 @@
+.env
+venv/
+.DS_Store
+.vscode
+env/
+syllabi.pdf
+vacas.*
+session_data/
+node_modules/
+.angular/
+__pycache__/

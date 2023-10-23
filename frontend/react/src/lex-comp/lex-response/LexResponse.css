@@ -1,0 +1,26 @@
+.response{
+  padding: 5px;
+  margin: 20px;
+  border-radius: 10px;
+  width: fit-content;
+  max-width: 60%;
+  word-break: break-word;
+  /* position: relative; */
+}
+
+.response p {
+  margin: 10px;
+}
+
+.incoming-response{
+  background-color: var(--cwru-blue);
+  color:white;
+  margin-right: auto;
+  left:0px;
+}
+
+.user-response{
+  background-color: white;
+  margin-left: auto;
+  right:0px
+}
