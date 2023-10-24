@@ -7,7 +7,7 @@ import { AfterViewInit, Component, ElementRef, Input, OnInit, ViewChild } from '
 })
 export class EmbeddedSiteComponent implements AfterViewInit {
   @Input()
-  public silence: boolean = false;
+  public silence: boolean = true;
 
   constructor() { }
 
