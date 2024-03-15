@@ -223,4 +223,5 @@ if __name__ == "__main__":
     parser.add_argument('--followup', type=str2bool, default=False)
     parser.add_argument('--question', type=str, default='What courses should I take for data management knowledge?')
     args = parser.parse_args()
+    args.explorative_rate = 0.001
     main(args)

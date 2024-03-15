@@ -27,13 +27,16 @@ def close():
 
 def retrieve_question_triples(text):
     request_body = {
-        "model": "text-davinci-003",
+        "model": "gpt-3.5-turbo-0125",
         "temperature": 0.3,
         "max_tokens": 800,
         "top_p": 1,
         "frequency_penalty": 0,
         "presence_penalty": 0,
-        "prompt": question_entities_extraction_prompt + '\n'.join(text),
+        "messages": [{
+            "role": "user",
+            "content": question_entities_extraction_prompt + '\n'.join(text),
+        }],
     }
 
     request_headers = {
@@ -41,11 +44,11 @@ def retrieve_question_triples(text):
         'Authorization': f'Bearer {GPTKey}',
     }
 
-    response = requests.post('https://api.openai.com/v1/completions',
+    response = requests.post('https://api.openai.com/v1/chat/completions',
                              json=request_body, headers=request_headers, timeout=60)
 
     entities = response.json()
-    entities = entities['choices'][0]['text']
+    entities = entities['choices'][0]["message"]['content']
     entities = entities.split('\n')[-1]
     while len(entities) > 0 and entities[0] == ' ':
         entities = entities[1:]
