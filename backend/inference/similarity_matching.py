@@ -55,6 +55,7 @@ class diversified_similarity_matching_agent:
         self.question_triples = question_triples
         self.save_session = args.save_session
         self.followup = args.followup
+        self.args = args
         self.old_storage = old_storage
         self.cur_storage = cur_storage
         self.facts = {}
@@ -66,7 +67,7 @@ class diversified_similarity_matching_agent:
         # result graph things
         self.result_graph = []
         self.result_graph_embedding = {}
-        self.edge_popularity = get_popularity()
+        self.edge_popularity = get_popularity(self.args)
         self._pre_process()
 
     def _pre_process(self):
@@ -75,7 +76,7 @@ class diversified_similarity_matching_agent:
             self.question_triples_embedding[rep] = embedding(rep)
             
         for triple in self.cur_storage.graph:
-            properties = get_triple_properties(triple[0], triple[1], triple[2])
+            properties = get_triple_properties(self.args, triple[0], triple[1], triple[2])
             triple_rep = get_representation((properties['properties(n)'], properties['type(r)'], properties['properties(m)']))
             self.triples_embedding[triple_rep] = self.result_graph_embedding[triple_rep] = triple_embedding = embedding(triple_rep)
             self.rev_scores[triple_rep] = self.get_rev_score(1, triple_embedding, self.result_graph_embedding, properties['type(r)'])
@@ -153,8 +154,8 @@ class diversified_similarity_matching_agent:
         self.rev_scores = {}
         visited_edge = defaultdict(lambda:False)
         for edge in self.result_graph[:5]:
-            k_hop_graph = get_k_hops_graph(edge[0], 1)
-            k_hop_graph += get_k_hops_graph(edge[2], 1)
+            k_hop_graph = get_k_hops_graph(self.args, edge[0], 1)
+            k_hop_graph += get_k_hops_graph(self.args, edge[2], 1)
             for triple in k_hop_graph:
                 if not self.cur_storage.in_session(triple['id(n)'], triple['id(r)'], triple['id(m)']) or not visited_edge[triple['id(r)']]:
                     visited_edge[triple['id(r)']] = True
@@ -172,7 +173,7 @@ class diversified_similarity_matching_agent:
             suggested_edges.append(triple)
             #TODO: convert head & tail of edges into onto and append to onto_suggested_edges
             ids = self.rep_to_id[edge]
-            types = get_types(ids[0], ids[1], ids[2])
+            types = get_types(self.args, ids[0], ids[1], ids[2])
             onto_suggested_edges.append([triple[0], triple[1], types['labels(m)'][0]])
             onto_suggested_edges.append([types['labels(n)'][0], triple[1], triple[2]])
             
@@ -192,9 +193,9 @@ class diversified_similarity_matching_agent:
         # if follow-up question, get_top_k_nodes from border nodes instead of data nodes, and then has section to also add previous graph's triples into the space of dispersion
         if self.followup:
             expanded_nodes = self.old_storage.get_nodes()
-            data_nodes = get_expanded_nodes_attrs(expanded_nodes, top_attributes)
+            data_nodes = get_expanded_nodes_attrs(self.args, expanded_nodes, top_attributes)
         else:
-            data_nodes = get_nodes_from_attrs(top_attributes)
+            data_nodes = get_nodes_from_attrs(self.args, top_attributes)
         start = time.time()
         top_data_nodes = get_top_k_nodes(data_nodes, self.question_triples, 10)
         end = time.time()
@@ -206,7 +207,7 @@ class diversified_similarity_matching_agent:
         start = time.time()
         for node in top_data_nodes:
             id = node[0]
-            sub_graph = get_k_hops_graph(id, 1)
+            sub_graph = get_k_hops_graph(self.args, id, 1)
             for triple in sub_graph:
                 triple_rep = get_representation((triple['properties(n)'], triple['type(r)'], triple['properties(m)']))
                 self.triples_embedding[triple_rep] = triple_embedding = embedding(triple_rep)

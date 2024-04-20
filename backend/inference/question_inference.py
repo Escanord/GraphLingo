@@ -26,7 +26,7 @@ from utils.prompts import suggestion_example_prompt
 
 load_dotenv()
 GPTKey = os.getenv('GPTKey')
-edge_popularity = get_popularity()
+# edge_popularity = get_popularity()
 
 def get_top_attributes(attributes, triples, k):
     top_attrs = []
@@ -63,9 +63,9 @@ def build_prompt(args, question):
     # triples = [['?', 'should take', 'courses for graph knowledge']]
     if len(ma.shape(triples)) < 2:
         triples = [triples]
-    triples = transform(triples)
+    # triples = transform(triples)
     print(triples)
-    attributes = get_node_attributes()
+    attributes = get_node_attributes(args)
     top_attributes = get_top_attributes(attributes, triples, 10)
     final_nodes = []
     final_edges = []
@@ -182,7 +182,6 @@ def main(args):
     question, suggested_prompt, onto_prompt, nodes, edges = build_prompt(args, question)
     print(question)
     answer = get_answer(question)
-    # print(onto_prompt)
     questions = get_answer(suggested_prompt)
     suggestions = []
     for suggestion in questions.split('\n')[::1]:
@@ -193,24 +192,6 @@ def main(args):
     print('Suggested follow-up questions:', '\n')
     answer += '\n' + 'You might also be interested in asking these questions:'
     print(questions)
-
-    # question = "Who is teaching CSDS 132?"
-    # question = build_prompt(question)
-    # answer = get_answer(question)
-    # print(answer)
-    
-    # question = "What are the courses I should take if I want to become a data scientist?"
-    # question = 'Can you tell me more about the abstract data types covered in Introduction to Data Structures?'
-    # print(question)
-    # question, suggested_prompt = build_prompt(question)
-    # answer = get_answer(question)
-    # suggested_prompt = 'Triples: ' + suggested_prompt + '\n' + ' Suggest me 3 follow-up questions to know more about some of the previous entity-relationship triples, and the chosen triples should be mentioned explicitly in this answer: ' + answer
-    # questions = get_answer(suggested_prompt)
-    # print(answer)
-    # print(questions)
-    
-    # print(similarity_score('[course_name: Senior Project in Computer Science   description: Capstone course for computer science seniors. Material from previous and  concurrent courses used to solve computer programming problems and to develop software  systems. Professional engineering topics such as project management, engineering design,  commu nications, and professional ethics. Requirements include periodic reporting of  progress, plus a final oral presentation and written report. Scheduled formal project  presentations during last week of classes. Counts as SAGES Senior Capstone.  , has, Scheduled Formal Project Presentations,]', '[course_name: Senior Project in Computer Science   description: Capstone course for computer science seniors. Material from previous and  concurrent courses used to solve computer programming problems and to develop software  systems. Professional engineering topics such as project management, engineering design,  commu nications, and professional ethics. Requirements include periodic reporting of  progress, plus a final oral presentation and written report. Scheduled formal project  presentations during last week of classes. Counts as SAGES Senior Capstone.  , has, Periodic Reporting,]'))
-    # print(similarity_score('code: CSDS 133  name: Introduction to Data Science and Engineering for Majors   credit: 3  hasTopic Introduction to Data Science,', 'code:CSDS 133  name: Introduction to Data Science   credit:3 taughtBy Prof. Orhan Ozguner,'))
     end = time.time()
     print(f"The process took: {end - start} seconds")
     return answer, suggestions, nodes, edges
@@ -222,6 +203,7 @@ if __name__ == "__main__":
     parser.add_argument('--save_session', type=str2bool, default=False)
     parser.add_argument('--followup', type=str2bool, default=False)
     parser.add_argument('--question', type=str, default='What courses should I take for data management knowledge?')
+    parser.add_argument('--kg', type=str, default='neo4j')
     args = parser.parse_args()
     args.explorative_rate = 0.001
     main(args)

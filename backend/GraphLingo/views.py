@@ -28,6 +28,14 @@ class DialogView(APIView):
             args.explorative_rate = data['data']['explorativeRate']
         else:
             args.explorative_rate = 0.001    
+        name2kg = {
+            'CurriculumKG' : 'neo4j',
+            'cruxKG': 'cruxkg',
+            'drugKG': 'drugkg'
+        }
+        args.kg = 'neo4j'
+        if 'dbname' in data['data'] and data['data']['dbname'] in name2kg:
+            args.kg = name2kg[data['data']['dbname']]
         response, suggestions, nodes, edges = main(args)
         body = {
             'msg': response,

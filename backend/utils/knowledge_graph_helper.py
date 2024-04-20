@@ -57,13 +57,13 @@ def retrieve_question_triples(text):
     return entities
 
 
-def get_node_attributes():
+def get_node_attributes(args):
     def get_attributes(tx):
         attributes = tx.run('call db.schema.nodeTypeProperties()')
         return attributes.data()
 
     connect_dbms()
-    with driver.session() as session:
+    with driver.session(database=args.kg) as session:
         attributes = session.execute_read(get_attributes)
     close()
     return attributes
@@ -154,7 +154,7 @@ def get_exact_triples(facts, exact_triples, top_attrs):
     close()
     
 
-def get_exact_matching_nodes(question_triples, top_attrs):
+def get_exact_matching_nodes(args, question_triples, top_attrs):
     def get_nodes(tx, question_triples, top_attrs):
         result = []
         
@@ -175,14 +175,14 @@ def get_exact_matching_nodes(question_triples, top_attrs):
         return result
 
     connect_dbms()
-    with driver.session() as session:
+    with driver.session(database=args.kg) as session:
         ids = session.execute_read(get_nodes, question_triples, top_attrs)
 
     close()
     return ids
 
 
-def find_lca(ids):
+def find_lca(args, ids):
     """
     BANKs implementation to find lca
     Args:
@@ -214,14 +214,14 @@ def find_lca(ids):
         return lca, len
     
     connect_dbms()
-    with driver.session() as session:
+    with driver.session(database=args.kg) as session:
         lca, len = session.execute_read(get_lca, ids)
     close()
     
     return lca, len
 
 
-def get_path(h_id, t_id, len, connect = True):
+def get_path(args, h_id, t_id, len, connect = True):
     def get_path(tx, h_id, t_id, len):
         query = f"match path = (n)-[*..{len}]->(m) \
                     where id(n) = {h_id} \
@@ -238,14 +238,14 @@ def get_path(h_id, t_id, len, connect = True):
     
     if connect:
         connect_dbms()
-    with driver.session() as session:
+    with driver.session(database=args.kg) as session:
         path = session.execute_read(get_path, h_id, t_id, len)
     if connect:
         close()
 
     return path
 
-def get_path_ids(h_id, t_id, len, connect = True):
+def get_path_ids(args, h_id, t_id, len, connect = True):
     def get_path(tx, h_id, t_id, len):
         query = f"match path = (n)-[*..{len}]->(m) \
                     where id(n) = {h_id} \
@@ -262,7 +262,7 @@ def get_path_ids(h_id, t_id, len, connect = True):
     
     if connect:
         connect_dbms()
-    with driver.session() as session:
+    with driver.session(database=args.kg) as session:
         path = session.execute_read(get_path, h_id, t_id, len)
     if connect:
         close()
@@ -280,7 +280,7 @@ def get_factual_triples(facts, onto_triple):
         session.execute_read(get_triples, onto_triple)
     close()
     
-def get_expanded_nodes_attrs(expanded_nodes, top_attributes):
+def get_expanded_nodes_attrs(args, expanded_nodes, top_attributes):
     def get_nodes(tx, top_attrs):
         result = []
         checker = {}
@@ -305,13 +305,13 @@ def get_expanded_nodes_attrs(expanded_nodes, top_attributes):
         return result
         
     connect_dbms()
-    with driver.session() as session:
+    with driver.session(database=args.kg) as session:
         nodes = session.execute_read(get_nodes, top_attributes)
     close()
     
     return nodes
 
-def get_nodes_from_attrs(top_attributes):
+def get_nodes_from_attrs(args, top_attributes):
     def get_nodes(tx, top_attrs):
         result = []
         checker = {}
@@ -321,7 +321,11 @@ def get_nodes_from_attrs(top_attributes):
             attr_name = attr['propertyName']
             query = f"MATCH (n:{node_type}) RETURN distinct id(n), n.{attr_name}"
             nodes = tx.run(query)
+            i = 0
             for node in nodes:
+                i += 1
+                if i > 500:
+                    break
                 data = node.data()
                 value = data.get(f'n.{attr_name}')
                 id = data.get('id(n)')
@@ -332,13 +336,13 @@ def get_nodes_from_attrs(top_attributes):
         return result
         
     connect_dbms()
-    with driver.session() as session:
+    with driver.session(database=args.kg) as session:
         nodes = session.execute_read(get_nodes, top_attributes)
     close()
     
     return nodes
 
-def get_k_hops_graph(node_id, k):
+def get_k_hops_graph(args, node_id, k):
     def get_graph(tx, node_id, k):
         query = f"MATCH (n)-[r]->(m) WHERE id(n) = {node_id} RETURN properties(n), type(r), properties(m), id(n), id(r), id(m), n.name, m.name, labels(n)[0] as labeln, labels(m)[0] as labelm"
         graph = tx.run(query)
@@ -348,7 +352,7 @@ def get_k_hops_graph(node_id, k):
         return triples
     
     connect_dbms()
-    with driver.session() as session:
+    with driver.session(database=args.kg) as session:
         graph = session.execute_read(get_graph, node_id, k)
     close()
     
@@ -387,7 +391,7 @@ def get_k_hops_graph(node_id, k):
     
 #     return graph
 
-def get_types(id_h, id_r, id_t):
+def get_types(args, id_h, id_r, id_t):
     def _get_types(tx, id_h, id_r, id_t):
         query = f"MATCH (n)-[r]->(m) \
                 WHERE id(n) = {id_h} AND id(m) = {id_t} \
@@ -398,13 +402,13 @@ def get_types(id_h, id_r, id_t):
         return types.data()[0]
         
     connect_dbms()
-    with driver.session() as session:
+    with driver.session(database=args.kg) as session:
         types = session.execute_read(_get_types, id_h, id_r, id_t)
     close()
     
     return types
 
-def get_popularity():
+def get_popularity(args):
     def get_proportion(tx):
         query = """
                 MATCH ()-[relationship]->() 
@@ -418,13 +422,13 @@ def get_popularity():
             
         
     connect_dbms()
-    with driver.session() as session:
+    with driver.session(database=args.kg) as session:
         pop = session.execute_read(get_proportion)
     close()
     
     return pop
 
-def get_triple_properties(id_n, id_r, id_m):
+def get_triple_properties(args, id_n, id_r, id_m):
     def get_triple(tx, id_n, id_r, id_m):
         query = f"MATCH (n)-[r]->(m) \
                 WHERE id(n) = {id_n} AND id(r) = {id_r} AND id(m) = {id_m} \
@@ -434,7 +438,7 @@ def get_triple_properties(id_n, id_r, id_m):
         return triple.data()[0]
     
     connect_dbms()
-    with driver.session() as session:
+    with driver.session(database=args.kg) as session:
         triple = session.execute_read(get_triple, id_n, id_r, id_m)
     close()
     
