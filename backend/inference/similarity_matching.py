@@ -23,9 +23,9 @@ def get_top_k_nodes(data_nodes, triples, k):
 
         entities = [triple[0] if triple[0] != '?' else triple[2] for triple in triples]
         embeddings = embedding(entities)
+        node_embeddings = embedding([str(node[1]) for node in data_nodes])
         
-        for node in data_nodes:
-            node_embedding = embedding(str(node[1]))
+        for node_embedding, node in zip(node_embeddings, data_nodes):
             similarity_score = 0
             for entity_embedding in embeddings:
                 similarity_score = max(similarity_score, cosine_score(node_embedding, entity_embedding))
@@ -71,14 +71,22 @@ class diversified_similarity_matching_agent:
         self._pre_process()
 
     def _pre_process(self):
-        for triple in self.question_triples:
+        embs = embedding([get_representation((triple[0], triple[1], triple[2])) for triple in self.question_triples])
+        for triple, emb in zip(self.question_triples, embs):
             rep = get_representation((triple[0], triple[1], triple[2]))
-            self.question_triples_embedding[rep] = embedding(rep)
-            
+            self.question_triples_embedding[rep] = emb
+        
+        embs = []
         for triple in self.cur_storage.graph:
             properties = get_triple_properties(self.args, triple[0], triple[1], triple[2])
             triple_rep = get_representation((properties['properties(n)'], properties['type(r)'], properties['properties(m)']))
-            self.triples_embedding[triple_rep] = self.result_graph_embedding[triple_rep] = triple_embedding = embedding(triple_rep)
+            embs.append(triple_rep)
+        embs = embedding(embs)
+
+        for triple, emb in zip(self.cur_storage.graph, embs):
+            properties = get_triple_properties(self.args, triple[0], triple[1], triple[2])
+            triple_rep = get_representation((properties['properties(n)'], properties['type(r)'], properties['properties(m)']))
+            self.triples_embedding[triple_rep] = self.result_graph_embedding[triple_rep] = triple_embedding = emb
             self.rev_scores[triple_rep] = self.get_rev_score(1, triple_embedding, self.result_graph_embedding, properties['type(r)'])
             self.rep_to_triple[triple_rep] = [properties['properties(n)'], properties['type(r)'], properties['properties(m)']]
             self.rep_to_id[triple_rep] = [triple[0], triple[1], triple[2]]
@@ -156,11 +164,18 @@ class diversified_similarity_matching_agent:
         for edge in self.result_graph[:5]:
             k_hop_graph = get_k_hops_graph(self.args, edge[0], 1)
             k_hop_graph += get_k_hops_graph(self.args, edge[2], 1)
+
+            embs = []
             for triple in k_hop_graph:
+                triple_rep = get_representation((triple['properties(n)'], triple['type(r)'], triple['properties(m)']))
+                embs.append(triple_rep)
+            embs = embedding(embs)
+            
+            for triple, emb in zip(k_hop_graph, embs):
                 if not self.cur_storage.in_session(triple['id(n)'], triple['id(r)'], triple['id(m)']) or not visited_edge[triple['id(r)']]:
                     visited_edge[triple['id(r)']] = True
                     triple_rep = get_representation((triple['properties(n)'], triple['type(r)'], triple['properties(m)']))
-                    self.triples_embedding[triple_rep] = triple_embedding = embedding(triple_rep)
+                    self.triples_embedding[triple_rep] = triple_embedding = emb
                     self.rep_to_triple[triple_rep] = [triple['properties(n)'], triple['type(r)'], triple['properties(m)']]
                     self.rep_to_id[triple_rep] = [triple['id(n)'], triple['id(r)'], triple['id(m)']]
                     self.rev_scores[triple_rep] = self.get_rev_score(1, triple_embedding, self.result_graph_embedding, triple['type(r)'])
@@ -208,9 +223,15 @@ class diversified_similarity_matching_agent:
         for node in top_data_nodes:
             id = node[0]
             sub_graph = get_k_hops_graph(self.args, id, 1)
+            embs = []
             for triple in sub_graph:
                 triple_rep = get_representation((triple['properties(n)'], triple['type(r)'], triple['properties(m)']))
-                self.triples_embedding[triple_rep] = triple_embedding = embedding(triple_rep)
+                embs.append(triple_rep)
+            embs = embedding(embs)
+            
+            for triple, emb in zip(sub_graph, embs):
+                triple_rep = get_representation((triple['properties(n)'], triple['type(r)'], triple['properties(m)']))
+                self.triples_embedding[triple_rep] = triple_embedding = emb
                 self.rep_to_triple[triple_rep] = [triple['properties(n)'], triple['type(r)'], triple['properties(m)']]
                 self.rep_to_id[triple_rep] = [triple['id(n)'], triple['id(r)'], triple['id(m)']]
                 self.rev_scores[triple_rep] = self.get_rev_score(1, triple_embedding, self.question_triples_embedding, triple['type(r)'])
