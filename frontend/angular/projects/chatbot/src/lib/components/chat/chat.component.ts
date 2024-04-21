@@ -6,6 +6,13 @@ import { IChatResponse, IGraphData } from "../../services/query/interfaces";
 import { isNullOrUndefined } from "../../functions";
 import { IEdge, INode } from "projects/charting/src/lib/graph/interfaces";
 import { GraphComponent } from "projects/charting/src/public-api";
+import { MatMenuModule } from '@angular/material/menu';
+
+//an interface for all the databases
+interface Database {
+    value: string;
+    viewValue: string;
+}
 
 @Component({
     selector: 'chat',
@@ -44,6 +51,16 @@ export class ChatComponent implements OnInit {
 
     public settingsState: EChatState = EChatState.Collapsed;
 
+    //declare the list of databases available
+    public databases: Database[] = [
+        {value: 'gpt', viewValue: 'Curriculum KG'},
+        {value: 'crux', viewValue: 'Materials Science KG'},
+        {value: 'prime', viewValue: 'Drugs KG'}
+      ];
+    
+    //datbase name to pass onto backend/GraphLingo/views.py
+    private db: string = "neo4j";
+
     constructor(
         public chatbotService: ChatbotService,
         public queryService: QueryService,
@@ -77,11 +94,49 @@ export class ChatComponent implements OnInit {
         this.settingsState = this.settingsState === EChatState.Collapsed ? EChatState.Expanded : EChatState.Collapsed;
     }
 
+    //the method to switch between databases
+    public toggleDatabase(value: string): string {
+
+        //Later when it's not hardcoded, find the value directly from databases and parse it into a string
+        //then return the the viewValue. The switch statement is temporary.
+        switch(value) {
+            //GPT
+            case this.databases[0].value:
+                // 
+                this.db = this.databases[0].value                
+                
+
+                return this.databases[0].viewValue;
+
+            //CRUX
+            case this.databases[1].value:
+                // 
+                this.db = this.databases[1].value
+
+                return this.databases[1].viewValue; 
+
+            //Prime
+            case this.databases[2].value:
+                // 
+                this.db = this.databases[2].value
+
+                return this.databases[2].viewValue; 
+
+            default:
+                this.db = "neo4j"
+                return "Default Database"
+        }
+
+        return "Something's wrong";
+    }
+
     public sendQuery(_query?: string, _isFollowup: boolean = false): void {
         let _userQuery: string;
         const _queryData: any = {
             isFollowup: _isFollowup,
-            explorativeRate: this.explorativeRate
+            explorativeRate: this.explorativeRate,
+            //toggle database
+            database: this.db
         };
 
         // Add custom query

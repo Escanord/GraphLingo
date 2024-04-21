@@ -8,6 +8,7 @@ import { DialogueComponentModule } from "../dialogue";
 import { EllipsisComponentModule } from "../ellipsis";
 import { ChatComponent } from "./chat.component";
 import { IsCollapsedPipe, IsMaximizedPipe } from "./pipes";
+import {MatMenuModule} from '@angular/material/menu';
 
 const _pipes = [
     IsCollapsedPipe,
@@ -26,7 +27,8 @@ const _angularMaterial = [
         MatIconModule,
         DialogueComponentModule,
         GraphComponentModule,
-        EllipsisComponentModule
+        EllipsisComponentModule,
+        MatMenuModule
     ],
     declarations: [
         ChatComponent,

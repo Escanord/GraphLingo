@@ -13,16 +13,40 @@
     <div class="chatbot-interaction" [class.cbi-maximized]="chatState | isMaximized">
         <div class='chatbot-interaction-header'>
             <mat-icon class="chatbot-clickable material-symbols-rounded chat-button"
-                (click)="toggleChatMaximization()">{{(chatState
-                | isMaximized) ? 'expand_more' : 'expand_less'}}</mat-icon>
+                (click)="toggleChatMaximization()">{{(chatState 
+                | isMaximized) ? 'expand_more' : 'expand_less'}}</mat-icon>            
             <mat-icon class="chatbot-clickable material-symbols-rounded chat-button"
                 (click)="toggleChatSettings()">settings</mat-icon>
+
+            <!-- Toggle Database dropdown -->
+            <mat-icon class="chatbot-clickable material-symbols-rounded chat-button" [matMenuTriggerFor]="menu">Database </mat-icon>
+            <mat-menu #menu="matMenu">
+                <button
+                    (click)="toggleDatabase(databases[0].value)" 
+                    mat-menu-item>Curriculum KG
+                </button>
+
+                <button 
+                    (click)="toggleDatabase(databases[1].value)" 
+                    mat-menu-item>Materials Science KG
+                </button>
+                
+                <button 
+                    (click)="toggleDatabase(databases[2].value)"
+                    mat-menu-item>Drugs KG
+                </button>
+            </mat-menu>
+
             <!-- <div class="spacer chat-button"></div> -->
             <div class='chatbot-interaction-title'>
                 <span class='title-test'>
                     GraphLingo
                 </span>
             </div>
+
+            <!-- Invisible button to center the title when the toggle database icon was added -->
+            <mat-icon class="material-symbols-rounded chat-button" style="color:var(--cwru-blue);"
+                >database</mat-icon>
 
             <mat-icon class="chatbot-clickable material-symbols-rounded chat-button"
                 (click)="chatbotService.reset()">refresh</mat-icon>
