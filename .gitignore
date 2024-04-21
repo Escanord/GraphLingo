@@ -9,3 +9,4 @@ session_data/
 node_modules/
 .angular/
 __pycache__/
+graphlingo.*
