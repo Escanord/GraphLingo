@@ -9,6 +9,7 @@ import { EllipsisComponentModule } from "../ellipsis";
 import { ChatComponent } from "./chat.component";
 import { IsCollapsedPipe, IsMaximizedPipe } from "./pipes";
 import {MatMenuModule} from '@angular/material/menu';
+import {MatCheckboxModule} from '@angular/material/checkbox';
 
 const _pipes = [
     IsCollapsedPipe,
@@ -28,7 +29,7 @@ const _angularMaterial = [
         DialogueComponentModule,
         GraphComponentModule,
         EllipsisComponentModule,
-        MatMenuModule
+        MatMenuModule, MatCheckboxModule
     ],
     declarations: [
         ChatComponent,

@@ -251,6 +251,51 @@
     }
 }
 
+.chatbot-current-database {
+    flex-grow: 1;
+    text-align:unset;
+    font-weight: 10;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.current-database {
+    font-size: 1em;
+}
+
+.chatbot-interaction-header-left {
+    filter: drop-shadow(0px 0px 0px rgba(0, 0, 0, 0));
+
+    background-color: var(--cwru-blue);
+    /* border: solid 1px #bbb; */
+    border-radius: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    height: 50px;
+    width: 600px;
+
+    color: white;
+    display: flex;
+    align-items: center;
+    user-select: none;
+}
+
+.chatbot-interaction-header-right {
+
+    background-color: var(--cwru-blue);
+    /* border: solid 1px #bbb; */
+    border-radius: 0px 0px 0px 10px;
+    padding: 0px 0px 0px 0px;
+    height: 50px;
+    width: 600px;
+
+    color: white;
+    display:flex;
+    justify-content:end;
+    align-items: center;
+    user-select: none;
+}
+
 ::ng-deep .mat-accent .mat-slider-track-fill,
 ::ng-deep .mat-slider-thumb,
 ::ng-deep .mat-slider-thumb-label {

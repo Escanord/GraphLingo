@@ -12,46 +12,52 @@
 <ng-template #ChatWindow>
     <div class="chatbot-interaction" [class.cbi-maximized]="chatState | isMaximized">
         <div class='chatbot-interaction-header'>
-            <mat-icon class="chatbot-clickable material-symbols-rounded chat-button"
-                (click)="toggleChatMaximization()">{{(chatState 
-                | isMaximized) ? 'expand_more' : 'expand_less'}}</mat-icon>            
-            <mat-icon class="chatbot-clickable material-symbols-rounded chat-button"
-                (click)="toggleChatSettings()">settings</mat-icon>
 
-            <!-- Toggle Database dropdown -->
-            <mat-icon class="chatbot-clickable material-symbols-rounded chat-button" [matMenuTriggerFor]="menu">Database </mat-icon>
-            <mat-menu #menu="matMenu">
-                <button
-                    (click)="toggleDatabase(databases[0].value)" 
-                    mat-menu-item>Curriculum KG
-                </button>
+            <div class="chatbot-interaction-header-left">
 
-                <button 
-                    (click)="toggleDatabase(databases[1].value)" 
-                    mat-menu-item>Materials Science KG
-                </button>
+                <mat-icon class="chatbot-clickable material-symbols-rounded chat-button"
+                    (click)="toggleChatMaximization()">{{(chatState 
+                    | isMaximized) ? 'expand_more' : 'expand_less'}}</mat-icon>            
+                <mat-icon class="chatbot-clickable material-symbols-rounded chat-button"
+                    (click)="toggleChatSettings()">settings</mat-icon>
+
+                <!-- Toggle Database dropdown -->
+                <mat-icon class="chatbot-clickable material-symbols-rounded chat-button" [matMenuTriggerFor]="menu">Database </mat-icon>
+                <mat-menu #menu="matMenu">
+                    <mat-option mat-menu-item
+                        *ngFor="let database of databases"
+                        (click)="toggleDatabase(database.value)" 
+                        >{{ database.viewValue }}
+                </mat-option>
+                </mat-menu>
+
+                <div class="chatbot-current-database">
+                    <span class="current-databse">
+                        {{ db.viewValue }}
+                    </span>
+                </div>
                 
-                <button 
-                    (click)="toggleDatabase(databases[2].value)"
-                    mat-menu-item>Drugs KG
-                </button>
-            </mat-menu>
+            </div>
 
             <!-- <div class="spacer chat-button"></div> -->
             <div class='chatbot-interaction-title'>
                 <span class='title-test'>
-                    GraphLingo
+                    {{showTitle ? 'GraphLingo' : ''}}
                 </span>
             </div>
 
-            <!-- Invisible button to center the title when the toggle database icon was added -->
-            <mat-icon class="material-symbols-rounded chat-button" style="color:var(--cwru-blue);"
-                >database</mat-icon>
+            <div class="chatbot-interaction-header-right">
+                <!-- Invisible button to center the title when the toggle database icon was added -->
+                <mat-icon class="material-symbols-rounded chat-button" style="color:var(--cwru-blue);"
+                    >database</mat-icon>
 
-            <mat-icon class="chatbot-clickable material-symbols-rounded chat-button"
-                (click)="chatbotService.reset()">refresh</mat-icon>
-            <mat-icon class="chatbot-clickable material-symbols-rounded chat-button"
-                (click)="closeChat()">close</mat-icon>
+                <mat-icon class="chatbot-clickable material-symbols-rounded chat-button"
+                    (click)="chatbotService.reset()">refresh</mat-icon>
+                <mat-icon class="chatbot-clickable material-symbols-rounded chat-button"
+                    (click)="closeChat()">close</mat-icon>
+
+            </div>
+
         </div>
         <div *ngIf="!(settingsState | isCollapsed)" class="explorative-rate">
             <span>Explorative Rate:</span>

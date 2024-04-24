@@ -59,7 +59,8 @@ export class ChatComponent implements OnInit {
       ];
     
     //datbase name to pass onto backend/GraphLingo/views.py
-    private db: string = "neo4j";
+    public db: Database = {value: "neo4j", viewValue: "Default"};
+    public showTitle: boolean = true;
 
     constructor(
         public chatbotService: ChatbotService,
@@ -72,22 +73,32 @@ export class ChatComponent implements OnInit {
 
     public openChat(): void {
         this.chatState = EChatState.Expanded;
+        this.showTitle = false;
     }
 
     public closeChat(): void {
         this.chatState = EChatState.Collapsed;
+        this.showTitle = false;
     }
 
     public expandChat(): void {
         this.chatState = EChatState.Maximized;
+        this.showTitle = true;
     }
 
     public minimizeChat(): void {
         this.chatState = EChatState.Collapsed;
+        this.showTitle = false;
     }
 
     public toggleChatMaximization(): void {
         this.chatState = this.chatState === EChatState.Maximized ? EChatState.Expanded : EChatState.Maximized;
+        if(this.showTitle){
+            this.showTitle = false;
+        }
+        else{
+            this.showTitle = true;
+        }
     }
 
     public toggleChatSettings(): void {
@@ -103,7 +114,7 @@ export class ChatComponent implements OnInit {
             //GPT
             case this.databases[0].value:
                 // 
-                this.db = this.databases[0].value                
+                this.db = this.databases[0]                
                 
 
                 return this.databases[0].viewValue;
@@ -111,20 +122,21 @@ export class ChatComponent implements OnInit {
             //CRUX
             case this.databases[1].value:
                 // 
-                this.db = this.databases[1].value
+                this.db = this.databases[1]
 
                 return this.databases[1].viewValue; 
 
             //Prime
             case this.databases[2].value:
                 // 
-                this.db = this.databases[2].value
+                this.db = this.databases[2]
 
                 return this.databases[2].viewValue; 
 
             default:
-                this.db = "neo4j"
-                return "Default Database"
+                this.db.value = "neo4j"
+                this.db.viewValue = "Default"
+                return this.db.viewValue;
         }
 
         return "Something's wrong";
@@ -136,7 +148,7 @@ export class ChatComponent implements OnInit {
             isFollowup: _isFollowup,
             explorativeRate: this.explorativeRate,
             //toggle database
-            database: this.db
+            database: this.db.value
         };
 
         // Add custom query
